@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "linkedin-job-scraper"
+version = "0.0.1"
+description = "A LinkedIn job scraper for internship opportunities"
+readme = "README.md"
+packages = [
+    { include = "summer_internships_scraper" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.31.0"
+aiohttp = "^3.9.3"
+beautifulsoup4 = "^4.12.0"
+typing-extensions = "^4.9.0"
+
+[tool.poetry.group.dev.dependencies]
+# Optional dependencies
+black = "^25.1.0"
+flake8 = "^7.1.1"
+isort = "^6.0.0"
+mypy = "^1.15.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+scrape = "summer_internships_scraper.scraper:main"
+
+[tool.black]
+line-length = 85
+target-version = ["py39"]
+
+[tool.mypy]
+files = "src"
+ignore_missing_imports = true
+
+[tool.isort]
+profile = "black"
+line_length = 85
