@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (107 offers)
+## Available positions (110 offers)
+
+### Verisk
+- **Position:** 2026 - Summer Internship Program - Full Stack Engineering Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-02-16
+- [Apply here](https://pl.linkedin.com/jobs/view/2026-summer-internship-program-full-stack-engineering-intern-at-verisk-4373598437?position=16&pageNum=0&refId=t21syktBgKDCOoKI6op54Q%3D%3D&trackingId=%2Fh75xC%2BnnQOnMHioKP6tlw%3D%3D)
+
+### LSEG
+- **Position:** Cluj Software Engineering Java Academy Internship
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2026-02-15
+- [Apply here](https://ro.linkedin.com/jobs/view/cluj-software-engineering-java-academy-internship-at-lseg-4372336940?position=11&pageNum=0&refId=ST8awMPae4ggNxTWo18kCA%3D%3D&trackingId=XJmLFvFQLDO5exkULVLN1A%3D%3D)
 
 ### Pegasystems
 - **Position:** Front-end Development Intern (UX Engineering team) - Summer 2026
@@ -137,6 +149,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Oslo, Oslo, Norway
 - **Posted on:** 2026-01-15
 - [Apply here](https://no.linkedin.com/jobs/view/summer-internship-long-range-cloud-norway-at-nordic-semiconductor-4362822350?position=13&pageNum=0&refId=82TNFWudBv2nTrpABcjRrA%3D%3D&trackingId=%2BBMtwE6%2Bc6OKVl52oKF1oQ%3D%3D)
+
+### Nordic Semiconductor
+- **Position:** Summer Internship - Long Range & Cloud - Norway
+- **Location:** Trondheim, Trøndelag, Norway
+- **Posted on:** 2026-01-15
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-long-range-cloud-norway-at-nordic-semiconductor-4362822350?position=11&pageNum=0&refId=Drnfe2pCtdPlWOppsu4Axw%3D%3D&trackingId=dgZzpM8hljLt2jTRGkz2bA%3D%3D)
 
 ### Grammarly
 - **Position:** Software Engineer Intern (Summer 2026)
