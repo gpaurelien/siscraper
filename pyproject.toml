@@ -30,7 +30,7 @@ scrape = "summer_internships_scraper.scraper:main"
 
 [tool.black]
 line-length = 85
-target-version = ["py39"]
+target-version = ["py313"]
 
 [tool.mypy]
 files = "src"

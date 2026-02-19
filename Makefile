@@ -4,3 +4,4 @@ lint:
 
 format:
 	black summer_internships_scraper/
+	isort summer_internships_scraper/
