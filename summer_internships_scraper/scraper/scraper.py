@@ -1,4 +1,3 @@
-import asyncio
 import logging
 import typing as t
 
@@ -7,10 +6,8 @@ from bs4 import BeautifulSoup
 from bs4.element import Tag
 
 from summer_internships_scraper.models.offers import JobOffer
-from summer_internships_scraper.repository.jobs import JobRepository
-from summer_internships_scraper.utils import HEADERS, HOST, LOCATIONS
+from summer_internships_scraper.utils import HEADERS
 from summer_internships_scraper.utils.exceptions import ParsingError, ScrapingError
-from summer_internships_scraper.utils.markdown_export import export_to_markdown
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
@@ -25,21 +22,24 @@ class LinkedInScraper:
 
     async def fetch_jobs(
         self,
-        geo_id: str,
-        keywords: str = "Summer 2026",  # TODO: make this dynamic by letting the user input whatever he wants
+        location: t.Tuple[str, str],
+        keywords: str = "Summer 2026",  # TODO: make this dynamic by letting the user input whatever he wants  # noqa: E501
         session: aiohttp.ClientSession = None,
     ) -> t.Optional[t.List[JobOffer]]:
         """
         Retrieves jobs, parses them, and returns a list containing offers.
 
-        :param geo_id: The location ID used by LinkedIn (stored internally)
-        :param keywords: Keywords needed for the research
+        :param location: A tuple containing the location ID and country name used by LinkedIn (e.g. ("100364837", "Portugal"))  # noqa: E501
+        :param keywords: Keywords needed for the job search
         """
-        if not isinstance(geo_id, str) or not isinstance(keywords, str):
-            raise TypeError("'geo_id' and 'keywords' have to be str")
+        geo_id, country = location
+        print("Here are ID and country name", geo_id, country)
+        if not all(isinstance(x, str) for x in (geo_id, country, keywords)):
+            raise TypeError("'location' and 'keywords' have to be str")
 
         self.logger.info(
-            "Fetching jobs at %s with following pattern: '%s'" % (geo_id, keywords)
+            "Fetching jobs at %s with following pattern: '%s'"
+            % (location[1], keywords)
         )
 
         keywords = self._format_keywords(keywords)
@@ -141,13 +141,16 @@ class LinkedInScraper:
         title = card.find("h3", class_="base-search-card__title")
         if not title:
             return False
-            
+
         title_text = title.text.strip().lower()
 
         pos = ("intern", "apprentice", "internship")
         if any(p in title_text for p in pos) and any(
             keyword in title_text for keyword in included_keywords
         ):
-            return True
+            if any(role in title_text for role in excluded_keywords):
+                return False
         else:
             return False
+
+        return True

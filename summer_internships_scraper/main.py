@@ -2,11 +2,11 @@ import asyncio
 import logging
 
 import aiohttp
-from summer_internships_scraper.scraper.scraper import LinkedInScraper
-from summer_internships_scraper.repository.jobs import JobRepository
-from summer_internships_scraper.utils.constants import LOCATIONS, HOST
-from summer_internships_scraper.utils.markdown_export import export_to_markdown
 
+from summer_internships_scraper.repository.jobs import JobRepository
+from summer_internships_scraper.scraper.scraper import LinkedInScraper
+from summer_internships_scraper.utils.constants import HOST, LOCATIONS
+from summer_internships_scraper.utils.markdown_export import export_to_markdown
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
@@ -22,7 +22,7 @@ async def main():
             logger.info(f"Fetching jobs for {location}")
             tasks.append(
                 scraper.fetch_jobs(
-                    geo_id=geo_id, keywords="Summer 2026", session=session
+                    location=(geo_id, location), keywords="Summer 2026", session=session
                 )
             )
 
