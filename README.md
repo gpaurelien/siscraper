@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (110 offers)
+## Available positions (111 offers)
+
+### fme Romania
+- **Position:** Software Development Internship - Summer 2026
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2026-02-19
+- [Apply here](https://ro.linkedin.com/jobs/view/software-development-internship-summer-2026-at-fme-romania-4375186643?position=1&pageNum=0&refId=JrQJvmV0A7IkesPhQOSitw%3D%3D&trackingId=FXeo9qelw5gM0SPqcBJzUw%3D%3D)
 
 ### Verisk
 - **Position:** 2026 - Summer Internship Program - Full Stack Engineering Intern
