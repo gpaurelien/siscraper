@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (111 offers)
+## Available positions (112 offers)
+
+### Undelucram.ro
+- **Position:** Software Development Internship - Summer 2026 - Cluj-Napoca
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2026-02-21
+- [Apply here](https://ro.linkedin.com/jobs/view/software-development-internship-summer-2026-cluj-napoca-at-undelucram-ro-4374674227?position=3&pageNum=0&refId=ILTY5id50lJYMLXj4TEeIA%3D%3D&trackingId=%2BQIhHptYOZRqzQVyfu2rqw%3D%3D)
 
 ### fme Romania
 - **Position:** Software Development Internship - Summer 2026
