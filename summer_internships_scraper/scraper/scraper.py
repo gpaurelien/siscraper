@@ -60,13 +60,13 @@ class LinkedInScraper:
             filtered, total = 0, len(cards)
 
         for card in cards:
-            selected, level = self._filter_cards(cards)
+            selected, full_time = self._filter_cards(card)
             if not selected:
                 filtered += 1
                 continue
 
             try:
-                job = self._parse_job_card(card)
+                job = self._parse_job_card(card, full_time)
                 jobs.append(job)
             except Exception as err:
                 raise ParsingError("Error while parsing job card") from err
@@ -81,7 +81,7 @@ class LinkedInScraper:
     def _format_keywords(self, keywords: str) -> str:
         return keywords.replace(" ", "%20")
 
-    def _parse_job_card(self, card: Tag, level: bool) -> JobOffer:
+    def _parse_job_card(self, card: Tag, full_time: bool) -> JobOffer:
         """Extracts information from a job card"""
         title = card.find("h3", class_="base-search-card__title").text.strip()
         name = card.find("h4", class_="base-search-card__subtitle").text.strip()
@@ -98,10 +98,10 @@ class LinkedInScraper:
             url=url,
             posted_date=posted_date,
             description=None,  # TODO: retrieve dev-related keywords in description
-            full_time=level,
+            full_time=full_time,
         )
 
-    def _filter_cards(self, card: Tag) -> [bool, str]:
+    def _filter_cards(self, card: Tag) -> t.Tuple[bool, bool]:
         """
         Filter job cards for entry-level development roles based on the title.
         The title must:
@@ -156,7 +156,7 @@ class LinkedInScraper:
 
         title = card.find("h3", class_="base-search-card__title")
         if not title:
-            return False
+            return False, False
 
         title_text = title.text.strip().lower()
 
@@ -172,15 +172,17 @@ class LinkedInScraper:
         )
 
         if not any(p in title_text for p in entry_level_keywords):
-            return False
+            return False, False
 
         if not any(keyword in title_text for keyword in included_keywords):
-            return False
+            return False, False
 
         if any(role in title_text for role in excluded_keywords):
-            return False
+            return False, False
 
         if any(level in title_text for level in senior_keywords):
-            return False
+            return False, False
 
-        return True, not any(x in title_text for x in ("intern", "internship"))
+        # full_time == True when it's not explicitly an internship
+        is_full_time = not any(x in title_text for x in ("intern", "internship"))
+        return True, is_full_time

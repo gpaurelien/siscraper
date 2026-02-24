@@ -11,8 +11,8 @@ class JobOffer:
     location: Optional[str]
     posted_date: Optional[datetime]
     url: str
-    description: Optional[str] = None
     full_time: bool
+    description: Optional[str] = None
 
     def to(self):
         return {k: v for k, v in self.__dict__.items()}
