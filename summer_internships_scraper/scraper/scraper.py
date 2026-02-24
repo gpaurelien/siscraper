@@ -29,17 +29,15 @@ class LinkedInScraper:
         """
         Retrieves jobs, parses them, and returns a list containing offers.
 
-        :param location: A tuple containing the location ID and country name used by LinkedIn (e.g. ("100364837", "Portugal"))  # noqa: E501
+        :param location: A tuple containing the location ID and country name used by LinkedIn  # noqa: E501
         :param keywords: Keywords needed for the job search
         """
         geo_id, country = location
-        print("Here are ID and country name", geo_id, country)
         if not all(isinstance(x, str) for x in (geo_id, country, keywords)):
             raise TypeError("'location' and 'keywords' have to be str")
 
         self.logger.info(
-            "Fetching jobs at %s with following pattern: '%s'"
-            % (location[1], keywords)
+            "Fetching jobs at %s with following pattern: '%s'" % (country, keywords)
         )
 
         keywords = self._format_keywords(keywords)
@@ -62,7 +60,8 @@ class LinkedInScraper:
             filtered, total = 0, len(cards)
 
         for card in cards:
-            if not self._filter_cards(card):
+            selected, level = self._filter_cards(cards)
+            if not selected:
                 filtered += 1
                 continue
 
@@ -82,7 +81,7 @@ class LinkedInScraper:
     def _format_keywords(self, keywords: str) -> str:
         return keywords.replace(" ", "%20")
 
-    def _parse_job_card(self, card: Tag) -> JobOffer:
+    def _parse_job_card(self, card: Tag, level: bool) -> JobOffer:
         """Extracts information from a job card"""
         title = card.find("h3", class_="base-search-card__title").text.strip()
         name = card.find("h4", class_="base-search-card__subtitle").text.strip()
@@ -99,12 +98,16 @@ class LinkedInScraper:
             url=url,
             posted_date=posted_date,
             description=None,  # TODO: retrieve dev-related keywords in description
+            full_time=level,
         )
 
-    def _filter_cards(self, card: Tag) -> bool:
+    def _filter_cards(self, card: Tag) -> [bool, str]:
         """
-        Filter job cards based on development-related keywords in the title.
-        Must contain 'intern' and at least one tech-related keyword.
+        Filter job cards for entry-level development roles based on the title.
+        The title must:
+        - contain at least one entry-level keyword (intern, junior, etc.)
+        - contain at least one tech-related keyword
+        - not contain excluded or non-dev keywords
         Returns `True` if the card should be kept, `False` otherwise.
         """
         included_keywords = {
@@ -117,6 +120,19 @@ class LinkedInScraper:
             "software",
             "developer",
             "engineer",
+        }
+
+        senior_keywords = {
+            "senior",
+            "sr ",
+            "staff",
+            "principal",
+            "lead",
+            "manager",
+            "head",
+            "intermediate",
+            "mid",
+            "mid-level",
         }
 
         excluded_keywords = {
@@ -144,13 +160,27 @@ class LinkedInScraper:
 
         title_text = title.text.strip().lower()
 
-        pos = ("intern", "apprentice", "internship")
-        if any(p in title_text for p in pos) and any(
-            keyword in title_text for keyword in included_keywords
-        ):
-            if any(role in title_text for role in excluded_keywords):
-                return False
-        else:
+        entry_level_keywords = (
+            "intern",
+            "apprentice",
+            "internship",
+            "junior",
+            "entry level",
+            "graduate",
+            "new grad",
+            "early career",
+        )
+
+        if not any(p in title_text for p in entry_level_keywords):
             return False
 
-        return True
+        if not any(keyword in title_text for keyword in included_keywords):
+            return False
+
+        if any(role in title_text for role in excluded_keywords):
+            return False
+
+        if any(level in title_text for level in senior_keywords):
+            return False
+
+        return True, not any(x in title_text for x in ("intern", "internship"))

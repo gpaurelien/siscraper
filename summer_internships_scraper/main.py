@@ -22,7 +22,9 @@ async def main():
             logger.info(f"Fetching jobs for {location}")
             tasks.append(
                 scraper.fetch_jobs(
-                    location=(geo_id, location), keywords="Summer 2026", session=session
+                    location=(geo_id, location),
+                    keywords="Summer 2026",
+                    session=session,
                 )
             )
 

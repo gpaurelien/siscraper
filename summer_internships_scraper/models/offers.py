@@ -12,6 +12,7 @@ class JobOffer:
     posted_date: Optional[datetime]
     url: str
     description: Optional[str] = None
+    full_time: bool
 
     def to(self):
         return {k: v for k, v in self.__dict__.items()}
