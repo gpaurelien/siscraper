@@ -1,10 +1,14 @@
-# Summer 2026 internship opportunities
+# Summer 2026 opportunities
 
 This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (112 offers)
+Total: 117 offers  
+- Internships / entry-level: 112  
+- Full-time: 5
+
+## Internships & entry-level positions (112 offers)
 
 ### Undelucram.ro
 - **Position:** Software Development Internship - Summer 2026 - Cluj-Napoca
@@ -677,4 +681,37 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Oslo, Norway
 - **Posted on:** 2025-08-18
 - [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-data-analytics%21-at-bearingpoint-4287343361?position=24&pageNum=0&refId=SicOo%2F5YG4J5j7QDRLkSXQ%3D%3D&trackingId=kqjJ2vv%2BZvXDd3%2FVDL0Vhg%3D%3D)
+
+
+## Full-time positions (5 offers)
+
+### SpaceX
+- **Position:** Summer 2026 Graduate Engineer
+- **Location:** Any-Martin-Rieux, Hauts-de-France, France
+- **Posted on:** 2026-02-20
+- [Apply here](https://fr.linkedin.com/jobs/view/summer-2026-graduate-engineer-at-spacex-4294667516?position=26&pageNum=0&refId=26IO663yDGkiqbRJEVCwWg%3D%3D&trackingId=C4tAM8l546v6Nlqi%2BiP%2F6w%3D%3D)
+
+### Stripe
+- **Position:** Software Engineer, New Grad
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2026-02-18
+- [Apply here](https://es.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294957463?position=7&pageNum=0&refId=BCsiEnm6q1%2BjI7yjCgHPmg%3D%3D&trackingId=q2l2S%2Bgzfr8QcltfbfwHgA%3D%3D)
+
+### Databricks
+- **Position:** Software Engineer - New Grad (2026 Start)
+- **Location:** Berlin, Berlin, Germany
+- **Posted on:** 2026-02-08
+- [Apply here](https://de.linkedin.com/jobs/view/software-engineer-new-grad-2026-start-at-databricks-4297749056?position=17&pageNum=0&refId=xV4CsTBcYJ75YBLXiRoBuw%3D%3D&trackingId=qystC9%2B%2FbEja%2FMJRFV0EsQ%3D%3D)
+
+### Databricks
+- **Position:** Software Engineer - New Grad (2026 Start) - Aarhus
+- **Location:** Aarhus, Central Denmark Region, Denmark
+- **Posted on:** 2026-02-08
+- [Apply here](https://dk.linkedin.com/jobs/view/software-engineer-new-grad-2026-start-aarhus-at-databricks-4297744052?position=9&pageNum=0&refId=6InbyQzX5gmlrCiT73ymCQ%3D%3D&trackingId=nkqrzXUSd0H%2F%2FOLHYYzQQw%3D%3D)
+
+### Whatnot
+- **Position:** 2026 Software Engineer New Grad
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-02-06
+- [Apply here](https://pl.linkedin.com/jobs/view/2026-software-engineer-new-grad-at-whatnot-4369815396?position=24&pageNum=0&refId=hKcz5MUZbkO%2BpVTZ3NOs%2BQ%3D%3D&trackingId=aHxZDLC4Z8gANUNI2mgUiA%3D%3D)
 
