@@ -1,13 +1,19 @@
+import asyncio
 import logging
 import typing as t
 
 import aiohttp
 from bs4 import BeautifulSoup
 from bs4.element import Tag
+from tenacity import retry, retry_if_exception, wait_exponential
 
 from summer_internships_scraper.models.offers import JobOffer
 from summer_internships_scraper.utils import HEADERS
-from summer_internships_scraper.utils.exceptions import ParsingError, ScrapingError
+from summer_internships_scraper.utils.exceptions import (
+    ParsingError,
+    RateLimitError,
+    ScrapingError,
+)
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
@@ -20,10 +26,15 @@ class LinkedInScraper:
         self.host = host
         self.logger = logger
 
+    @retry(
+        retry=retry_if_exception(lambda e: isinstance(e, RateLimitError)),
+        wait=wait_exponential(multiplier=1, min=2, max=60),
+    )
     async def fetch_jobs(
         self,
         location: t.Tuple[str, str],
-        keywords: str = "Summer 2026",  # TODO: make this dynamic by letting the user input whatever he wants  # noqa: E501
+        keywords: str,  # TODO: make this dynamic by letting the user input whatever he wants  # noqa: E501
+        full_time: bool,
         session: aiohttp.ClientSession = None,
     ) -> t.Optional[t.List[JobOffer]]:
         """
@@ -49,6 +60,11 @@ class LinkedInScraper:
             allow_redirects=True,
             timeout=aiohttp.ClientTimeout(total=30),
         ) as response:
+            if response.status == 429:
+                retry_after = response.headers.get("Retry-After", 5)
+                await asyncio.sleep(int(retry_after))
+                raise RateLimitError(f"Rate limited on {url}")
+
             if response.status != 200:
                 raise ScrapingError(f"Error while requesting {url}")
 
@@ -60,7 +76,7 @@ class LinkedInScraper:
             filtered, total = 0, len(cards)
 
         for card in cards:
-            selected, full_time = self._filter_cards(card)
+            selected = self._filter_cards(card, full_time)
             if not selected:
                 filtered += 1
                 continue
@@ -101,26 +117,14 @@ class LinkedInScraper:
             full_time=full_time,
         )
 
-    def _filter_cards(self, card: Tag) -> t.Tuple[bool, bool]:
+    def _filter_cards(self, card: Tag, full_time) -> bool:
         """
-        Filter job cards for entry-level development roles based on the title.
-        The title must:
-        - contain at least one entry-level keyword (intern, junior, etc.)
-        - contain at least one tech-related keyword
-        - not contain excluded or non-dev keywords
-        Returns `True` if the card should be kept, `False` otherwise.
+        Filter card according to whether it is an internship or a full-time job
         """
-        included_keywords = {
-            "backend",
-            "cloud",
-            "devops",
-            "engineering",
-            "platform",
-            "site reliability",
-            "software",
-            "developer",
-            "engineer",
-        }
+        title = card.find("h3", class_="base-search-card__title")
+        if not title:
+            return False
+        title_text = title.text.strip().lower()
 
         senior_keywords = {
             "senior",
@@ -154,35 +158,26 @@ class LinkedInScraper:
             "operations",
         }
 
-        title = card.find("h3", class_="base-search-card__title")
-        if not title:
-            return False, False
+        included_keywords = {
+            "backend",
+            "cloud",
+            "devops",
+            "engineering",
+            "platform engineer",
+            "infrastructure engineer",
+            "systems",
+            "site reliability",
+            "software",
+            "developer",
+        }
 
-        title_text = title.text.strip().lower()
+        # Must double check the job title.
+        # It ensures that only expected jobs are added to the list.
+        if (
+            not any(level in title_text for level in senior_keywords)
+            and not any(k in title_text for k in excluded_keywords)
+            and any(k in title_text for k in included_keywords)
+        ):
+            return True
 
-        entry_level_keywords = (
-            "intern",
-            "apprentice",
-            "internship",
-            "junior",
-            "entry level",
-            "graduate",
-            "new grad",
-            "early career",
-        )
-
-        if not any(p in title_text for p in entry_level_keywords):
-            return False, False
-
-        if not any(keyword in title_text for keyword in included_keywords):
-            return False, False
-
-        if any(role in title_text for role in excluded_keywords):
-            return False, False
-
-        if any(level in title_text for level in senior_keywords):
-            return False, False
-
-        # full_time == True when it's not explicitly an internship
-        is_full_time = not any(x in title_text for x in ("intern", "internship"))
-        return True, is_full_time
+        return False

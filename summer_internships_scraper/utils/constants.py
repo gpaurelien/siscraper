@@ -3,14 +3,11 @@ LOCATIONS = {
     "Spain": "105646813",
     "Italy": "103350119",
     "Poland": "105072130",
-    "Romania": "106670623",
     "Bulgaria": "105333783",
-    "Deutschland": "101282230",
     "Sweden": "105117694",
     "Danemark": "104514075",
     "Norway": "103819153",
     "France": "105015875",
-    "Czech Republic": "104508036",
 }
 
 HOST = "https://www.linkedin.com/jobs/search"
@@ -26,4 +23,14 @@ HEADERS = {
     "Sec-Fetch-Mode": "navigate",
     "Sec-Fetch-Site": "none",
     "Sec-Fetch-User": "?1",
+}
+
+ROLES = {
+    "Summer 2026",
+    "Platform",
+    "Cloud",
+    "DevOps",
+    "Infrastructure",
+    "Systems",
+    "Site Reliability",
 }

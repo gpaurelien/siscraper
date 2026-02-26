@@ -5,7 +5,7 @@ import aiohttp
 
 from summer_internships_scraper.repository.jobs import JobRepository
 from summer_internships_scraper.scraper.scraper import LinkedInScraper
-from summer_internships_scraper.utils.constants import HOST, LOCATIONS
+from summer_internships_scraper.utils.constants import HOST, LOCATIONS, ROLES
 from summer_internships_scraper.utils.markdown_export import export_to_markdown
 
 logging.basicConfig(level=logging.DEBUG)
@@ -19,14 +19,16 @@ async def main():
     async with aiohttp.ClientSession() as session:
         tasks = []
         for location, geo_id in LOCATIONS.items():
-            logger.info(f"Fetching jobs for {location}")
-            tasks.append(
-                scraper.fetch_jobs(
-                    location=(geo_id, location),
-                    keywords="Summer 2026",
-                    session=session,
+            for role in ROLES:
+                logger.info(f"Fetching jobs for {location}")
+                tasks.append(
+                    scraper.fetch_jobs(
+                        location=(geo_id, location),
+                        keywords=role,
+                        session=session,
+                        full_time=False if role == "Summer 2026" else True,
+                    )
                 )
-            )
 
         results = await asyncio.gather(*tasks)
 

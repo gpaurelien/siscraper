@@ -4,3 +4,7 @@ class ParsingError(Exception):
 
 class ScrapingError(Exception):
     pass
+
+
+class RateLimitError(Exception):
+    pass
