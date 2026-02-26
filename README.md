@@ -4,11 +4,29 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 117 offers  
-- Internships / entry-level: 112  
+Total: 120 offers  
+- Internships / entry-level: 115  
 - Full-time: 5
 
-## Internships & entry-level positions (112 offers)
+## Internships & entry-level positions (115 offers)
+
+### Boeing
+- **Position:** ENGINEERING SUMMER INTERNSHIP 2026
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-02-25
+- [Apply here](https://pl.linkedin.com/jobs/view/engineering-summer-internship-2026-at-boeing-4374899059?position=24&pageNum=0&refId=EJ63m4BLUjOwFofiSrW45g%3D%3D&trackingId=BWnCxqPCBxjBlOtUWZ5JOw%3D%3D)
+
+### Boeing
+- **Position:** ENGINEERING SUMMER INTERNSHIP 2026
+- **Location:** Gdansk Metropolitan Area
+- **Posted on:** 2026-02-25
+- [Apply here](https://pl.linkedin.com/jobs/view/engineering-summer-internship-2026-at-boeing-4374896098?position=25&pageNum=0&refId=EJ63m4BLUjOwFofiSrW45g%3D%3D&trackingId=Dwac4aSfblMlsXQH9Ey%2F7A%3D%3D)
+
+### Boeing
+- **Position:** ENGINEERING SUMMER INTERNSHIP 2026
+- **Location:** Rzeszów, Podkarpackie, Poland
+- **Posted on:** 2026-02-25
+- [Apply here](https://pl.linkedin.com/jobs/view/engineering-summer-internship-2026-at-boeing-4375202035?position=32&pageNum=0&refId=EJ63m4BLUjOwFofiSrW45g%3D%3D&trackingId=wIR7xdly0nuVBhjw98x91w%3D%3D)
 
 ### Undelucram.ro
 - **Position:** Software Development Internship - Summer 2026 - Cluj-Napoca
