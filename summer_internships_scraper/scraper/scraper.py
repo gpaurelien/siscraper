@@ -20,8 +20,6 @@ logger = logging.getLogger(__name__)
 
 
 class LinkedInScraper:
-    """Entry point for job offers scraper."""
-
     def __init__(self, host: str, logger: logging.Logger = logger) -> None:
         self.host = host
         self.logger = logger
@@ -61,12 +59,13 @@ class LinkedInScraper:
             timeout=aiohttp.ClientTimeout(total=30),
         ) as response:
             if response.status == 429:
-                retry_after = response.headers.get("Retry-After", 5)
-                await asyncio.sleep(int(retry_after))
-                raise RateLimitError(f"Rate limited on {url}")
+                await asyncio.sleep(5)
+                raise RateLimitError(
+                    f"Got rate limited on {url}, will try again in a few moments"
+                )
 
             if response.status != 200:
-                raise ScrapingError(f"Error while requesting {url}")
+                raise ScrapingError(f"Error while requesting: {url}")
 
             content = await response.text(encoding="utf-8")
             soup = BeautifulSoup(content, "html.parser")
@@ -99,9 +98,14 @@ class LinkedInScraper:
 
     def _parse_job_card(self, card: Tag, full_time: bool) -> JobOffer:
         """Extracts information from a job card"""
-        title = card.find("h3", class_="base-search-card__title").text.strip()
+        title = (
+            card.find("h3", class_="base-search-card__title").text.strip() or None
+        )
         name = card.find("h4", class_="base-search-card__subtitle").text.strip()
-        location = card.find("span", class_="job-search-card__location").text.strip()
+        location = (
+            card.find("span", class_="job-search-card__location").text.strip()
+            or None
+        )
         link = card.find("a", class_="base-card__full-link")
         url = link.get("href") if link else None
         datetime_element = card.find("time")
@@ -128,7 +132,7 @@ class LinkedInScraper:
 
         senior_keywords = {
             "senior",
-            "sr ",
+            "sr",
             "staff",
             "principal",
             "lead",
@@ -156,6 +160,11 @@ class LinkedInScraper:
             "product manager",
             "project manager",
             "operations",
+            "director",
+            "commercial",
+            "president",
+            "consultant",
+            "administrator",
         }
 
         included_keywords = {
