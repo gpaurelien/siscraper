@@ -41,9 +41,8 @@ async def main():
                     f"Added {new_jobs} new jobs. Total jobs in storage: {total_jobs}"
                 )
 
-    all_jobs = repo.get_all_jobs()
     repo.purge_outdated_jobs(60)
-    export_to_markdown(all_jobs)
+    export_to_markdown(repo.get_all_jobs())
     logger.info(f"Generated markdown file with {len(all_jobs)} jobs")
 
 
