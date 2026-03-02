@@ -100,7 +100,7 @@ class JobRepository:
                     ts = None
 
             if ts is not None and ts < cutoff:
-                self.logger.info(f"Deleting {job.title}, with ID: {job_hash}")
+                self.logger.info(f"Deleting {job["title"]}, with ID: {job_hash}")
                 removed += 1
                 continue
 
