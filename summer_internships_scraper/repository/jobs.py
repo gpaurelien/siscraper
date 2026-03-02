@@ -62,3 +62,51 @@ class JobRepository:
                 recent_jobs.append(job)
 
         return recent_jobs
+
+    def purge_outdated_jobs(self, max_age_days: int) -> int:
+        """
+        Remove jobs that are considered outdated from storage.
+
+        A job is outdated if:
+        - its ``posted_date`` (if present and parseable) is older than ``max_age_days``, or
+        - otherwise, its ``first_seen`` is older than ``max_age_days``.
+        """
+        if max_age_days <= 0:
+            return 0
+
+        storage = self._load_jobs()
+        if not storage:
+            return 0
+
+        cutoff = datetime.now().timestamp() - (max_age_days * 24 * 60 * 60)
+
+        kept: dict = {}
+        removed = 0
+
+        for job_hash, job in storage.items():
+            ts: float | None = None
+
+            posted_date = job.get("posted_date")
+            if isinstance(posted_date, str):
+                try:
+                    ts = datetime.fromisoformat(posted_date).timestamp()
+                except ValueError:
+                    ts = None
+
+            if ts is None:
+                try:
+                    ts = datetime.fromisoformat(job["first_seen"]).timestamp()
+                except Exception:
+                    ts = None
+
+            if ts is not None and ts < cutoff:
+                self.logger.info(f"Deleting {job.title}, with ID: {job_hash}")
+                removed += 1
+                continue
+
+            kept[job_hash] = job
+
+        if removed:
+            self._save_jobs(kept)
+
+        return removed
