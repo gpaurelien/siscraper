@@ -180,6 +180,11 @@ class LinkedInScraper:
             "developer",
         }
 
+        if full_time is False and not any(
+            x in title_text for x in ("intern", "internship")
+        ):
+            return False
+
         # Must double check the job title.
         # It ensures that only expected jobs are added to the list.
         if (
