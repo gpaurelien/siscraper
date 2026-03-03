@@ -42,8 +42,9 @@ async def main():
                 )
 
     repo.purge_outdated_jobs(60)
-    export_to_markdown(repo.get_all_jobs())
-    logger.info(f"Generated markdown file with {len(all_jobs)} jobs")
+    jobs = repo.get_all_jobs()
+    export_to_markdown(jobs)
+    logger.info(f"Generated markdown file with {len(jobs)} jobs")
 
 
 if __name__ == "__main__":

@@ -25,10 +25,10 @@ This list gets updated daily.
 Posted on refers to the date when the offer was posted on LinkedIn.
 
 Total: {total_offers} offers  
-- Internships / entry-level: {total_internships}  
+- Internships: {total_internships}  
 - Full-time: {total_full_time}
 
-## Internships & entry-level positions ({total_internships} offers)
+## Internships ({total_internships} offers)
 
 """
 

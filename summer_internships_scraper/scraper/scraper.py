@@ -165,13 +165,13 @@ class LinkedInScraper:
             "president",
             "consultant",
             "administrator",
+            "head",
         }
 
         included_keywords = {
             "backend",
             "cloud",
             "devops",
-            "engineering",
             "platform engineer",
             "infrastructure engineer",
             "systems",
