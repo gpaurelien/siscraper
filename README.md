@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 828 offers  
-- Internships: 51  
-- Full-time: 777
+Total: 852 offers  
+- Internships: 52  
+- Full-time: 800
 
-## Internships (51 offers)
+## Internships (52 offers)
+
+### Relativity
+- **Position:** Software Engineering Intern
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-03-04
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-at-relativity-4380555919?position=6&pageNum=0&refId=n7wG7qARwKVec%2FS%2Bf53sEg%3D%3D&trackingId=WCKIPfIjzaYV5tCcO3vrSQ%3D%3D)
 
 ### ActiveCampaign
 - **Position:** Summer 2026 Software Engineering Internship
@@ -317,7 +323,25 @@ Total: 828 offers
 - [Apply here](https://pl.linkedin.com/jobs/view/data-science-intern-at-visa-4330728578?position=1&pageNum=0&refId=nNZbOwl%2FFHzomnBajaHSuQ%3D%3D&trackingId=gxogY2rrCQSUfzqjU73Dsg%3D%3D)
 
 
-## Full-time positions (777 offers)
+## Full-time positions (800 offers)
+
+### TLScontact
+- **Position:** Platform Engineer
+- **Location:** Portugal
+- **Posted on:** 2026-03-04
+- [Apply here](https://pt.linkedin.com/jobs/view/platform-engineer-at-tlscontact-4380781726?position=15&pageNum=0&refId=t3NIhSKHG%2FtVfM5AxdaZGQ%3D%3D&trackingId=KoCZiwGK2oHqGBag5f7sGA%3D%3D)
+
+### IRIUM
+- **Position:** INGENIERO/A DEVOPS DE AUTOMATIZACIÓN (REMOTO)
+- **Location:** Spain
+- **Posted on:** 2026-03-04
+- [Apply here](https://es.linkedin.com/jobs/view/ingeniero-a-devops-de-automatizaci%C3%B3n-remoto-at-irium-4380713882?position=54&pageNum=0&refId=Q13tKeBA35eOHP0zSKNlLA%3D%3D&trackingId=D%2BtccmIDx2Q2JEuvEhOmvg%3D%3D)
+
+### Leonar
+- **Position:** Responsable Infrastructure & Cloud  (H/F) -
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-03-04
+- [Apply here](https://fr.linkedin.com/jobs/view/responsable-infrastructure-cloud-h-f-at-leonar-4379622700?position=30&pageNum=0&refId=GazznAakS5m3F9E7MhQ14w%3D%3D&trackingId=SweDpt%2Bi4OozWNxUEFFQiA%3D%3D)
 
 ### Hexa Consulting
 - **Position:** Google Cloud Platform Architect
@@ -486,6 +510,84 @@ Total: 828 offers
 - **Location:** France
 - **Posted on:** 2026-03-03
 - [Apply here](https://fr.linkedin.com/jobs/view/remote-devops-engineer-at-jobgether-4380104476?position=32&pageNum=0&refId=bvoWwbF5AktFEM%2BA0W2h3A%3D%3D&trackingId=Uv9P8e11gSuubd87R23ZCQ%3D%3D)
+
+### TheWhiteam
+- **Position:** DevOps freelance para instalación y configuración de Sonatype Nexus Repository (Presencial España/Remoto)
+- **Location:** Spain
+- **Posted on:** 2026-03-03
+- [Apply here](https://es.linkedin.com/jobs/view/devops-freelance-para-instalaci%C3%B3n-y-configuraci%C3%B3n-de-sonatype-nexus-repository-presencial-espa%C3%B1a-remoto-at-thewhiteam-4379427842?position=15&pageNum=0&refId=Q13tKeBA35eOHP0zSKNlLA%3D%3D&trackingId=3uZcxYdajkutfDvpqHORKA%3D%3D)
+
+### Ayesa
+- **Position:** DevOps Engineer
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-03-03
+- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-at-ayesa-4378181626?position=41&pageNum=0&refId=Q13tKeBA35eOHP0zSKNlLA%3D%3D&trackingId=XZE%2FdQORjVmTfkodgPR4Bg%3D%3D)
+
+### Technip Energies
+- **Position:** Construction Systems Engineer - Internship
+- **Location:** Rome, Latium, Italy
+- **Posted on:** 2026-03-03
+- [Apply here](https://it.linkedin.com/jobs/view/construction-systems-engineer-internship-at-technip-energies-4379444174?position=39&pageNum=0&refId=BJUrZM43DfFzpMnxBnyBwA%3D%3D&trackingId=VSqzdfWxwgxnBq9siNgfKg%3D%3D)
+
+### Cosmico
+- **Position:** DevOps Engineer
+- **Location:** Greater Milan Metropolitan Area
+- **Posted on:** 2026-03-03
+- [Apply here](https://it.linkedin.com/jobs/view/devops-engineer-at-cosmico-4380338797?position=27&pageNum=0&refId=wyrQ1eMBYN3RIq0flsanVA%3D%3D&trackingId=AVDU3O4XbTNc3grbj4iI%2Bg%3D%3D)
+
+### eGlue
+- **Position:** DevOps Engineer (40.000-45.000€ RAL)
+- **Location:** Greater Bologna Metropolitan Area
+- **Posted on:** 2026-03-03
+- [Apply here](https://it.linkedin.com/jobs/view/devops-engineer-40-000-45-000%E2%82%AC-ral-at-eglue-4373940526?position=49&pageNum=0&refId=wyrQ1eMBYN3RIq0flsanVA%3D%3D&trackingId=6vAaiGctCsIIwcgNP%2FFsNQ%3D%3D)
+
+### Codeway SA
+- **Position:** Datacenter & Cloud Infrastructure
+- **Location:** Sesto San Giovanni, Lombardy, Italy
+- **Posted on:** 2026-03-03
+- [Apply here](https://it.linkedin.com/jobs/view/datacenter-cloud-infrastructure-at-codeway-sa-4380361235?position=60&pageNum=0&refId=b0tcWzNo%2FRPadRuhWxrayA%3D%3D&trackingId=NU17mvoWsS91qCgOhFZhFw%3D%3D)
+
+### Ness Solution
+- **Position:** Dell Infrastructure Engineer
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-03-03
+- [Apply here](https://pl.linkedin.com/jobs/view/dell-infrastructure-engineer-at-ness-solution-4380304655?position=57&pageNum=0&refId=REVsmEOsFNwHFO2oKHTVeg%3D%3D&trackingId=NFeOmP3eCvO2ckckVgCYUA%3D%3D)
+
+### SEB
+- **Position:** Site Reliability Engineer – Data & Analytics Infrastructure| SEB, Solna
+- **Location:** Solna, Stockholm County, Sweden
+- **Posted on:** 2026-03-03
+- [Apply here](https://se.linkedin.com/jobs/view/site-reliability-engineer-%E2%80%93-data-analytics-infrastructure-seb-solna-at-seb-4380361286?position=21&pageNum=0&refId=joWUsjOWhDxGB1fZotRnQw%3D%3D&trackingId=hn%2FSqP8mPi7MrkINIGZAag%3D%3D)
+
+### ContextClone
+- **Position:** Experienced Systems Developer – AI Platform
+- **Location:** Greater Stockholm Metropolitan Area
+- **Posted on:** 2026-03-03
+- [Apply here](https://se.linkedin.com/jobs/view/experienced-systems-developer-%E2%80%93-ai-platform-at-contextclone-4378180934?position=12&pageNum=0&refId=7Wx69yGp2KDyhRBoakeI%2Fg%3D%3D&trackingId=TL4ZI3vonaHlXg6XF502tA%3D%3D)
+
+### Claviate
+- **Position:** Embedded Software Engineer / System Developer
+- **Location:** Aarhus, Central Denmark Region, Denmark
+- **Posted on:** 2026-03-03
+- [Apply here](https://dk.linkedin.com/jobs/view/embedded-software-engineer-system-developer-at-claviate-4380340267?position=3&pageNum=0&refId=l37o2Bj%2B5iEWT43yDA6XUA%3D%3D&trackingId=1cdqQSnu9yndBcnByyYVWQ%3D%3D)
+
+### TRIGO
+- **Position:** Digital Systems Product Owner (H/F)
+- **Location:** Nanterre, Île-de-France, France
+- **Posted on:** 2026-03-03
+- [Apply here](https://fr.linkedin.com/jobs/view/digital-systems-product-owner-h-f-at-trigo-4378524378?position=45&pageNum=0&refId=QNozSZ8yXhatk71IhiQgdQ%3D%3D&trackingId=G%2FwllNlw3Wz9tblIt5HQ8g%3D%3D)
+
+### Welcome to the Jungle France
+- **Position:** Site Reliability Engineer - Apprenticeship
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-03-03
+- [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-apprenticeship-at-welcome-to-the-jungle-france-4379425891?position=31&pageNum=0&refId=TobL4ZpA2PEyjZF%2BrVXUjw%3D%3D&trackingId=QfU0GWAMLx575ypAtj96eg%3D%3D)
+
+### Younup
+- **Position:** Site Reliability Engineer
+- **Location:** Greater Nantes Metropolitan Area
+- **Posted on:** 2026-03-03
+- [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-at-younup-4380377278?position=36&pageNum=0&refId=TobL4ZpA2PEyjZF%2BrVXUjw%3D%3D&trackingId=M7NTxYMmqTGI9ZGrXpxDmg%3D%3D)
 
 ### act digital
 - **Position:** Azure Site Reliability Engineer
@@ -744,6 +846,12 @@ Total: 828 offers
 - **Location:** Greater Paris Metropolitan Region
 - **Posted on:** 2026-03-02
 - [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-at-aston-robinson-4379955309?position=50&pageNum=0&refId=i5JkQYR%2BcDoRAOtjuevyVA%3D%3D&trackingId=W8Uq7EncsANsq0Bw9D9jhA%3D%3D)
+
+### Match Profiler
+- **Position:** Junior Cloud Engineer (Linux, Azure) - Hybrid (Sintra)
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2026-03-02
+- [Apply here](https://pt.linkedin.com/jobs/view/junior-cloud-engineer-linux-azure-hybrid-sintra-at-match-profiler-4378820928?position=54&pageNum=0&refId=uNOwz1RyDPmp7wzBIHYS0g%3D%3D&trackingId=SLcA95FlX%2BtFSOB8nnzeVQ%3D%3D)
 
 ### Adentis Portugal
 - **Position:** Devops Engineer (Openshift)
@@ -1050,6 +1158,12 @@ Total: 828 offers
 - **Location:** Wrocław, Dolnośląskie, Poland
 - **Posted on:** 2026-02-27
 - [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-ipracujzdalnie-pl-4379044149?position=57&pageNum=0&refId=mi95JREwfQDMtTP32C5IxA%3D%3D&trackingId=vzfwEQbeEFlccACh2VqVCQ%3D%3D)
+
+### Adavo
+- **Position:** DevOps-utvecklare
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-02-27
+- [Apply here](https://se.linkedin.com/jobs/view/devops-utvecklare-at-adavo-4377625506?position=60&pageNum=0&refId=1g6O34e4kXrCYr%2BEKbtsOA%3D%3D&trackingId=t7nKoQmXZrPFg0mqqjtDfA%3D%3D)
 
 ### José Covas Real Estate
 - **Position:** Freelance LMS / Web Developer – Lean MVP for Online Education Platform (Remote)
@@ -2401,6 +2515,12 @@ Total: 828 offers
 - **Posted on:** 2026-02-22
 - [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-f-h-at-groupe-lr-technologies-4161973353?position=43&pageNum=0&refId=iOob6UvsWHf5hiI1N%2BZLKg%3D%3D&trackingId=aDBs%2FpnIj5gKE9gPpgvuYg%3D%3D)
 
+### Tillster
+- **Position:** Site Reliability Engineer
+- **Location:** Portugal
+- **Posted on:** 2026-02-22
+- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-tillster-4352219192?position=60&pageNum=0&refId=%2BjoJLzjxHfh2%2BhX5NHM7rg%3D%3D&trackingId=9aXrcTU3CGl%2ButVjbgeWPg%3D%3D)
+
 ### HIPRA
 - **Position:** IT Systems Specialist
 - **Location:** Amer, Catalonia, Spain
@@ -2430,6 +2550,12 @@ Total: 828 offers
 - **Location:** Greater Västerås Metropolitan Area
 - **Posted on:** 2026-02-21
 - [Apply here](https://se.linkedin.com/jobs/view/digital-twin-software-engineer-at-hitachi-energy-4344511953?position=51&pageNum=0&refId=m2AHkopk%2F4PHVzrBEQYGqA%3D%3D&trackingId=di9JyxjIMLQvUBM%2FCeHy0w%3D%3D)
+
+### Hitachi Energy
+- **Position:** DevOps Engineer
+- **Location:** Ludvika, Dalarna County, Sweden
+- **Posted on:** 2026-02-21
+- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-at-hitachi-energy-4320844265?position=59&pageNum=0&refId=1g6O34e4kXrCYr%2BEKbtsOA%3D%3D&trackingId=mRf%2Ff1xWfZZahZNlI%2FNeCw%3D%3D)
 
 ### SpaceX
 - **Position:** Summer 2026 Graduate Engineer
@@ -3006,6 +3132,12 @@ Total: 828 offers
 - **Location:** Spain
 - **Posted on:** 2026-02-18
 - [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-at-coforge-4373356245?position=34&pageNum=0&refId=SqDOa7o%2BeRafZccDjnrJwQ%3D%3D&trackingId=R%2FN5uFqnaswRe3VnP8nvvQ%3D%3D)
+
+### DISID
+- **Position:** Site Reliability Engineer
+- **Location:** Spain
+- **Posted on:** 2026-02-18
+- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineer-at-disid-4372461192?position=36&pageNum=0&refId=k%2B7ONLrnjBVL%2FsRHjylHLA%3D%3D&trackingId=PNjm45aGDMeDjrguUW1Gkw%3D%3D)
 
 ### 99x
 - **Position:** (Entry-Level) Devops Engineer - €1.200 - €2.000 A Month
@@ -3775,6 +3907,12 @@ Total: 828 offers
 - **Posted on:** 2026-02-10
 - [Apply here](https://fr.linkedin.com/jobs/view/devops-at-versusmind-4371029198?position=42&pageNum=0&refId=U3%2FUFzuZJ1l4hw2xU0kEpw%3D%3D&trackingId=5cP0XAltdGpMaBioqsE8QA%3D%3D)
 
+### Telenor
+- **Position:** Data Platform Engineer
+- **Location:** Oslo, Norway
+- **Posted on:** 2026-02-10
+- [Apply here](https://no.linkedin.com/jobs/view/data-platform-engineer-at-telenor-4363071419?position=56&pageNum=0&refId=PMAkeXLb%2BT%2BonWuWnOXKZg%3D%3D&trackingId=YKl%2B7iDZME91hoGo7MPxLw%3D%3D)
+
 ### FinTop Consulting
 - **Position:** DevOps Engineer
 - **Location:** Lisbon, Portugal
@@ -3858,6 +3996,12 @@ Total: 828 offers
 - **Location:** Gennevilliers, Île-de-France, France
 - **Posted on:** 2026-02-09
 - [Apply here](https://fr.linkedin.com/jobs/view/global-engineering-director-at-ametek-4370829863?position=34&pageNum=0&refId=zb%2Bgn7NCwIH1nr96yzjPWg%3D%3D&trackingId=NGwDXoMDTbicgd7uqcW%2B1g%3D%3D)
+
+### Schwarz Digits
+- **Position:** DEVOPS ENGINEER (m/f/d)
+- **Location:** Sofia, Sofia City, Bulgaria
+- **Posted on:** 2026-02-09
+- [Apply here](https://bg.linkedin.com/jobs/view/devops-engineer-m-f-d-at-schwarz-digits-4370401716?position=59&pageNum=0&refId=oLB0nX7ZH3dJ5XahN8imow%3D%3D&trackingId=%2F1aCDU%2BioA%2BO4kETDmE1sw%3D%3D)
 
 ### Databricks
 - **Position:** Software Engineer - New Grad (2026 Start)
