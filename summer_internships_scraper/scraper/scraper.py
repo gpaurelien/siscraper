@@ -92,15 +92,15 @@ class LinkedInScraper:
                     try:
                         job = self._parse_job_card(card, full_time)
                         jobs.append(job)
+                        self.logger.info(
+                            f"Found out a total of {total} jobs, filtered out {filtered} of them"
+                        )
                     except Exception as err:
                         raise ParsingError("Error while parsing job card") from err
 
             start += step
 
-        self.logger.info(
-            f"Found {len(jobs)} dev jobs out of {total} total jobs "
-            f"(filtered out {filtered})"
-        )
+        self.logger.info(f"Retrieved {len(jobs)} jobs for {country}")
 
         return jobs
 
