@@ -2,12 +2,17 @@ LOCATIONS = {
     "Portugal": "100364837",
     "Spain": "105646813",
     "Italy": "103350119",
-    "Poland": "105072130",
-    "Bulgaria": "105333783",
-    "Sweden": "105117694",
-    "Danemark": "104514075",
-    "Norway": "103819153",
     "France": "105015875",
+    "Poland": "105072130",
+    "Roumanie": "106670623",
+    "Tchéquie": "104508036",
+    "Belgique": "100565514",
+    "Luxembourg": "104042105",
+    "Bulgaria": "105333783",
+    "Danemark": "104514075",
+    "Finlande": "100456013",
+    "Sweden": "105117694",
+    "Norway": "103819153",
 }
 
 HOST = "https://www.linkedin.com/jobs/search"
