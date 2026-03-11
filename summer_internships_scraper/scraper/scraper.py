@@ -49,42 +49,53 @@ class LinkedInScraper:
             "Fetching jobs at %s with following pattern: '%s'" % (country, keywords)
         )
 
+        jobs: list[JobOffer] = []
         keywords = self._format_keywords(keywords)
-        url = f"{self.host}/?keywords={keywords}&geoId={geo_id}"
+        start, step = 0, 25
 
-        async with session.get(
-            url,
-            headers=HEADERS,
-            allow_redirects=True,
-            timeout=aiohttp.ClientTimeout(total=30),
-        ) as response:
-            if response.status == 429:
-                await asyncio.sleep(5)
-                raise RateLimitError(
-                    f"Got rate limited on {url}, will try again in a few moments"
-                )
+        while True:
+            # Assume that 225 (10th page) is the last revelant page
+            if start > 225:
+                break
 
-            if response.status != 200:
-                raise ScrapingError(f"Error while requesting: {url}")
+            url = f"{self.host}/?keywords={keywords}&geoId={geo_id}&start={start}"
+            async with session.get(
+                url,
+                headers=HEADERS,
+                allow_redirects=True,
+                timeout=aiohttp.ClientTimeout(total=30),
+            ) as response:
+                if response.status == 429:
+                    await asyncio.sleep(5)
+                    raise RateLimitError(
+                        f"Got rate limited on {url}, will try again in a few moments"
+                    )
 
-            content = await response.text(encoding="utf-8")
-            soup = BeautifulSoup(content, "html.parser")
-            cards = soup.find_all("div", class_="job-search-card")
+                if response.status != 200:
+                    raise ScrapingError(f"Error while requesting: {url}")
 
-            jobs = []
-            filtered, total = 0, len(cards)
+                content = await response.text(encoding="utf-8")
+                soup = BeautifulSoup(content, "html.parser")
+                cards = soup.find_all("div", class_="job-search-card")
 
-        for card in cards:
-            selected = self._filter_cards(card, full_time)
-            if not selected:
-                filtered += 1
-                continue
+                if not cards:
+                    break
 
-            try:
-                job = self._parse_job_card(card, full_time)
-                jobs.append(job)
-            except Exception as err:
-                raise ParsingError("Error while parsing job card") from err
+                filtered, total = 0, len(cards)
+
+                for card in cards:
+                    selected = self._filter_cards(card, full_time)
+                    if not selected:
+                        filtered += 1
+                        continue
+
+                    try:
+                        job = self._parse_job_card(card, full_time)
+                        jobs.append(job)
+                    except Exception as err:
+                        raise ParsingError("Error while parsing job card") from err
+
+            start += step
 
         self.logger.info(
             f"Found {len(jobs)} dev jobs out of {total} total jobs "
@@ -141,6 +152,8 @@ class LinkedInScraper:
             "intermediate",
             "mid",
             "mid-level",
+            "intern",
+            "internship",
         }
 
         excluded_keywords = {
@@ -166,6 +179,7 @@ class LinkedInScraper:
             "consultant",
             "administrator",
             "head",
+            "frontend",
         }
 
         included_keywords = {
