@@ -1,13 +1,4 @@
 {
-  "41004479e6fe1f6fb63218edc809f662": {
-    "title": "Software Engineering Intern - Summer 2026 (Warsaw)",
-    "company_name": "Asana",
-    "location": "Warsaw, Mazowieckie, Poland",
-    "posted_date": "2026-01-10",
-    "description": null,
-    "url": "https://pl.linkedin.com/jobs/view/software-engineering-intern-summer-2026-warsaw-at-asana-4352344362?position=1&pageNum=0&refId=Y0OfglL333avrB9kdpzM%2BA%3D%3D&trackingId=T9MivLjHTTGU9Eb9Z9xdXw%3D%3D",
-    "first_seen": "2026-01-10T09:09:26.146297"
-  },
   "956fb54617c33adef0c430c580e03fb6": {
     "title": "Software Engineer Intern (Summer 2026)",
     "company_name": "Grammarly",
@@ -3099,16 +3090,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.625685"
-  },
-  "b6ce1ccfe4647054e9ea32a1351137ed": {
-    "title": "Cloud & Network Infrastructure Engineer",
-    "company_name": "UltaHost",
-    "location": "Sofia, Sofia City, Bulgaria",
-    "posted_date": "2026-01-10",
-    "url": "https://bg.linkedin.com/jobs/view/cloud-network-infrastructure-engineer-at-ultahost-4331597938?position=29&pageNum=0&refId=PZGEYxElWjw8n0WmTRKU0Q%3D%3D&trackingId=ZwCaYK5hwQILwgxGQdma9Q%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.625689"
   },
   "d0dc3fe039ce728626aa7949d34ee9bd": {
     "title": "Junior Software Engineer Backend",
@@ -10539,5 +10520,585 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-03-10T09:43:33.135884"
+  },
+  "69ba350cdc9687dff4f24def23922265": {
+    "title": "DevOps Engineer",
+    "company_name": "payabl.",
+    "location": "Lisbon, Lisbon, Portugal",
+    "posted_date": "2026-03-10",
+    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-payabl-4383725565?position=3&pageNum=0&refId=vf%2Fr4zwoNFm0mLKu0ckQxQ%3D%3D&trackingId=UqXKD1TyoFlVNsoCCbxttg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.271676"
+  },
+  "2d2aca36efe8471b53b1067a15d0bb6f": {
+    "title": "DevOps Engineer",
+    "company_name": "Starknet Foundation",
+    "location": "Portugal",
+    "posted_date": "2026-03-11",
+    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-starknet-foundation-4383881922?position=9&pageNum=0&refId=vf%2Fr4zwoNFm0mLKu0ckQxQ%3D%3D&trackingId=M68AzwRZH1QCNzOii%2F%2BqWA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.271686"
+  },
+  "20ceed447bce9a3d772c023aabbc0526": {
+    "title": "DevOps Engineer",
+    "company_name": "BEAM - Managed IT Solutions",
+    "location": "Lisbon, Portugal",
+    "posted_date": "2026-03-10",
+    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-beam-managed-it-solutions-4382405242?position=24&pageNum=0&refId=vf%2Fr4zwoNFm0mLKu0ckQxQ%3D%3D&trackingId=CHM%2BAMtP3%2FKBRp8IzGkfBQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.271710"
+  },
+  "6c5fc0b60639ac54d0e12f1686a1db5a": {
+    "title": "DevOps Engineer - Lisbon Based",
+    "company_name": "1GLOBAL",
+    "location": "Porto, Portugal",
+    "posted_date": "2026-03-10",
+    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-lisbon-based-at-1global-4382286844?position=28&pageNum=0&refId=vf%2Fr4zwoNFm0mLKu0ckQxQ%3D%3D&trackingId=Zm%2Bw4au0hjfyQ2fO793T0A%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.271718"
+  },
+  "58e2624c4f659b96964a9bcfdd4829c5": {
+    "title": "Cloud & Infrastructure Engineer",
+    "company_name": "IRIUM Portugal",
+    "location": "Lisbon, Lisbon, Portugal",
+    "posted_date": "2026-03-09",
+    "url": "https://pt.linkedin.com/jobs/view/cloud-infrastructure-engineer-at-irium-portugal-4382980740?position=13&pageNum=0&refId=m4PDhTdAtTns5WHeiqcWSw%3D%3D&trackingId=KOyHPa%2BF%2Fy%2Fv%2F7fN6W4BQQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.276603"
+  },
+  "c90104973c254f2b351c0097ad6369cf": {
+    "title": "Cloud Engineer (English speaking) (M/F/D)",
+    "company_name": "MobiLab Solutions",
+    "location": "Aveiro, Aveiro, Portugal",
+    "posted_date": "2026-02-15",
+    "url": "https://pt.linkedin.com/jobs/view/cloud-engineer-english-speaking-m-f-d-at-mobilab-solutions-4364771926?position=60&pageNum=0&refId=m4PDhTdAtTns5WHeiqcWSw%3D%3D&trackingId=Nr%2B28v0IVLSGUANf%2Bi2fyg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.276630"
+  },
+  "53c0252a3c727e8a22e952a06a542164": {
+    "title": "Site Reliability Engineer (GCP or AWS)",
+    "company_name": "Aubay Portugal",
+    "location": "Portugal",
+    "posted_date": "2026-03-05",
+    "url": "https://pt.linkedin.com/jobs/view/site-reliability-engineer-gcp-or-aws-at-aubay-portugal-4381627037?position=51&pageNum=0&refId=gqPB3uV58DInzF515cnrRg%3D%3D&trackingId=7Gih6d9Oe1Ke8dnMeri3Pg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.285765"
+  },
+  "c37e3bd147ae0ba5c371f4742a5ffcde": {
+    "title": "Platform AI Developer",
+    "company_name": "emagine",
+    "location": "Lisbon, Portugal",
+    "posted_date": "2026-03-10",
+    "url": "https://pt.linkedin.com/jobs/view/platform-ai-developer-at-emagine-4382078496?position=9&pageNum=0&refId=R3PXIROp4NvyU2PV%2F9mNQQ%3D%3D&trackingId=4ktRMQyNAK7NAER1VvvR1A%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.294835"
+  },
+  "fa18ebb0ea1ae51c33ef6b5064419733": {
+    "title": "DevOps con Github actions",
+    "company_name": "SEREM Consultor\u00eda Empresarial",
+    "location": "Madrid, Community of Madrid, Spain",
+    "posted_date": "2026-03-10",
+    "url": "https://es.linkedin.com/jobs/view/devops-con-github-actions-at-serem-consultor%C3%ADa-empresarial-4382071921?position=29&pageNum=0&refId=ds6eqv5VzWMjL%2BesOQI1%2FA%3D%3D&trackingId=Ibr36WVBfz0FyEId%2BS9JJg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.304038"
+  },
+  "dd69bc04ccb223492cd6035d6cc7e920": {
+    "title": "Ingeniero/a DevOps (CI/CD & Automatizaci\u00f3n) - 100% Teletrabajo",
+    "company_name": "Logicalis Spain",
+    "location": "Madrid, Community of Madrid, Spain",
+    "posted_date": "2026-03-06",
+    "url": "https://es.linkedin.com/jobs/view/ingeniero-a-devops-ci-cd-automatizaci%C3%B3n-100%25-teletrabajo-at-logicalis-spain-4380643045?position=30&pageNum=0&refId=ds6eqv5VzWMjL%2BesOQI1%2FA%3D%3D&trackingId=dkAL4Da3G7zxNux3XeFYZA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.304041"
+  },
+  "b40d44a93f3c44bcf49c370d5731cfed": {
+    "title": "DevOps Engineer",
+    "company_name": "Claranet Spain",
+    "location": "Barcelona, Catalonia, Spain",
+    "posted_date": "2026-03-10",
+    "url": "https://es.linkedin.com/jobs/view/devops-engineer-at-claranet-spain-4383712387?position=50&pageNum=0&refId=ds6eqv5VzWMjL%2BesOQI1%2FA%3D%3D&trackingId=5nzQv%2FRHCNEGJeV15pbmtA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.304076"
+  },
+  "337c28bf095d1e4c65269bf14d5e3087": {
+    "title": "Ingeniero DevOps",
+    "company_name": "LAUDE",
+    "location": "Spain",
+    "posted_date": "2026-03-10",
+    "url": "https://es.linkedin.com/jobs/view/ingeniero-devops-at-laude-4371897677?position=54&pageNum=0&refId=ds6eqv5VzWMjL%2BesOQI1%2FA%3D%3D&trackingId=wj5sj7IEBw7NkaT5r3Cprw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.304085"
+  },
+  "917a5b4fd42f4f73a59c909b2fde614f": {
+    "title": "Consultor/a Cloud/ Infraestructura",
+    "company_name": "Universia Espa\u00f1a",
+    "location": "Madrid, Community of Madrid, Spain",
+    "posted_date": "2026-03-06",
+    "url": "https://es.linkedin.com/jobs/view/consultor-a-cloud-infraestructura-at-universia-espa%C3%B1a-4378174949?position=39&pageNum=0&refId=HGIU4Dr9ZAM2AvbegFUwDA%3D%3D&trackingId=hLz6K%2BfTH9PqMp12hHSbXg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.308716"
+  },
+  "8a366ce2259057285bd5436e142dfa48": {
+    "title": "Cloud Engineer (m/w/d)",
+    "company_name": "Deutsche Telekom",
+    "location": "Granada, Andalusia, Spain",
+    "posted_date": "2026-03-10",
+    "url": "https://es.linkedin.com/jobs/view/cloud-engineer-m-w-d-at-deutsche-telekom-4383703464?position=57&pageNum=0&refId=HGIU4Dr9ZAM2AvbegFUwDA%3D%3D&trackingId=Eyy%2B5hWCkI2815lAKa7R5A%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.308733"
+  },
+  "c59d0726a80bbab40b6397da826baa67": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Barcelona, Catalonia, Spain",
+    "posted_date": "2026-03-10",
+    "url": "https://es.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383761229?position=15&pageNum=0&refId=sS9IWjhSqbvDeqP7znhyEQ%3D%3D&trackingId=N7H%2FsdQqeg1Sd0vm%2BraGhg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.327259"
+  },
+  "cfa0fe3c75dfb373d9e4f8030de73bc7": {
+    "title": "Platform Engineer",
+    "company_name": "Holaluz",
+    "location": "Barcelona, Catalonia, Spain",
+    "posted_date": "2026-03-11",
+    "url": "https://es.linkedin.com/jobs/view/platform-engineer-at-holaluz-4384143493?position=59&pageNum=0&refId=sS9IWjhSqbvDeqP7znhyEQ%3D%3D&trackingId=dG6iLhL5cp1BdJj36P3Igg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.327269"
+  },
+  "69eba9a2e337e1b6b561de41f8f9faa8": {
+    "title": "DevOps Engineer",
+    "company_name": "Fides",
+    "location": "Italy",
+    "posted_date": "2026-03-11",
+    "url": "https://it.linkedin.com/jobs/view/devops-engineer-at-fides-4384147423?position=10&pageNum=0&refId=2xWl4fsUBN7BZvEfgt9X6Q%3D%3D&trackingId=m%2F5FfAz%2Fj%2FVls2h2JDUWsg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.336576"
+  },
+  "27e014d5ecdea4d9e8da6778df303f5a": {
+    "title": "Cloud&Devops Engineer",
+    "company_name": "Jumpit Srl",
+    "location": "Milan, Lombardy, Italy",
+    "posted_date": "2026-03-10",
+    "url": "https://it.linkedin.com/jobs/view/cloud-devops-engineer-at-jumpit-srl-4382074947?position=35&pageNum=0&refId=2xWl4fsUBN7BZvEfgt9X6Q%3D%3D&trackingId=%2FDKFoEBXlBPRGt88Mnszig%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.336612"
+  },
+  "72f5cb38f779d95535af7ea30b0a50d8": {
+    "title": "Cloud DevOps",
+    "company_name": "TECHSON",
+    "location": "Milan, Lombardy, Italy",
+    "posted_date": "2026-03-10",
+    "url": "https://it.linkedin.com/jobs/view/cloud-devops-at-techson-4382077689?position=44&pageNum=0&refId=2xWl4fsUBN7BZvEfgt9X6Q%3D%3D&trackingId=V3dZqH7g4B5bHUo3o4apOA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.336627"
+  },
+  "18643322a264c40b147a00eca2de2671": {
+    "title": "Cloud & Devops Engineer",
+    "company_name": "Spindox",
+    "location": "Milan, Lombardy, Italy",
+    "posted_date": "2026-03-10",
+    "url": "https://it.linkedin.com/jobs/view/cloud-devops-engineer-at-spindox-4277781141?position=48&pageNum=0&refId=2xWl4fsUBN7BZvEfgt9X6Q%3D%3D&trackingId=QqZNpGQd1ACSpLrBWIFX9A%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.336634"
+  },
+  "8b08944071068e0bc4246bff6a0f1838": {
+    "title": "Cloud & Devops Engineer",
+    "company_name": "Spindox",
+    "location": "Turin, Piedmont, Italy",
+    "posted_date": "2026-03-10",
+    "url": "https://it.linkedin.com/jobs/view/cloud-devops-engineer-at-spindox-4277773896?position=51&pageNum=0&refId=2xWl4fsUBN7BZvEfgt9X6Q%3D%3D&trackingId=blarYHKnpQweR7wB%2B4EJrw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.336638"
+  },
+  "215ea3876000a357560f5765b446aecb": {
+    "title": "DevOps Engineer",
+    "company_name": "agap2 Italia",
+    "location": "Italy",
+    "posted_date": "2026-03-11",
+    "url": "https://it.linkedin.com/jobs/view/devops-engineer-at-agap2-italia-4382579054?position=55&pageNum=0&refId=2xWl4fsUBN7BZvEfgt9X6Q%3D%3D&trackingId=CktVPopTqDKTAbZokCa6Cw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.336644"
+  },
+  "8f393c9f177491acbae73125bc030d62": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Milan, Lombardy, Italy",
+    "posted_date": "2026-03-10",
+    "url": "https://it.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383762105?position=18&pageNum=0&refId=QynjeEx%2BucXittJJq2j5TA%3D%3D&trackingId=6%2BDUYGkZkMpCgkhTjwSExw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.360819"
+  },
+  "013b653d1b6f027ba9d8329d0bd1db7f": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Italy",
+    "posted_date": "2026-03-10",
+    "url": "https://it.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383745874?position=27&pageNum=0&refId=QynjeEx%2BucXittJJq2j5TA%3D%3D&trackingId=2JUs7yl8%2BlUycninmkY8wQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.360826"
+  },
+  "9cee975e358ea9bb4fa7cc7857102bf0": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Rome, Latium, Italy",
+    "posted_date": "2026-03-10",
+    "url": "https://it.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383752540?position=36&pageNum=0&refId=QynjeEx%2BucXittJJq2j5TA%3D%3D&trackingId=WusXmQ67yPARf%2FCY%2F8pg%2Fw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.360831"
+  },
+  "e60555bb69e8ffdae5b987636bba01e8": {
+    "title": "DevOps Engineer",
+    "company_name": "payabl.",
+    "location": "Cracow, Ma\u0142opolskie, Poland",
+    "posted_date": "2026-03-10",
+    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-payabl-4383723754?position=3&pageNum=0&refId=OJ4tuwGDyhLeXxrua%2B%2Fjdg%3D%3D&trackingId=xc2xmY2jy1q17rjfyphSOg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.370336"
+  },
+  "30257bbccf60ffe4abd084a17491baf7": {
+    "title": "DevOps Engineer",
+    "company_name": "ALTIMI",
+    "location": "Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland",
+    "posted_date": "2026-03-10",
+    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-altimi-4383779748?position=43&pageNum=0&refId=OJ4tuwGDyhLeXxrua%2B%2Fjdg%3D%3D&trackingId=ye%2BIv%2BWoMDTfjfr5gz%2BSHQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.370399"
+  },
+  "06b615f6183a26fa38feb8454d3e3607": {
+    "title": "DevOps Infrastructure & CI/CD Engineer",
+    "company_name": "HCLTech",
+    "location": "Gdansk Metropolitan Area",
+    "posted_date": "2026-03-10",
+    "url": "https://pl.linkedin.com/jobs/view/devops-infrastructure-ci-cd-engineer-at-hcltech-4382427855?position=53&pageNum=0&refId=OJ4tuwGDyhLeXxrua%2B%2Fjdg%3D%3D&trackingId=9J63RH9DsKmDEtWewq3KlA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.370411"
+  },
+  "6f1930cde79ab4e0c0a5cfcdb01218a0": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Poland",
+    "posted_date": "2026-03-10",
+    "url": "https://pl.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383744823?position=29&pageNum=0&refId=1VK7wz3OAeA%2BI%2F%2BMV9XLFg%3D%3D&trackingId=xUZuvb8f%2BMVtq09CSST4xg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.394776"
+  },
+  "a832e1c70fbbefcf071fe5f68756c0d7": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Warsaw, Mazowieckie, Poland",
+    "posted_date": "2026-03-10",
+    "url": "https://pl.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383743888?position=36&pageNum=0&refId=1VK7wz3OAeA%2BI%2F%2BMV9XLFg%3D%3D&trackingId=jJzyXcat8CtzB1vhMuBclQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.394784"
+  },
+  "f358b11224798278b04d6d0ce2a83751": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Cracow, Ma\u0142opolskie, Poland",
+    "posted_date": "2026-03-10",
+    "url": "https://pl.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383751458?position=42&pageNum=0&refId=1VK7wz3OAeA%2BI%2F%2BMV9XLFg%3D%3D&trackingId=hnm9QoXXt9E4bBjNeeltHw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.394788"
+  },
+  "3e8488bf5b93b014b0fb53892d54675b": {
+    "title": "DevOps Engineer (Python/IaC)",
+    "company_name": "Manpower Bulgaria",
+    "location": "Varna, Bulgaria",
+    "posted_date": "2026-03-10",
+    "url": "https://bg.linkedin.com/jobs/view/devops-engineer-python-iac-at-manpower-bulgaria-4382033672?position=52&pageNum=0&refId=xHty5LumjH%2FdBJPrre08jA%3D%3D&trackingId=nxJ6Ctt%2BbjTdLTOsOKsT3Q%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.404638"
+  },
+  "97e6b43196c0f5f2f9413770c55403c1": {
+    "title": "DevOps Engineer",
+    "company_name": "Costa Coffee",
+    "location": "Sofia, Bulgaria",
+    "posted_date": "2026-03-09",
+    "url": "https://bg.linkedin.com/jobs/view/devops-engineer-at-costa-coffee-4381714302?position=60&pageNum=0&refId=xHty5LumjH%2FdBJPrre08jA%3D%3D&trackingId=ArDXmhaX8EdJJyqoKku9mQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.404643"
+  },
+  "0a3b81b34fff77db869942d8aadcf1c9": {
+    "title": "DevOps Engineer II",
+    "company_name": "Axway",
+    "location": "Sofia, Sofia City, Bulgaria",
+    "posted_date": "2026-03-10",
+    "url": "https://bg.linkedin.com/jobs/view/devops-engineer-ii-at-axway-4383763563?position=48&pageNum=0&refId=JZyMvRoV8wdXAldWsa%2BUTQ%3D%3D&trackingId=67smQMKrdDZQXMNCWiQMIw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.419471"
+  },
+  "a07ce4641161f77c2f5fe25d0019ce2d": {
+    "title": "DevOps Engineer",
+    "company_name": "Avance Consulting",
+    "location": "Gothenburg, V\u00e4stra G\u00f6taland County, Sweden",
+    "posted_date": "2026-03-10",
+    "url": "https://se.linkedin.com/jobs/view/devops-engineer-at-avance-consulting-4382418031?position=6&pageNum=0&refId=nns16KEHXFzjF5G5IA%2FXkA%3D%3D&trackingId=5PUuxSMQL3EdQOOVQMvs2A%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.439284"
+  },
+  "ddab4b93b1237ee33a5ae2d916dff265": {
+    "title": "DevOps Specialist",
+    "company_name": "CONSULTING it",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "posted_date": "2026-03-10",
+    "url": "https://se.linkedin.com/jobs/view/devops-specialist-at-consulting-it-4382439957?position=20&pageNum=0&refId=nns16KEHXFzjF5G5IA%2FXkA%3D%3D&trackingId=JgBO%2FzZFBpQwJoK%2FyaUG7Q%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.439306"
+  },
+  "fc522d81f414450d9466b1c7a445da89": {
+    "title": "DevOps/Site Reliability Engineer",
+    "company_name": "Chief Rebel",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "posted_date": "2026-03-11",
+    "url": "https://se.linkedin.com/jobs/view/devops-site-reliability-engineer-at-chief-rebel-4382836945?position=23&pageNum=0&refId=nns16KEHXFzjF5G5IA%2FXkA%3D%3D&trackingId=t%2FFQ2FF%2FJTKqYBrK%2BAqEIg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.439314"
+  },
+  "ea6155f1e743a44fe4efad3783bba183": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Sweden",
+    "posted_date": "2026-03-10",
+    "url": "https://se.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383748665?position=37&pageNum=0&refId=O1AThVQPJIDcWR2xsiI0tw%3D%3D&trackingId=JWnw7XqQZvt3AgtCyZKx%2Bg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.464659"
+  },
+  "a3ef61c581fd367b0b751c32dd1bcff6": {
+    "title": "DevOps Engineer",
+    "company_name": "NES Fircroft",
+    "location": "S\u00f8nderborg Municipality, Region of Southern Denmark, Denmark",
+    "posted_date": "2026-03-10",
+    "url": "https://dk.linkedin.com/jobs/view/devops-engineer-at-nes-fircroft-4383790014?position=1&pageNum=0&refId=cIkRZp%2FghfL5eL7ySPqmgg%3D%3D&trackingId=kGKL7HUujnlIGsCgvhWn3w%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.474925"
+  },
+  "fe567b807c8f58cb2d6d79585282a6af": {
+    "title": "Infrastructure Engineer",
+    "company_name": "RDT",
+    "location": "Central Denmark Region, Denmark",
+    "posted_date": "2026-03-10",
+    "url": "https://dk.linkedin.com/jobs/view/infrastructure-engineer-at-rdt-4382292179?position=43&pageNum=0&refId=3hSgAI0jrDV2n9eG9HFzVA%3D%3D&trackingId=%2FPnm9QAFMBil2uMgfQ0J0A%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.480079"
+  },
+  "e7bda446d4238b6634e9285217eda524": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Denmark",
+    "posted_date": "2026-03-10",
+    "url": "https://dk.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383742794?position=4&pageNum=0&refId=rrWQ6tB1g8ZEjaIWaW4Wgw%3D%3D&trackingId=1UgzwUq9cSJqBH%2F8TMlm1Q%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.501612"
+  },
+  "d2b7a506d5dce41ae623e6fec3b7b99e": {
+    "title": "Frontend Developer - Tieto Banktech (m/f/d)",
+    "company_name": "Tieto",
+    "location": "Trondheim, Tr\u00f8ndelag, Norway",
+    "posted_date": "2026-02-23",
+    "url": "https://no.linkedin.com/jobs/view/frontend-developer-tieto-banktech-m-f-d-at-tieto-4375735833?position=11&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=WiwJFJWKnVaqOoOwIUI%2FIg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511779"
+  },
+  "506234e7c681ae021cfcca6e6633f686": {
+    "title": "Software engineer",
+    "company_name": "ISS-Corporate",
+    "location": "Oslo, Oslo, Norway",
+    "posted_date": "2026-02-17",
+    "url": "https://no.linkedin.com/jobs/view/software-engineer-at-iss-corporate-4374133318?position=12&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=Bbt7VMGCrLgAOqynTSGyog%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511786"
+  },
+  "81d1518010676a12918e81f9e15053bc": {
+    "title": "Junior Cobol Developer - Tieto Banktech (m/f/d)",
+    "company_name": "Tieto",
+    "location": "Oslo, Oslo, Norway",
+    "posted_date": "2026-02-19",
+    "url": "https://no.linkedin.com/jobs/view/junior-cobol-developer-tieto-banktech-m-f-d-at-tieto-4343969549?position=13&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=Exytxrpg%2B%2Fg6yc%2Fv7l6rww%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511790"
+  },
+  "6f7462a5ac6c79d327d304d02b56ba0f": {
+    "title": "DevOps Engineer & Platform Builder (.NET/C#)",
+    "company_name": "Photoncycle",
+    "location": "Oslo, Oslo, Norway",
+    "posted_date": "2026-02-19",
+    "url": "https://no.linkedin.com/jobs/view/devops-engineer-platform-builder-net-c%23-at-photoncycle-4375154426?position=14&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=9I%2BtvDF4ut81JBVvPMQsEw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511793"
+  },
+  "847ea806ab0040bba642297dc51710dc": {
+    "title": "Software Engineer Backend",
+    "company_name": "Xeneta",
+    "location": "Oslo, Norway",
+    "posted_date": "2026-03-06",
+    "url": "https://no.linkedin.com/jobs/view/software-engineer-backend-at-xeneta-4380265615?position=36&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=jQH4EcJk8xnJP2wDHDnCDA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511798"
+  },
+  "9b4753869e54cc2bf327e440c7d05261": {
+    "title": "Software Engineer R&D (Embedded Systems & Monitoring)",
+    "company_name": "Kongsberg Defence & Aerospace",
+    "location": "Kongsberg, Viken, Norway",
+    "posted_date": "2026-02-17",
+    "url": "https://no.linkedin.com/jobs/view/software-engineer-r-d-embedded-systems-monitoring-at-kongsberg-defence-aerospace-4371993501?position=42&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=dsRNULyBvabKzZApr%2F9fnQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511802"
+  },
+  "4bd2856e0823d6511889b5c87f56e53e": {
+    "title": "Platform Engineer",
+    "company_name": "Intility",
+    "location": "Oslo, Oslo, Norway",
+    "posted_date": "2026-03-09",
+    "url": "https://no.linkedin.com/jobs/view/platform-engineer-at-intility-4381732421?position=44&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=KopDaWicS4op%2BE5zb%2BTcfQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511805"
+  },
+  "9f903a96ba25aa563879d4d9235db29a": {
+    "title": "Full Stack Developer (Javascript)",
+    "company_name": "Jobgether",
+    "location": "Norway",
+    "posted_date": "2026-03-09",
+    "url": "https://no.linkedin.com/jobs/view/full-stack-developer-javascript-at-jobgether-4382905508?position=51&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=%2F7mZ45f%2Bk%2FciKFB61CiRaw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511815"
+  },
+  "37348375fd8b91b209c66d9fbfcf9699": {
+    "title": "Backend Engineer",
+    "company_name": "Tibber",
+    "location": "F\u00f8rde, Vestland, Norway",
+    "posted_date": "2026-01-23",
+    "url": "https://no.linkedin.com/jobs/view/backend-engineer-at-tibber-4369537349?position=53&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=MsAH4OQNwVGSPucMdL4mhA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.511818"
+  },
+  "aa568b47ef684266a1f3034c246b33ce": {
+    "title": "Site Reliability Engineer",
+    "company_name": "Fulcrum Digital Inc",
+    "location": "Oslo, Norway",
+    "posted_date": "2026-03-10",
+    "url": "https://no.linkedin.com/jobs/view/site-reliability-engineer-at-fulcrum-digital-inc-4382049666?position=2&pageNum=0&refId=98p%2BLEpbtXMbXbG2M%2FtCXQ%3D%3D&trackingId=aqp2KeYQhgQXPLvTXwoD9w%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.527302"
+  },
+  "0038ee7aafcbe8bc8d7debbacacd88b1": {
+    "title": "Site Reliability Engineer",
+    "company_name": "Tiger Resourcing Group",
+    "location": "Oslo, Norway",
+    "posted_date": "2026-03-10",
+    "url": "https://no.linkedin.com/jobs/view/site-reliability-engineer-at-tiger-resourcing-group-4382082581?position=4&pageNum=0&refId=98p%2BLEpbtXMbXbG2M%2FtCXQ%3D%3D&trackingId=xzx8%2FtjTAoPpolY%2F4c96nQ%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.527309"
+  },
+  "c40a4caf77cfef095210ea4695ac42b7": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Norway",
+    "posted_date": "2026-03-10",
+    "url": "https://no.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383743800?position=3&pageNum=0&refId=MmliYCRFXx2CGCClRCKbYg%3D%3D&trackingId=%2Fzkg4%2FSuKt1ICOAbQU7AvA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.537647"
+  },
+  "3f6863fd46809ede33f93dd957c563f0": {
+    "title": "DevOps (H-F)",
+    "company_name": "Amiltone",
+    "location": "Villeurbanne, Auvergne-Rh\u00f4ne-Alpes, France",
+    "posted_date": "2026-03-10",
+    "url": "https://fr.linkedin.com/jobs/view/devops-h-f-at-amiltone-4383759680?position=33&pageNum=0&refId=xAuH6vwHzxn1WJe8mg5jFw%3D%3D&trackingId=0hpvtsXfao%2BVF5vJVz0BKw%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.548021"
+  },
+  "510432934c6970abf992fafbd1b47139": {
+    "title": "DevOps H/F",
+    "company_name": "Amiltone",
+    "location": "Villeurbanne, Auvergne-Rh\u00f4ne-Alpes, France",
+    "posted_date": "2026-03-10",
+    "url": "https://fr.linkedin.com/jobs/view/devops-h-f-at-amiltone-4382476748?position=60&pageNum=0&refId=xAuH6vwHzxn1WJe8mg5jFw%3D%3D&trackingId=NNEyWmKP3ngiUlkYYygxrA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.548072"
+  },
+  "a384af93479b768a05c412c1dced7a5a": {
+    "title": "DevOps Cloud GCP/AWS",
+    "company_name": "SHAPE IT",
+    "location": "Lille, Hauts-de-France, France",
+    "posted_date": "2026-03-10",
+    "url": "https://fr.linkedin.com/jobs/view/devops-cloud-gcp-aws-at-shape-it-4380303789?position=53&pageNum=0&refId=JKLBSkLyBYSScKeM4LgXVg%3D%3D&trackingId=Mny00IyNezWc9ThZp1lIBA%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.553321"
+  },
+  "a82e8800731dd652dd17fd920da9d19f": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "Paris, \u00cele-de-France, France",
+    "posted_date": "2026-03-10",
+    "url": "https://fr.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383759157?position=18&pageNum=0&refId=Mu1wdtbui%2F7FiwoVTyz6EQ%3D%3D&trackingId=Ox7CjlCtSZRBo0hBYZGN4g%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.574335"
+  },
+  "3175cb2614c3276d16d41f35dd6e926c": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company_name": "Mindrift",
+    "location": "France",
+    "posted_date": "2026-03-10",
+    "url": "https://fr.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4383749766?position=20&pageNum=0&refId=Mu1wdtbui%2F7FiwoVTyz6EQ%3D%3D&trackingId=lu%2B5Eh4Frr1zAUT2NwU1pg%3D%3D",
+    "full_time": true,
+    "description": null,
+    "first_seen": "2026-03-11T09:42:26.574342"
   }
 }
