@@ -157,8 +157,6 @@ class LinkedInScraper:
             "intermediate",
             "mid",
             "mid-level",
-            "intern",
-            "internship",
         }
 
         excluded_keywords = {
