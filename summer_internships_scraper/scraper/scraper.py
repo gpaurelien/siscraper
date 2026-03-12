@@ -24,22 +24,21 @@ class LinkedInScraper:
         self.host = host
         self.logger = logger
 
-    @retry(
-        retry=retry_if_exception(lambda e: isinstance(e, RateLimitError)),
-        wait=wait_exponential(multiplier=1, min=2, max=60),
-    )
     async def fetch_jobs(
         self,
         location: t.Tuple[str, str],
         keywords: str,  # TODO: make this dynamic by letting the user input whatever he wants  # noqa: E501
         full_time: bool,
         session: aiohttp.ClientSession = None,
+        max_pages: int = 5,
     ) -> t.Optional[t.List[JobOffer]]:
         """
         Retrieves jobs, parses them, and returns a list containing offers.
 
         :param location: A tuple containing the location ID and country name used by LinkedIn  # noqa: E501
         :param keywords: Keywords needed for the job search
+        :param full_time: Whether it is a full-time job or an internship
+        :param session: aiohttp client session
         """
         geo_id, country = location
         if not all(isinstance(x, str) for x in (geo_id, country, keywords)):
@@ -52,63 +51,71 @@ class LinkedInScraper:
         jobs: list[JobOffer] = []
         keywords = self._format_keywords(keywords)
         start, step = 0, 25
+        filtered = 0
 
         while True:
-            # Assume that 225 (10th page) is the last revelant page
-            if start > 225:
+            # Assume that 125 (5th page) is the last revelant page
+            if start > max_pages * step:
                 break
 
             url = f"{self.host}/?keywords={keywords}&geoId={geo_id}&start={start}"
-            async with session.get(
-                url,
-                headers=HEADERS,
-                allow_redirects=True,
-                timeout=aiohttp.ClientTimeout(total=30),
-            ) as response:
-                if response.status == 429:
-                    await asyncio.sleep(5)
-                    raise RateLimitError(
-                        f"Got rate limited on {url}, will try again in a few moments"
-                    )
+            content = await self._get_page(url, session)
+            soup = BeautifulSoup(content, "html.parser")
+            cards = soup.find_all("div", class_="job-search-card")
 
-                if response.status != 200:
-                    raise ScrapingError(f"Error while requesting: {url}")
+            if not cards:
+                break
 
-                content = await response.text(encoding="utf-8")
-                soup = BeautifulSoup(content, "html.parser")
-                cards = soup.find_all("div", class_="job-search-card")
+            for card in cards:
+                selected = self._filter_cards(card, full_time)
+                if not selected:
+                    filtered += 1
+                    continue
 
-                if not cards:
-                    break
-
-                filtered, total = 0, len(cards)
-
-                for card in cards:
-                    selected = self._filter_cards(card, full_time)
-                    if not selected:
-                        filtered += 1
-                        continue
-
-                    try:
-                        job = self._parse_job_card(card, full_time)
-                        jobs.append(job)
-                        self.logger.info(
-                            f"Found out a total of {total} jobs, filtered out {filtered} of them"
-                        )
-                    except Exception as err:
-                        raise ParsingError("Error while parsing job card") from err
+                try:
+                    job = self._parse_job_card(card, full_time)
+                    jobs.append(job)
+                except Exception as err:
+                    raise ParsingError("Error while parsing job card") from err
 
             start += step
 
-        self.logger.info(f"Retrieved {len(jobs)} jobs for {country}")
+        total = len(jobs) + filtered
+        self.logger.info(
+            f"Retrieved {total} jobs for {country}. "
+            f"Filtered out {filtered} of them."
+        )
 
         return jobs
+
+    @retry(
+        retry=retry_if_exception(lambda e: isinstance(e, RateLimitError)),
+        wait=wait_exponential(multiplier=1, min=2, max=60),
+    )
+    async def _get_page(self, url: str, session: aiohttp.ClientSession) -> str:
+        async with session.get(
+            url,
+            headers=HEADERS,
+            allow_redirects=True,
+            timeout=aiohttp.ClientTimeout(total=30),
+        ) as response:
+            if response.status == 429:
+                await asyncio.sleep(5)
+                raise RateLimitError(
+                    f"Got rate limited on {url}, will try again in a few moments"
+                )
+            if response.status != 200:
+                self.logger.error(
+                    f"Sracping failed due to {response.status} on: {url}"
+                )
+                raise ScrapingError(f"Error while requesting: {url}")
+
+            return await response.text(encoding="utf-8")
 
     def _format_keywords(self, keywords: str) -> str:
         return keywords.replace(" ", "%20")
 
     def _parse_job_card(self, card: Tag, full_time: bool) -> JobOffer:
-        """Extracts information from a job card"""
         title = (
             card.find("h3", class_="base-search-card__title").text.strip() or None
         )
@@ -133,12 +140,10 @@ class LinkedInScraper:
         )
 
     def _filter_cards(self, card: Tag, full_time) -> bool:
-        """
-        Filter card according to whether it is an internship or a full-time job
-        """
         title = card.find("h3", class_="base-search-card__title")
         if not title:
             return False
+
         title_text = title.text.strip().lower()
 
         senior_keywords = {
