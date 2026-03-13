@@ -5,7 +5,7 @@ import typing as t
 import aiohttp
 from bs4 import BeautifulSoup
 from bs4.element import Tag
-from tenacity import retry, retry_if_exception, wait_exponential
+from tenacity import retry, retry_if_exception, wait_fixed
 
 from summer_internships_scraper.models.offers import JobOffer
 from summer_internships_scraper.utils import HEADERS
@@ -30,7 +30,7 @@ class LinkedInScraper:
         keywords: str,  # TODO: make this dynamic by letting the user input whatever he wants  # noqa: E501
         full_time: bool,
         session: aiohttp.ClientSession = None,
-        max_pages: int = 5,
+        max_pages: int = 3,
     ) -> t.Optional[t.List[JobOffer]]:
         """
         Retrieves jobs, parses them, and returns a list containing offers.
@@ -39,58 +39,48 @@ class LinkedInScraper:
         :param keywords: Keywords needed for the job search
         :param full_time: Whether it is a full-time job or an internship
         :param session: aiohttp client session
+        :param max_pages: Maximum number of pages to scrape. Assume that 3rd page is the last revelant page.
         """
         geo_id, country = location
-        if not all(isinstance(x, str) for x in (geo_id, country, keywords)):
-            raise TypeError("'location' and 'keywords' have to be str")
-
-        self.logger.info(
-            "Fetching jobs at %s with following pattern: '%s'" % (country, keywords)
-        )
-
-        jobs: list[JobOffer] = []
         keywords = self._format_keywords(keywords)
-        start, step = 0, 25
-        filtered = 0
+        step = 25
+        sem = asyncio.Semaphore(3)
 
-        while True:
-            # Assume that 125 (5th page) is the last revelant page
-            if start > max_pages * step:
-                break
+        async def fetch_throttled(url):
+            async with sem:
+                return await self._get_page(url, session)
 
-            url = f"{self.host}/?keywords={keywords}&geoId={geo_id}&start={start}"
-            content = await self._get_page(url, session)
+        urls = [
+            f"{self.host}/?keywords={keywords}&geoId={geo_id}&start={i * step}"
+            for i in range(max_pages)
+        ]
+        pages = await asyncio.gather(*[fetch_throttled(url) for url in urls])
+
+        jobs, filtered = [], 0
+        for content in pages:
             soup = BeautifulSoup(content, "html.parser")
             cards = soup.find_all("div", class_="job-search-card")
 
             if not cards:
-                break
+                continue
 
             for card in cards:
-                selected = self._filter_cards(card, full_time)
-                if not selected:
+                if not self._filter_cards(card, full_time):
                     filtered += 1
                     continue
-
                 try:
-                    job = self._parse_job_card(card, full_time)
-                    jobs.append(job)
+                    jobs.append(self._parse_job_card(card, full_time))
                 except Exception as err:
                     raise ParsingError("Error while parsing job card") from err
 
-            start += step
-
-        total = len(jobs) + filtered
         self.logger.info(
-            f"Retrieved {total} jobs for {country}. "
-            f"Filtered out {filtered} of them."
+            f"Retrieved {len(jobs) + filtered} jobs for {country}. Filtered out {filtered}."
         )
-
         return jobs
 
     @retry(
         retry=retry_if_exception(lambda e: isinstance(e, RateLimitError)),
-        wait=wait_exponential(multiplier=1, min=2, max=60),
+        wait=wait_fixed(3),
     )
     async def _get_page(self, url: str, session: aiohttp.ClientSession) -> str:
         async with session.get(
@@ -100,15 +90,15 @@ class LinkedInScraper:
             timeout=aiohttp.ClientTimeout(total=30),
         ) as response:
             if response.status == 429:
-                await asyncio.sleep(5)
-                raise RateLimitError(
+                self.logger.error(
                     f"Got rate limited on {url}, will try again in a few moments"
                 )
+                raise RateLimitError(f"Got rate limited on {url}")
             if response.status != 200:
                 self.logger.error(
-                    f"Sracping failed due to {response.status} on: {url}"
+                    f"Scraping failed due to {response.status} on: {url}"
                 )
-                raise ScrapingError(f"Error while requesting: {url}")
+                raise ScrapingError(f"Error while requesting {url}")
 
             return await response.text(encoding="utf-8")
 
