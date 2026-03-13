@@ -39,7 +39,7 @@ class LinkedInScraper:
         :param keywords: Keywords needed for the job search
         :param full_time: Whether it is a full-time job or an internship
         :param session: aiohttp client session
-        :param max_pages: Maximum number of pages to scrape. Assume that 3rd page is the last revelant page.
+        :param max_pages: Maximum number of pages to scrape. Assume that the 3rd page is the last revelant page.
         """
         geo_id, country = location
         keywords = self._format_keywords(keywords)
