@@ -4,11 +4,11 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1492 offers  
-- Internships: 61  
-- Full-time: 1431
+Total: 1474 offers  
+- Internships: 57  
+- Full-time: 1417
 
-## Internships (61 offers)
+## Internships (57 offers)
 
 ### Siemens
 - **Position:** Software Developer Engineer, Internship
@@ -352,32 +352,8 @@ Total: 1492 offers
 - **Posted on:** 2026-01-23
 - [Apply here](https://se.linkedin.com/jobs/view/summer-internship-engineering-at-dellner-train-connection-systems-4365484456?position=39&pageNum=0&refId=%2FI%2BrRqi01ItuzpR0%2FdAWmQ%3D%3D&trackingId=z7t6Sl4uysIlzeiPcpDmew%3D%3D)
 
-### Velory
-- **Position:** Data and Analytics spring/summer intern 2026
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-01-15
-- [Apply here](https://se.linkedin.com/jobs/view/data-and-analytics-spring-summer-intern-2026-at-velory-4359181413?position=1&pageNum=0&refId=CG%2Bb3qQF362tvi5o4qN7kA%3D%3D&trackingId=sLwW2uB%2FhYRYqP94XcyC2Q%3D%3D)
 
-### Nordic Semiconductor
-- **Position:** Summer Internship - Long Range & Cloud - Norway
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-01-15
-- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-long-range-cloud-norway-at-nordic-semiconductor-4362822350?position=13&pageNum=0&refId=82TNFWudBv2nTrpABcjRrA%3D%3D&trackingId=%2BBMtwE6%2Bc6OKVl52oKF1oQ%3D%3D)
-
-### Nordic Semiconductor
-- **Position:** Summer Internship - Long Range & Cloud - Norway
-- **Location:** Trondheim, Trøndelag, Norway
-- **Posted on:** 2026-01-15
-- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-long-range-cloud-norway-at-nordic-semiconductor-4362822350?position=11&pageNum=0&refId=Drnfe2pCtdPlWOppsu4Axw%3D%3D&trackingId=dgZzpM8hljLt2jTRGkz2bA%3D%3D)
-
-### Grammarly
-- **Position:** Software Engineer Intern (Summer 2026)
-- **Location:** Berlin, Germany
-- **Posted on:** 2026-01-13
-- [Apply here](https://de.linkedin.com/jobs/view/software-engineer-intern-summer-2026-at-grammarly-4345836689?position=13&pageNum=0&refId=jb9Hcia0ciuhVvgbhKBRDw%3D%3D&trackingId=b6qKrmvqRpm6wtr26R%2FFjQ%3D%3D)
-
-
-## Full-time positions (1431 offers)
+## Full-time positions (1417 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8880,88 +8856,4 @@ Total: 1492 offers
 - **Location:** Oslo, Oslo, Norway
 - **Posted on:** 2026-01-16
 - [Apply here](https://no.linkedin.com/jobs/view/cloud-engineer-at-xxl-4360074079?position=9&pageNum=0&refId=Y59rbJCG%2BvFLZ6oOjv9WqQ%3D%3D&trackingId=AjFhS5ebrwNUcLUCVcHuwg%3D%3D)
-
-### LUZA Group
-- **Position:** Cloud & Windows Administrator
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-01-15
-- [Apply here](https://pt.linkedin.com/jobs/view/cloud-windows-administrator-at-luza-group-4370252489?position=17&pageNum=0&refId=ZLN7aDfYa81DN0pjAZekkw%3D%3D&trackingId=f9qe5pj%2FwZMM3S%2BdHMu1nQ%3D%3D)
-
-### LUZA Group
-- **Position:** Cloud Architect
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-01-15
-- [Apply here](https://pt.linkedin.com/jobs/view/cloud-architect-at-luza-group-4370240576?position=44&pageNum=0&refId=ZEfJKyJQWjUqOJlmL%2BfaHw%3D%3D&trackingId=XNX6WTsZtxCLlBiNntv2aw%3D%3D)
-
-### Lynxmind
-- **Position:** Site Reliability Engineer (SRE)
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-01-15
-- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-sre-at-lynxmind-4362861523?position=16&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=YSPNKzyBtrOLQJA%2FNDL%2Fqw%3D%3D)
-
-### moveax
-- **Position:** Cloud & Infrastructure Architect
-- **Location:** Rome, Latium, Italy
-- **Posted on:** 2026-01-15
-- [Apply here](https://it.linkedin.com/jobs/view/cloud-infrastructure-architect-at-moveax-4370873730?position=52&pageNum=0&refId=YWfXs%2FPsa2Q7oCM8fnZf2A%3D%3D&trackingId=SVKAeDMYETIhZQ1njb1Cog%3D%3D)
-
-### Roller Gaming
-- **Position:** Junior Frontend Developer
-- **Location:** Sofia, Sofia City, Bulgaria
-- **Posted on:** 2026-01-15
-- [Apply here](https://bg.linkedin.com/jobs/view/junior-frontend-developer-at-roller-gaming-4353521683?position=23&pageNum=0&refId=Aj2JoxXq28YnpxqXTAn%2FSg%3D%3D&trackingId=I%2BDTAGBDVre%2BdRYYJZaKuA%3D%3D)
-
-### Deploja
-- **Position:** Cloud Engineer
-- **Location:** Gothenburg, Västra Götaland County, Sweden
-- **Posted on:** 2026-01-15
-- [Apply here](https://se.linkedin.com/jobs/view/cloud-engineer-at-deploja-4359171556?position=50&pageNum=0&refId=tsdsGUG7wUlY2wgV17jlwQ%3D%3D&trackingId=WevhcSzvqQ42SOFhQCO6%2BA%3D%3D)
-
-### Vodafone
-- **Position:** Site Reliability Engineer
-- **Location:** Bucharest, Bucharest, Romania
-- **Posted on:** 2026-01-15
-- [Apply here](https://ro.linkedin.com/jobs/view/site-reliability-engineer-at-vodafone-4353018030?position=34&pageNum=0&refId=H8itbAII9eVTnwqaENAZVQ%3D%3D&trackingId=K74%2FY4CGhmNy5T8wqcnTiQ%3D%3D)
-
-### CTG IT Solutions - Europe
-- **Position:** CloudOps Engineer
-- **Location:** Luxembourg
-- **Posted on:** 2026-01-15
-- [Apply here](https://lu.linkedin.com/jobs/view/cloudops-engineer-at-ctg-it-solutions-europe-4362830159?position=18&pageNum=0&refId=LVzK0SE6hZspW5IUcqipAw%3D%3D&trackingId=eFa8P%2BFiRU0%2FJdVfJYZzGw%3D%3D)
-
-### VSE NET GmbH
-- **Position:** Junior CloudOps Engineer (m/w/d)
-- **Location:** Luxembourg
-- **Posted on:** 2026-01-15
-- [Apply here](https://lu.linkedin.com/jobs/view/junior-cloudops-engineer-m-w-d-at-vse-net-gmbh-4363600595?position=19&pageNum=0&refId=LVzK0SE6hZspW5IUcqipAw%3D%3D&trackingId=1BGXn9YHa1eTEXdwejLWMQ%3D%3D)
-
-### Constructor
-- **Position:** Platform Engineer: Platform Infrastructure (Remote)
-- **Location:** Spain
-- **Posted on:** 2026-01-14
-- [Apply here](https://es.linkedin.com/jobs/view/platform-engineer-platform-infrastructure-remote-at-constructor-4370321841?position=42&pageNum=0&refId=RroS%2Bt0z%2BhxHHZO6QMTNcQ%3D%3D&trackingId=64nPhKBaZsC5I8gOpxUtww%3D%3D)
-
-### ITrust
-- **Position:** DevOps (H/F)
-- **Location:** Occitanie, France
-- **Posted on:** 2026-01-14
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-h-f-at-itrust-4362840384?position=2&pageNum=0&refId=U3%2FUFzuZJ1l4hw2xU0kEpw%3D%3D&trackingId=naZczV4jkKiI5bbhYoYhsQ%3D%3D)
-
-### Bit S.P.A.
-- **Position:** Cloud Security Operator
-- **Location:** Turin, Piedmont, Italy
-- **Posted on:** 2026-01-14
-- [Apply here](https://it.linkedin.com/jobs/view/cloud-security-operator-at-bit-s-p-a-4354904818?position=51&pageNum=0&refId=LnfpQ%2Bu3Lzsqr9WuM2OuXA%3D%3D&trackingId=ZhC8hD%2B8B2A8dnCSyamaoQ%3D%3D)
-
-### P3 Logistic Parks
-- **Position:** Financial Systems and Automation Specialist
-- **Location:** Prague, Prague, Czechia
-- **Posted on:** 2026-01-14
-- [Apply here](https://cz.linkedin.com/jobs/view/financial-systems-and-automation-specialist-at-p3-logistic-parks-4370354734?position=17&pageNum=0&refId=EBc4KD2aAhLx4waNKcO2ZA%3D%3D&trackingId=MMlUHuwz2WlBvzXetgKAbA%3D%3D)
-
-### Greenly | Certified B Corp
-- **Position:** AI Engineering Intern - CEO founder associate
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-01-13
-- [Apply here](https://fr.linkedin.com/jobs/view/ai-engineering-intern-ceo-founder-associate-at-greenly-certified-b-corp-4354742533?position=43&pageNum=0&refId=cBpCBpJVhaWg1is07Aj0PA%3D%3D&trackingId=FvQzjV6i6Ej9EBPZkKovjw%3D%3D)
 
