@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1474 offers  
-- Internships: 57  
-- Full-time: 1417
+Total: 1468 offers  
+- Internships: 58  
+- Full-time: 1410
 
-## Internships (57 offers)
+## Internships (58 offers)
+
+### Bandwidth Inc.
+- **Position:** Software Development Intern
+- **Location:** Iaşi, Iaşi, Romania
+- **Posted on:** 2026-03-13
+- [Apply here](https://ro.linkedin.com/jobs/view/software-development-intern-at-bandwidth-inc-4383930651?position=3&pageNum=0&refId=g5y4QrnKTvtEFUHwV5Ps4w%3D%3D&trackingId=dBoBcfFV6g82J3M4QCHNPg%3D%3D)
 
 ### Siemens
 - **Position:** Software Developer Engineer, Internship
@@ -353,7 +359,7 @@ Total: 1474 offers
 - [Apply here](https://se.linkedin.com/jobs/view/summer-internship-engineering-at-dellner-train-connection-systems-4365484456?position=39&pageNum=0&refId=%2FI%2BrRqi01ItuzpR0%2FdAWmQ%3D%3D&trackingId=z7t6Sl4uysIlzeiPcpDmew%3D%3D)
 
 
-## Full-time positions (1417 offers)
+## Full-time positions (1410 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8814,46 +8820,4 @@ Total: 1474 offers
 - **Location:** Paris, Île-de-France, France
 - **Posted on:** 2026-01-19
 - [Apply here](https://fr.linkedin.com/jobs/view/devops-engineer-at-c12-4364630917?position=7&pageNum=0&refId=U3%2FUFzuZJ1l4hw2xU0kEpw%3D%3D&trackingId=kjxTccxJMQPzJ7NSoVBOkA%3D%3D)
-
-### Deutsche Bank
-- **Position:** Site Reliability Engineer (f/m/x)
-- **Location:** Bucharest, Bucharest, Romania
-- **Posted on:** 2026-01-17
-- [Apply here](https://ro.linkedin.com/jobs/view/site-reliability-engineer-f-m-x-at-deutsche-bank-4371287860?position=8&pageNum=0&refId=H8itbAII9eVTnwqaENAZVQ%3D%3D&trackingId=56tlyrXCyr75h8kx7%2FwqHg%3D%3D)
-
-### team.it
-- **Position:** Devops Engineer
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-01-16
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-team-it-4363654774?position=24&pageNum=0&refId=ZEfJKyJQWjUqOJlmL%2BfaHw%3D%3D&trackingId=PWrDT%2FJaCP5rhGgT6Adqzg%3D%3D)
-
-### Tinybird
-- **Position:** Site Reliability Engineer
-- **Location:** Greater Madrid Metropolitan Area
-- **Posted on:** 2026-01-16
-- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineer-at-tinybird-4363553903?position=8&pageNum=0&refId=VUBTu0PF9LAaDuMVEpE9Vg%3D%3D&trackingId=JdKrviVQlqAG0y7qkXTJ8w%3D%3D)
-
-### Information Services
-- **Position:** Linux System Administrator (DevOps) (M/F)
-- **Location:** Sofia, Sofia City, Bulgaria
-- **Posted on:** 2026-01-16
-- [Apply here](https://bg.linkedin.com/jobs/view/linux-system-administrator-devops-m-f-at-information-services-4360024744?position=46&pageNum=0&refId=2OjaOYyH9oKE90K%2BptMU1A%3D%3D&trackingId=SxV%2F%2Ffy3CpFQ859iQ5jtcg%3D%3D)
-
-### Redeploy
-- **Position:** Data & AI Platform Engineer
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-01-16
-- [Apply here](https://se.linkedin.com/jobs/view/data-ai-platform-engineer-at-redeploy-4359243501?position=21&pageNum=0&refId=UzigQEVLu1JC2onoit6MTw%3D%3D&trackingId=YsqxFbGpUTV2sWf80fp7og%3D%3D)
-
-### Apple
-- **Position:** AR/VR Software Engineer, Vision Pro
-- **Location:** Greater Stockholm Metropolitan Area
-- **Posted on:** 2026-01-16
-- [Apply here](https://se.linkedin.com/jobs/view/ar-vr-software-engineer-vision-pro-at-apple-4359235364?position=56&pageNum=0&refId=UzigQEVLu1JC2onoit6MTw%3D%3D&trackingId=QkHVOblCXpcOrNQLgTF75A%3D%3D)
-
-### XXL
-- **Position:** Cloud engineer
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-01-16
-- [Apply here](https://no.linkedin.com/jobs/view/cloud-engineer-at-xxl-4360074079?position=9&pageNum=0&refId=Y59rbJCG%2BvFLZ6oOjv9WqQ%3D%3D&trackingId=AjFhS5ebrwNUcLUCVcHuwg%3D%3D)
 
