@@ -4,9 +4,9 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1468 offers  
+Total: 1463 offers  
 - Internships: 58  
-- Full-time: 1410
+- Full-time: 1405
 
 ## Internships (58 offers)
 
@@ -359,7 +359,7 @@ Total: 1468 offers
 - [Apply here](https://se.linkedin.com/jobs/view/summer-internship-engineering-at-dellner-train-connection-systems-4365484456?position=39&pageNum=0&refId=%2FI%2BrRqi01ItuzpR0%2FdAWmQ%3D%3D&trackingId=z7t6Sl4uysIlzeiPcpDmew%3D%3D)
 
 
-## Full-time positions (1410 offers)
+## Full-time positions (1405 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8790,34 +8790,4 @@ Total: 1468 offers
 - **Location:** Stockholm, Stockholm County, Sweden
 - **Posted on:** 2026-01-20
 - [Apply here](https://se.linkedin.com/jobs/view/site-reliability-engineer-at-fdj-united-4341270698?position=26&pageNum=0&refId=4Bnv516f2Em0kxDIzW3ptg%3D%3D&trackingId=3YZCVK782CJkGHQGIqXU7w%3D%3D)
-
-### HiQo Solutions, Inc.
-- **Position:** Cloud Engineer (office/ remote)
-- **Location:** Cracow, Małopolskie, Poland
-- **Posted on:** 2026-01-19
-- [Apply here](https://pl.linkedin.com/jobs/view/cloud-engineer-office-remote-at-hiqo-solutions-inc-4360444282?position=32&pageNum=0&refId=nImTNYniCO8H5AmRygPrtA%3D%3D&trackingId=ZFbKPjolMucOLV%2Boq3mabA%3D%3D)
-
-### Boldare
-- **Position:** Junior DevOps Engineer
-- **Location:** Gliwice, Śląskie, Poland
-- **Posted on:** 2026-01-19
-- [Apply here](https://pl.linkedin.com/jobs/view/junior-devops-engineer-at-boldare-4364303949?position=10&pageNum=0&refId=2u1pmFpSyMiZDuUG6h3AwQ%3D%3D&trackingId=7PgiMc2oDnm2S%2Bl0Avj5Pw%3D%3D)
-
-### Arista Networks
-- **Position:** Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
-- **Location:** Cracow Metropolitan Area
-- **Posted on:** 2026-01-19
-- [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-sre-devops-engineering-productivity-at-arista-networks-4327949178?position=25&pageNum=0&refId=UPZ075Ufrwc4VwreRddzSw%3D%3D&trackingId=xNjN58b1kIcyNUy0VnIZuw%3D%3D)
-
-### Koalitionen
-- **Position:** Spontanansökan DevOps Engineer
-- **Location:** Gothenburg, Västra Götaland County, Sweden
-- **Posted on:** 2026-01-19
-- [Apply here](https://se.linkedin.com/jobs/view/spontanans%C3%B6kan-devops-engineer-at-koalitionen-4364341844?position=22&pageNum=0&refId=R5kIHLgm%2F6M8QPYQNQZHwg%3D%3D&trackingId=z4usewwLkx1DDIPHMVFQpQ%3D%3D)
-
-### C12
-- **Position:** DevOps Engineer
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-01-19
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-engineer-at-c12-4364630917?position=7&pageNum=0&refId=U3%2FUFzuZJ1l4hw2xU0kEpw%3D%3D&trackingId=kjxTccxJMQPzJ7NSoVBOkA%3D%3D)
 
