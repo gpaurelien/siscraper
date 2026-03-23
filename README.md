@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1463 offers  
-- Internships: 58  
-- Full-time: 1405
+Total: 1451 offers  
+- Internships: 59  
+- Full-time: 1392
 
-## Internships (58 offers)
+## Internships (59 offers)
+
+### Second Foundation
+- **Position:** Software Engineering Intern
+- **Location:** Prague 1, Prague, Czechia
+- **Posted on:** 2026-03-20
+- [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4388546827?position=1&pageNum=0&refId=a2Kde4O8B3eibU50djFa6g%3D%3D&trackingId=NO25K%2FjCJ4Qgo7F7WDS4pw%3D%3D)
 
 ### Bandwidth Inc.
 - **Position:** Software Development Intern
@@ -359,7 +365,7 @@ Total: 1463 offers
 - [Apply here](https://se.linkedin.com/jobs/view/summer-internship-engineering-at-dellner-train-connection-systems-4365484456?position=39&pageNum=0&refId=%2FI%2BrRqi01ItuzpR0%2FdAWmQ%3D%3D&trackingId=z7t6Sl4uysIlzeiPcpDmew%3D%3D)
 
 
-## Full-time positions (1405 offers)
+## Full-time positions (1392 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8712,82 +8718,4 @@ Total: 1463 offers
 - **Location:** Førde, Vestland, Norway
 - **Posted on:** 2026-01-23
 - [Apply here](https://no.linkedin.com/jobs/view/backend-engineer-at-tibber-4369537349?position=53&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=MsAH4OQNwVGSPucMdL4mhA%3D%3D)
-
-### Cerved
-- **Position:** DevOps Engineer Specialist
-- **Location:** Milan, Lombardy, Italy
-- **Posted on:** 2026-01-22
-- [Apply here](https://it.linkedin.com/jobs/view/devops-engineer-specialist-at-cerved-4350928872?position=56&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=gnIXDzXEAXNBA6rnHegalA%3D%3D)
-
-### Redeploy
-- **Position:** Junior Cloud Engineer - Jönköping
-- **Location:** Jönköping, Jönköping County, Sweden
-- **Posted on:** 2026-01-22
-- [Apply here](https://se.linkedin.com/jobs/view/junior-cloud-engineer-j%C3%B6nk%C3%B6ping-at-redeploy-4362516785?position=33&pageNum=0&refId=uCUkk0PzInpG2%2Bep7XWXqg%3D%3D&trackingId=ihke2bxXcmKT2S8D%2FW8gfA%3D%3D)
-
-### Xenon Seven
-- **Position:** Databricks Automation & AI Platform Engineer
-- **Location:** Sweden
-- **Posted on:** 2026-01-22
-- [Apply here](https://se.linkedin.com/jobs/view/databricks-automation-ai-platform-engineer-at-xenon-seven-4365259077?position=2&pageNum=0&refId=UzigQEVLu1JC2onoit6MTw%3D%3D&trackingId=vyV9ee4LJLyMmLsTR2ovcA%3D%3D)
-
-### Stegra
-- **Position:** Devops Engineer
-- **Location:** Norrbotten County, Sweden
-- **Posted on:** 2026-01-22
-- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-at-stegra-4372531436?position=8&pageNum=0&refId=R5kIHLgm%2F6M8QPYQNQZHwg%3D%3D&trackingId=b084N6cwvqvyPpZ0rv9YAA%3D%3D)
-
-### Nikita AB
-- **Position:** DevOps Engineer
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-01-22
-- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-at-nikita-ab-4365351419?position=19&pageNum=0&refId=R5kIHLgm%2F6M8QPYQNQZHwg%3D%3D&trackingId=5cLBQ1iwIprQHPJf0M7PrA%3D%3D)
-
-### Xenon Seven
-- **Position:** Databricks Automation & AI Platform Engineer
-- **Location:** Denmark
-- **Posted on:** 2026-01-22
-- [Apply here](https://dk.linkedin.com/jobs/view/databricks-automation-ai-platform-engineer-at-xenon-seven-4365246285?position=2&pageNum=0&refId=yo%2Fr4pPQEQWHmcxHPf0wmQ%3D%3D&trackingId=Ym0fpiWcSJHuc0O1USzDAw%3D%3D)
-
-### Xenon Seven
-- **Position:** Databricks Automation & AI Platform Engineer
-- **Location:** Belgium
-- **Posted on:** 2026-01-22
-- [Apply here](https://be.linkedin.com/jobs/view/databricks-automation-ai-platform-engineer-at-xenon-seven-4365243445?position=3&pageNum=0&refId=%2Ba%2BOwpYHqtNZcpW%2Fc0PQlA%3D%3D&trackingId=BycGBSKdfsxBXplhCmiSlg%3D%3D)
-
-### LUZA Group
-- **Position:** SRE (Site Reliability Engineer)
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-01-21
-- [Apply here](https://pt.linkedin.com/jobs/view/sre-site-reliability-engineer-at-luza-group-4370260135?position=24&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=7kzf9hFKVus99h414VRqbw%3D%3D)
-
-### Exprivia IT Solutions (Asia)
-- **Position:** Cloud Architect
-- **Location:** Molfetta, Apulia, Italy
-- **Posted on:** 2026-01-21
-- [Apply here](https://it.linkedin.com/jobs/view/cloud-architect-at-exprivia-it-solutions-asia-4362103697?position=37&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=NkRVvE7Oj7MUZa7k1zgPlQ%3D%3D)
-
-### Adavo
-- **Position:** DevOps-administratör Linux
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-01-21
-- [Apply here](https://se.linkedin.com/jobs/view/devops-administrat%C3%B6r-linux-at-adavo-4362181084?position=11&pageNum=0&refId=R5kIHLgm%2F6M8QPYQNQZHwg%3D%3D&trackingId=7PWw%2F%2FHyBKabRHnw7u%2BONQ%3D%3D)
-
-### Portnox
-- **Position:** DevOps Engineer
-- **Location:** Brno, South Moravia, Czechia
-- **Posted on:** 2026-01-21
-- [Apply here](https://cz.linkedin.com/jobs/view/devops-engineer-at-portnox-4373298501?position=46&pageNum=0&refId=cBTPXpeqqTBsrmFbfmqNpQ%3D%3D&trackingId=L4nIIc7UHZtsdjy1pn7sAw%3D%3D)
-
-### Glia
-- **Position:** Director of Engineering, Platform
-- **Location:** Poland
-- **Posted on:** 2026-01-20
-- [Apply here](https://pl.linkedin.com/jobs/view/director-of-engineering-platform-at-glia-4352162145?position=34&pageNum=0&refId=UPZ075Ufrwc4VwreRddzSw%3D%3D&trackingId=RZP7V0BfJgqDP4tk6xO9Dg%3D%3D)
-
-### FDJ UNITED
-- **Position:** Site Reliability Engineer
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-01-20
-- [Apply here](https://se.linkedin.com/jobs/view/site-reliability-engineer-at-fdj-united-4341270698?position=26&pageNum=0&refId=4Bnv516f2Em0kxDIzW3ptg%3D%3D&trackingId=3YZCVK782CJkGHQGIqXU7w%3D%3D)
 
