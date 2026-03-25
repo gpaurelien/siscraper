@@ -4,11 +4,11 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1451 offers  
-- Internships: 59  
-- Full-time: 1392
+Total: 1444 offers  
+- Internships: 58  
+- Full-time: 1386
 
-## Internships (59 offers)
+## Internships (58 offers)
 
 ### Second Foundation
 - **Position:** Software Engineering Intern
@@ -358,14 +358,8 @@ Total: 1451 offers
 - **Posted on:** 2026-01-28
 - [Apply here](https://pl.linkedin.com/jobs/view/cloud-development-engineer-intern-summer-2026-at-pegasystems-4351732542?position=33&pageNum=0&refId=v4rrYxq8nlgsrlwoW5BVQA%3D%3D&trackingId=KG2xJg9heFmUi5%2BdAQYIqQ%3D%3D)
 
-### Dellner - Train Connection Systems
-- **Position:** Summer internship Engineering
-- **Location:** Falun, Dalarna County, Sweden
-- **Posted on:** 2026-01-23
-- [Apply here](https://se.linkedin.com/jobs/view/summer-internship-engineering-at-dellner-train-connection-systems-4365484456?position=39&pageNum=0&refId=%2FI%2BrRqi01ItuzpR0%2FdAWmQ%3D%3D&trackingId=z7t6Sl4uysIlzeiPcpDmew%3D%3D)
 
-
-## Full-time positions (1392 offers)
+## Full-time positions (1386 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8682,40 +8676,4 @@ Total: 1451 offers
 - **Location:** Madrid, Community of Madrid, Spain
 - **Posted on:** 2026-01-25
 - [Apply here](https://es.linkedin.com/jobs/view/junior-devops-engineer-at-formula-recruitment-4340762156?position=36&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=9CBVawVsjAf9hIFk5aUktA%3D%3D)
-
-### Devapo
-- **Position:** DevOps Engineer
-- **Location:** Warsaw, Mazowieckie, Poland
-- **Posted on:** 2026-01-23
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-devapo-4365539270?position=38&pageNum=0&refId=2u1pmFpSyMiZDuUG6h3AwQ%3D%3D&trackingId=zC9ChGaOnL05yKbbPmCq6w%3D%3D)
-
-### RingCentral
-- **Position:** (Sr.)Site Reliability Engineer(RingCX)
-- **Location:** Sofia City, Bulgaria
-- **Posted on:** 2026-01-23
-- [Apply here](https://bg.linkedin.com/jobs/view/sr-site-reliability-engineer-ringcx-at-ringcentral-4321351370?position=24&pageNum=0&refId=FucxkLVaJZ%2Fjonifft4tZg%3D%3D&trackingId=GUsulKcBf9%2FAnMxij9pWbQ%3D%3D)
-
-### MLabs
-- **Position:** Junior Python Developer
-- **Location:** France
-- **Posted on:** 2026-01-23
-- [Apply here](https://fr.linkedin.com/jobs/view/junior-python-developer-at-mlabs-4373999797?position=32&pageNum=0&refId=TALKpNRcRgYrxZFbMPzvuw%3D%3D&trackingId=gmDkisI92mOgSF9dOQzQ%2FQ%3D%3D)
-
-### Pix
-- **Position:** Site Reliability Engineer
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-01-23
-- [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-at-pix-4363495017?position=13&pageNum=0&refId=iOob6UvsWHf5hiI1N%2BZLKg%3D%3D&trackingId=kRNj%2BZM%2B%2F6rrFJQ%2FB1fDyQ%3D%3D)
-
-### Forterro
-- **Position:** Cloud Site Reliability Engineer
-- **Location:** Saint-Vincent-de-Tyrosse, Nouvelle-Aquitaine, France
-- **Posted on:** 2026-01-23
-- [Apply here](https://fr.linkedin.com/jobs/view/cloud-site-reliability-engineer-at-forterro-4365500798?position=60&pageNum=0&refId=UrrVsR%2BXtLMGROMddO6ZTg%3D%3D&trackingId=7tXsSRbOphC2YGUFcCHnZA%3D%3D)
-
-### Tibber
-- **Position:** Backend Engineer
-- **Location:** Førde, Vestland, Norway
-- **Posted on:** 2026-01-23
-- [Apply here](https://no.linkedin.com/jobs/view/backend-engineer-at-tibber-4369537349?position=53&pageNum=0&refId=mrhrxYcc8tPDopOa3RF%2F%2Bg%3D%3D&trackingId=MsAH4OQNwVGSPucMdL4mhA%3D%3D)
 
