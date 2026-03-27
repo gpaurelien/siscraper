@@ -4,9 +4,9 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1444 offers  
+Total: 1439 offers  
 - Internships: 58  
-- Full-time: 1386
+- Full-time: 1381
 
 ## Internships (58 offers)
 
@@ -359,7 +359,7 @@ Total: 1444 offers
 - [Apply here](https://pl.linkedin.com/jobs/view/cloud-development-engineer-intern-summer-2026-at-pegasystems-4351732542?position=33&pageNum=0&refId=v4rrYxq8nlgsrlwoW5BVQA%3D%3D&trackingId=KG2xJg9heFmUi5%2BdAQYIqQ%3D%3D)
 
 
-## Full-time positions (1386 offers)
+## Full-time positions (1381 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8646,34 +8646,4 @@ Total: 1444 offers
 - **Location:** Barcelona, Catalonia, Spain
 - **Posted on:** 2026-01-27
 - [Apply here](https://es.linkedin.com/jobs/view/platform-engineer-devops-python-go-linux-at-cdmon-4356044185?position=58&pageNum=0&refId=gAYm%2BzJXUwiCrnGicd8LmQ%3D%3D&trackingId=t7r4L%2B4%2BY9CySm8ub6nw1g%3D%3D)
-
-### Infortec Consultores
-- **Position:** ADMINISTRADOR CLOUD JUNIOR
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-01-26
-- [Apply here](https://es.linkedin.com/jobs/view/administrador-cloud-junior-at-infortec-consultores-4366154694?position=21&pageNum=0&refId=5zkKt2wjT0DT9LNmc0A2LA%3D%3D&trackingId=xU87B0TPXBR56cO%2B%2B%2F4qSg%3D%3D)
-
-### Twoday
-- **Position:** Data Platform Engineer
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-01-26
-- [Apply here](https://no.linkedin.com/jobs/view/data-platform-engineer-at-twoday-4321549390?position=16&pageNum=0&refId=Am1uRHEUVEW1Po5mhmVu7Q%3D%3D&trackingId=qXvngGH3v%2Bf%2F3ytPGITXxw%3D%3D)
-
-### Iguane Solutions
-- **Position:** Site Reliability Engineer (SRE) – Paris 8
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-01-26
-- [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-sre-%E2%80%93-paris-8-at-iguane-solutions-4366212843?position=23&pageNum=0&refId=iOob6UvsWHf5hiI1N%2BZLKg%3D%3D&trackingId=ESxLSqSwQQpysInl%2FiNgVg%3D%3D)
-
-### Swapcard
-- **Position:** Security Engineer - SecOps & Cloud
-- **Location:** Prague, Prague, Czechia
-- **Posted on:** 2026-01-26
-- [Apply here](https://cz.linkedin.com/jobs/view/security-engineer-secops-cloud-at-swapcard-4366219258?position=38&pageNum=0&refId=thhfxNAusvL5TArwuKXQxw%3D%3D&trackingId=fuZ1mup8HP99cSt8L1DxiA%3D%3D)
-
-### Formula Recruitment
-- **Position:** Junior DevOps Engineer
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-01-25
-- [Apply here](https://es.linkedin.com/jobs/view/junior-devops-engineer-at-formula-recruitment-4340762156?position=36&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=9CBVawVsjAf9hIFk5aUktA%3D%3D)
 
