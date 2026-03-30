@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1439 offers  
-- Internships: 58  
-- Full-time: 1381
+Total: 1411 offers  
+- Internships: 56  
+- Full-time: 1355
 
-## Internships (58 offers)
+## Internships (56 offers)
+
+### Siemens Digital Industries Software
+- **Position:** Embedded Software QA Engineer, Internship
+- **Location:** Poznań, Wielkopolskie, Poland
+- **Posted on:** 2026-03-27
+- [Apply here](https://pl.linkedin.com/jobs/view/embedded-software-qa-engineer-internship-at-siemens-digital-industries-software-4390997804?position=41&pageNum=0&refId=TKdfHtQS6AnrEoMlZFCwbw%3D%3D&trackingId=WxEL2cY0CJP%2F4a2h67xYGA%3D%3D)
 
 ### Second Foundation
 - **Position:** Software Engineering Intern
@@ -340,26 +346,8 @@ Total: 1439 offers
 - **Posted on:** 2026-02-02
 - [Apply here](https://cz.linkedin.com/jobs/view/sw-engineer-summer-2026-internship-at-pure-storage-4368043103?position=1&pageNum=0&refId=f6TtboBe53dq9x9jO57vew%3D%3D&trackingId=Wui8UTSorzvyDR%2BeoRB9fQ%3D%3D)
 
-### Dynatrace
-- **Position:** Software Engineering  - Summer Internships 2026 (m/f/x)
-- **Location:** Gdańsk, Pomorskie, Poland
-- **Posted on:** 2026-01-29
-- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-summer-internships-2026-m-f-x-at-dynatrace-4367156219?position=9&pageNum=0&refId=v4rrYxq8nlgsrlwoW5BVQA%3D%3D&trackingId=0bR4QhqmsPT1udrwEVStBQ%3D%3D)
 
-### Capgemini
-- **Position:** Software Engineer Internship
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-01-29
-- [Apply here](https://no.linkedin.com/jobs/view/software-engineer-internship-at-capgemini-4367167521?position=8&pageNum=0&refId=zcqBbKCTifrjLEUDVJvf2A%3D%3D&trackingId=ql3gcrB0nUi980ns3%2FsLFA%3D%3D)
-
-### Pegasystems
-- **Position:** Cloud Development Engineer Intern - Summer 2026
-- **Location:** Cracow, Małopolskie, Poland
-- **Posted on:** 2026-01-28
-- [Apply here](https://pl.linkedin.com/jobs/view/cloud-development-engineer-intern-summer-2026-at-pegasystems-4351732542?position=33&pageNum=0&refId=v4rrYxq8nlgsrlwoW5BVQA%3D%3D&trackingId=KG2xJg9heFmUi5%2BdAQYIqQ%3D%3D)
-
-
-## Full-time positions (1381 offers)
+## Full-time positions (1355 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8490,160 +8478,4 @@ Total: 1439 offers
 - **Location:** Tampere, Pirkanmaa, Finland
 - **Posted on:** 2026-01-30
 - [Apply here](https://fi.linkedin.com/jobs/view/platform-engineer-at-polar-squad-4367220098?position=60&pageNum=0&refId=pmNVqFvOjyGBWMcRRX2wLg%3D%3D&trackingId=aB6A7x%2BfyXs%2BGsCFt%2FxISA%3D%3D)
-
-### agap2IT Portugal
-- **Position:** DevOps Engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-01-29
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-agap2it-portugal-4375351581?position=34&pageNum=0&refId=ZEfJKyJQWjUqOJlmL%2BfaHw%3D%3D&trackingId=h5RNjiE9CAXeRjCQ40KxMg%3D%3D)
-
-### AdvanceWorks
-- **Position:** Site Reliability Engineer
-- **Location:** Lisbon, Portugal
-- **Posted on:** 2026-01-29
-- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-advanceworks-4367171785?position=25&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=kHZ4jbM0yxCDFlJJ%2BwXW3Q%3D%3D)
-
-### WayOps
-- **Position:** DevOps Engineer (Híbrido)
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-01-29
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-h%C3%ADbrido-at-wayops-4366561117?position=45&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=yMfNO1Keih7LNEDQimFsTQ%3D%3D)
-
-### Marchesini Group S.p.A.
-- **Position:** DevOps Engineer
-- **Location:** Pianoro, Emilia-Romagna, Italy
-- **Posted on:** 2026-01-29
-- [Apply here](https://it.linkedin.com/jobs/view/devops-engineer-at-marchesini-group-s-p-a-4367309028?position=30&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=slXq%2FlYPg2wLns3ttkn7Wg%3D%3D)
-
-### Playdead
-- **Position:** DevOps Engineer
-- **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- **Posted on:** 2026-01-29
-- [Apply here](https://dk.linkedin.com/jobs/view/devops-engineer-at-playdead-4367159471?position=1&pageNum=0&refId=Jh5SfS6zZi17QrrZ8sW3iw%3D%3D&trackingId=oU2H%2FnA4RQE3b2564gBB4Q%3D%3D)
-
-### Relewise
-- **Position:** DevOps Engineer
-- **Location:** Aarhus, Central Denmark Region, Denmark
-- **Posted on:** 2026-01-29
-- [Apply here](https://dk.linkedin.com/jobs/view/devops-engineer-at-relewise-4367160450?position=34&pageNum=0&refId=Jh5SfS6zZi17QrrZ8sW3iw%3D%3D&trackingId=ky90kD3kxH6fC92W4UZqJw%3D%3D)
-
-### Hipo.ro
-- **Position:** Site Reliability Engineer - WARF @ING Bank
-- **Location:** Ilfov, Romania
-- **Posted on:** 2026-01-29
-- [Apply here](https://ro.linkedin.com/jobs/view/site-reliability-engineer-warf-%40ing-bank-at-hipo-ro-4367316533?position=33&pageNum=0&refId=H8itbAII9eVTnwqaENAZVQ%3D%3D&trackingId=u0y4F6oQpW84Pc%2F6inSC2g%3D%3D)
-
-### IQVIA
-- **Position:** Junior DevOps Engineer
-- **Location:** Bucharest, Bucharest, Romania
-- **Posted on:** 2026-01-29
-- [Apply here](https://ro.linkedin.com/jobs/view/junior-devops-engineer-at-iqvia-4331041899?position=23&pageNum=0&refId=ueyw0bpm8gQDoI04LRNFHQ%3D%3D&trackingId=QAF0Cs02sCz3k2EaSCIQ0w%3D%3D)
-
-### IQVIA
-- **Position:** Junior DevOps Engineer
-- **Location:** Cluj-Napoca, Cluj, Romania
-- **Posted on:** 2026-01-29
-- [Apply here](https://ro.linkedin.com/jobs/view/junior-devops-engineer-at-iqvia-4330943545?position=42&pageNum=0&refId=ueyw0bpm8gQDoI04LRNFHQ%3D%3D&trackingId=3WFfEOyhgT7PhhFF0hK8Tw%3D%3D)
-
-### IQVIA
-- **Position:** Junior DevOps Engineer
-- **Location:** Timişoara, Timiş, Romania
-- **Posted on:** 2026-01-29
-- [Apply here](https://ro.linkedin.com/jobs/view/junior-devops-engineer-at-iqvia-4330943546?position=57&pageNum=0&refId=ueyw0bpm8gQDoI04LRNFHQ%3D%3D&trackingId=%2BGsuXcYlNk3t02in07x9Vg%3D%3D)
-
-### Signify Technology
-- **Position:** Site Reliability Engineer
-- **Location:** Portugal
-- **Posted on:** 2026-01-28
-- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-signify-technology-4356470324?position=30&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=AVfeE5nVnl5KHf00IDHYug%3D%3D)
-
-### GoCardless
-- **Position:** Site Reliability Engineer
-- **Location:** Lisbon, Portugal
-- **Posted on:** 2026-01-28
-- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-gocardless-4311419991?position=55&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=DarV2CPHilInPXelmSQlCw%3D%3D)
-
-### Proxima Group
-- **Position:** DevOps Engineer
-- **Location:** Rome, Latium, Italy
-- **Posted on:** 2026-01-28
-- [Apply here](https://it.linkedin.com/jobs/view/devops-engineer-at-proxima-group-4356560983?position=33&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=iBesUYW1DjAw2fUHWxGwtg%3D%3D)
-
-### Mirantis
-- **Position:** Systems / DevOps engineer
-- **Location:** Sofia, Sofia City, Bulgaria
-- **Posted on:** 2026-01-28
-- [Apply here](https://bg.linkedin.com/jobs/view/systems-devops-engineer-at-mirantis-4366797192?position=41&pageNum=0&refId=PZGEYxElWjw8n0WmTRKU0Q%3D%3D&trackingId=QfqUs%2B2tyvadr0ZBIcHrdQ%3D%3D)
-
-### Aqilea
-- **Position:** Platform / Cloud Architect – SAP RISE
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-01-28
-- [Apply here](https://se.linkedin.com/jobs/view/platform-cloud-architect-%E2%80%93-sap-rise-at-aqilea-4366753761?position=1&pageNum=0&refId=UzigQEVLu1JC2onoit6MTw%3D%3D&trackingId=IN6Mt0DD9WldYCZDaIoW0A%3D%3D)
-
-### TechSeed
-- **Position:** DevOps / Platform Engineer / Cloud & Production Systems
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-01-28
-- [Apply here](https://se.linkedin.com/jobs/view/devops-platform-engineer-cloud-production-systems-at-techseed-4366469262?position=58&pageNum=0&refId=THTEirYusjqcJuxUHDdEFg%3D%3D&trackingId=hqJATT3pIHHHVgUO380V8A%3D%3D)
-
-### Reclut
-- **Position:** Ingeniero DevOps
-- **Location:** Murcia, Región de Murcia, Spain
-- **Posted on:** 2026-01-28
-- [Apply here](https://es.linkedin.com/jobs/view/ingeniero-devops-at-reclut-4366507816?position=59&pageNum=0&refId=Qip7kyn4SOjImi7aZ7ZYqw%3D%3D&trackingId=rCMi5w5rLMgzBMvoFhlK7g%3D%3D)
-
-### eXalt
-- **Position:** ⚡ Site Reliability Engineer | Ultra-Low Latency Trading
-- **Location:** Lisbon, Portugal
-- **Posted on:** 2026-01-27
-- [Apply here](https://pt.linkedin.com/jobs/view/%E2%9A%A1-site-reliability-engineer-ultra-low-latency-trading-at-exalt-4366055351?position=42&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=%2FXo3RuE6IPaUuhlsKMA1jg%3D%3D)
-
-### Techland
-- **Position:** DevOps Engineer
-- **Location:** Warsaw, Mazowieckie, Poland
-- **Posted on:** 2026-01-27
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-techland-4365955897?position=3&pageNum=0&refId=2u1pmFpSyMiZDuUG6h3AwQ%3D%3D&trackingId=pQg%2FVE9QVyO6vYDu9NDvTQ%3D%3D)
-
-### Techland
-- **Position:** DevOps Engineer
-- **Location:** Wrocław, Dolnośląskie, Poland
-- **Posted on:** 2026-01-27
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-techland-4365968298?position=5&pageNum=0&refId=2u1pmFpSyMiZDuUG6h3AwQ%3D%3D&trackingId=A7MTIC13bAQXFoPFDyzhTg%3D%3D)
-
-### ScyllaDB
-- **Position:** Site Reliability Engineer
-- **Location:** Warsaw, Mazowieckie, Poland
-- **Posted on:** 2026-01-27
-- [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-at-scylladb-4366636595?position=7&pageNum=0&refId=UPZ075Ufrwc4VwreRddzSw%3D%3D&trackingId=AB37DuSESrjaI4Ess5lZeA%3D%3D)
-
-### EnduroSat
-- **Position:** Site Reliability Engineer
-- **Location:** Sofia, Sofia City, Bulgaria
-- **Posted on:** 2026-01-27
-- [Apply here](https://bg.linkedin.com/jobs/view/site-reliability-engineer-at-endurosat-4366341578?position=6&pageNum=0&refId=FucxkLVaJZ%2Fjonifft4tZg%3D%3D&trackingId=HnlGEKvXlHHf2T4VaDj6Qw%3D%3D)
-
-### TetraScience
-- **Position:** Enterprise Account Executive - Scientific Data Cloud (Denmark)
-- **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- **Posted on:** 2026-01-27
-- [Apply here](https://dk.linkedin.com/jobs/view/enterprise-account-executive-scientific-data-cloud-denmark-at-tetrascience-4366349935?position=17&pageNum=0&refId=8OHqAVitIbpeIVpQab%2BI2Q%3D%3D&trackingId=xTnN%2FAy9eskF8F5EFxj78g%3D%3D)
-
-### TetraScience
-- **Position:** Enterprise Account Executive - Scientific Data Cloud (Denmark)
-- **Location:** Denmark
-- **Posted on:** 2026-01-27
-- [Apply here](https://dk.linkedin.com/jobs/view/enterprise-account-executive-scientific-data-cloud-denmark-at-tetrascience-4366358664?position=19&pageNum=0&refId=8OHqAVitIbpeIVpQab%2BI2Q%3D%3D&trackingId=HBkbIqMQbkkGJJRl0Ke%2F9w%3D%3D)
-
-### AKONIS
-- **Position:** Site Reliability Engineer
-- **Location:** Rennes, Brittany, France
-- **Posted on:** 2026-01-27
-- [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-at-akonis-4365945199?position=33&pageNum=0&refId=iOob6UvsWHf5hiI1N%2BZLKg%3D%3D&trackingId=8Oanv%2BHPqDD7H2ThzVk5XA%3D%3D)
-
-### cdmon
-- **Position:** Platform Engineer / DevOps (Python/Go & Linux)
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-01-27
-- [Apply here](https://es.linkedin.com/jobs/view/platform-engineer-devops-python-go-linux-at-cdmon-4356044185?position=58&pageNum=0&refId=gAYm%2BzJXUwiCrnGicd8LmQ%3D%3D&trackingId=t7r4L%2B4%2BY9CySm8ub6nw1g%3D%3D)
 
