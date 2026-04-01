@@ -4,11 +4,11 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1411 offers  
-- Internships: 56  
-- Full-time: 1355
+Total: 1398 offers  
+- Internships: 57  
+- Full-time: 1341
 
-## Internships (56 offers)
+## Internships (57 offers)
 
 ### Siemens Digital Industries Software
 - **Position:** Embedded Software QA Engineer, Internship
@@ -39,6 +39,12 @@ Total: 1411 offers
 - **Location:** Iași, Braşov, Romania
 - **Posted on:** 2026-03-12
 - [Apply here](https://ro.linkedin.com/jobs/view/software-development-intern-at-bandwidth-inc-4383930651?position=3&pageNum=0&refId=8lPStL8NShgEw3DZOg4LZA%3D%3D&trackingId=Ay7auX23BB5lW2yHG51zhA%3D%3D)
+
+### Pegasystems
+- **Position:** Cloud Development Engineer Intern - Summer 2026
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-03-12
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-development-engineer-intern-summer-2026-at-pegasystems-4351732542?position=42&pageNum=0&refId=p3l3fu1TBKY%2FjiEiP6I9bA%3D%3D&trackingId=eE5F1UzPb%2BHQez7gC5UqwA%3D%3D)
 
 ### Winnow
 - **Position:** Summer intern - Software Engineer (2026/2027 graduates)
@@ -347,7 +353,7 @@ Total: 1411 offers
 - [Apply here](https://cz.linkedin.com/jobs/view/sw-engineer-summer-2026-internship-at-pure-storage-4368043103?position=1&pageNum=0&refId=f6TtboBe53dq9x9jO57vew%3D%3D&trackingId=Wui8UTSorzvyDR%2BeoRB9fQ%3D%3D)
 
 
-## Full-time positions (1355 offers)
+## Full-time positions (1341 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8394,88 +8400,4 @@ Total: 1411 offers
 - **Location:** Mechelen, Flemish Region, Belgium
 - **Posted on:** 2026-02-01
 - [Apply here](https://be.linkedin.com/jobs/view/site-reliability-engineer-at-protime-4367749642?position=8&pageNum=0&refId=y7JZaLLPH%2BN6V%2FQ6z4uniQ%3D%3D&trackingId=8O3oxVfdLNGzNoC39C9BLw%3D%3D)
-
-### Deutsche Telekom
-- **Position:** DevOps Engineer (m/w/d)
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-01-31
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-m-w-d-at-deutsche-telekom-4367912331?position=54&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=tNb0wKGe2VyJWt3Wz%2BJQFg%3D%3D)
-
-### Deutsche Telekom
-- **Position:** Cloud-Monitoring-Ingenieur (m/w/d)
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-01-31
-- [Apply here](https://es.linkedin.com/jobs/view/cloud-monitoring-ingenieur-m-w-d-at-deutsche-telekom-4367926129?position=34&pageNum=0&refId=5zkKt2wjT0DT9LNmc0A2LA%3D%3D&trackingId=e82%2FEwXccp2mwfeDzjfd%2FA%3D%3D)
-
-### Deutsche Telekom
-- **Position:** DevOps Engineer (m/w/d)
-- **Location:** Reus, Catalonia, Spain
-- **Posted on:** 2026-01-31
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-m-w-d-at-deutsche-telekom-4367920224?position=55&pageNum=0&refId=gAYm%2BzJXUwiCrnGicd8LmQ%3D%3D&trackingId=WRyBFJ4GyT6AMgON9DgsVA%3D%3D)
-
-### Deutsche Telekom
-- **Position:** Cloud Monitoring Engineer (m/f/d)
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-01-31
-- [Apply here](https://es.linkedin.com/jobs/view/cloud-monitoring-engineer-m-f-d-at-deutsche-telekom-4367926129?position=43&pageNum=0&refId=%2BoFJnUpnRizzmPiM%2BO7krw%3D%3D&trackingId=Zyw3recm6kltgDHyfZS4Xw%3D%3D)
-
-### Deutsche Telekom
-- **Position:** DevOps Engineer (m/f/d)
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-01-31
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-m-f-d-at-deutsche-telekom-4367912331?position=47&pageNum=0&refId=adddh4b0gyQtQYbRJNPQ7Q%3D%3D&trackingId=lr455aDUh4DG09uWIUGowQ%3D%3D)
-
-### Deutsche Telekom
-- **Position:** DevOps Engineer (m/f/d)
-- **Location:** Reus, Catalonia, Spain
-- **Posted on:** 2026-01-31
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-m-f-d-at-deutsche-telekom-4367920224?position=50&pageNum=0&refId=adddh4b0gyQtQYbRJNPQ7Q%3D%3D&trackingId=kooMw3sLLWAdYP8YsF3ZpQ%3D%3D)
-
-### PulseRise Technologies
-- **Position:** Infrastructure Engineer (SBC / Web Infrastructure / Cloud Architecture)
-- **Location:** Prague, Prague, Czechia
-- **Posted on:** 2026-01-31
-- [Apply here](https://cz.linkedin.com/jobs/view/infrastructure-engineer-sbc-web-infrastructure-cloud-architecture-at-pulserise-technologies-4367517489?position=44&pageNum=0&refId=lWOhgGdbmmxwFbab9UhhHQ%3D%3D&trackingId=vDn8tm7A9%2Fxv59qkZFtekw%3D%3D)
-
-### Sysmatch
-- **Position:** DevOps and Site Reliability Engineer (SRE)
-- **Location:** Porto, Portugal
-- **Posted on:** 2026-01-30
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-and-site-reliability-engineer-sre-at-sysmatch-4367608192?position=53&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=T%2FvHkDGCXQa6gUAh1HQkWg%3D%3D)
-
-### Var Group
-- **Position:** Junior Platform Engineer (Automation & DevOps)
-- **Location:** Bologna, Emilia-Romagna, Italy
-- **Posted on:** 2026-01-30
-- [Apply here](https://it.linkedin.com/jobs/view/junior-platform-engineer-automation-devops-at-var-group-4367215395?position=47&pageNum=0&refId=l63%2BowfloytY54Cht7S3xg%3D%3D&trackingId=r2k8PFFQFCwL27Q4q5eBUA%3D%3D)
-
-### F1 Consulting & Services
-- **Position:** Cloud Engineer
-- **Location:** Italy
-- **Posted on:** 2026-01-30
-- [Apply here](https://it.linkedin.com/jobs/view/cloud-engineer-at-f1-consulting-services-4356658626?position=49&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=rOAbO%2BrDUqGJTDpckFtFlg%3D%3D)
-
-### Protector Forsikring ASA
-- **Position:** Want to build a world-class developer platform?
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-01-30
-- [Apply here](https://no.linkedin.com/jobs/view/want-to-build-a-world-class-developer-platform%3F-at-protector-forsikring-asa-4367024971?position=2&pageNum=0&refId=Am1uRHEUVEW1Po5mhmVu7Q%3D%3D&trackingId=9EfQ8JQC6mnUlJjICwwxvQ%3D%3D)
-
-### Forterro │ FR
-- **Position:** CloudOps Operator
-- **Location:** Caen, Normandy, France
-- **Posted on:** 2026-01-30
-- [Apply here](https://fr.linkedin.com/jobs/view/cloudops-operator-at-forterro-%E2%94%82-fr-4367448086?position=32&pageNum=0&refId=U3%2FUFzuZJ1l4hw2xU0kEpw%3D%3D&trackingId=TlTqY2cVdjouf4%2F0IroxyA%3D%3D)
-
-### Polar Squad
-- **Position:** AI Platform Engineer
-- **Location:** Helsinki, Uusimaa, Finland
-- **Posted on:** 2026-01-30
-- [Apply here](https://fi.linkedin.com/jobs/view/ai-platform-engineer-at-polar-squad-4367207399?position=36&pageNum=0&refId=v0n9NmWr9CVpECVWvtDTyA%3D%3D&trackingId=fXz19qD%2BcrbZ12oOKheh6w%3D%3D)
-
-### Polar Squad
-- **Position:** Platform Engineer
-- **Location:** Tampere, Pirkanmaa, Finland
-- **Posted on:** 2026-01-30
-- [Apply here](https://fi.linkedin.com/jobs/view/platform-engineer-at-polar-squad-4367220098?position=60&pageNum=0&refId=pmNVqFvOjyGBWMcRRX2wLg%3D%3D&trackingId=aB6A7x%2BfyXs%2BGsCFt%2FxISA%3D%3D)
 
