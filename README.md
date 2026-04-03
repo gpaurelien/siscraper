@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1398 offers  
+Total: 1386 offers  
 - Internships: 57  
-- Full-time: 1341
+- Full-time: 1329
 
 ## Internships (57 offers)
+
+### IAR
+- **Position:** Junior Software Engineer (Paid Summer Internship) – Uppsala
+- **Location:** Uppsala, Uppsala County, Sweden
+- **Posted on:** 2026-04-01
+- [Apply here](https://se.linkedin.com/jobs/view/junior-software-engineer-paid-summer-internship-%E2%80%93-uppsala-at-iar-4394906502?position=5&pageNum=0&refId=ZryJ%2FfqZQjUx2G2JivrSsQ%3D%3D&trackingId=KqNwKoTdUEv3Tv7dIbQJJA%3D%3D)
 
 ### Siemens Digital Industries Software
 - **Position:** Embedded Software QA Engineer, Internship
@@ -346,14 +352,8 @@ Total: 1398 offers
 - **Posted on:** 2026-02-03
 - [Apply here](https://se.linkedin.com/jobs/view/fy26-software-test-modernization-summer-intern-june-aug-2026-link%C3%B6ping-sweden-at-qualcomm-4345619107?position=60&pageNum=0&refId=%2FI%2BrRqi01ItuzpR0%2FdAWmQ%3D%3D&trackingId=GFU3lD6clHhM5YVXMu1Aog%3D%3D)
 
-### Pure Storage
-- **Position:** SW Engineer - Summer 2026 Internship
-- **Location:** Prague, Prague, Czechia
-- **Posted on:** 2026-02-02
-- [Apply here](https://cz.linkedin.com/jobs/view/sw-engineer-summer-2026-internship-at-pure-storage-4368043103?position=1&pageNum=0&refId=f6TtboBe53dq9x9jO57vew%3D%3D&trackingId=Wui8UTSorzvyDR%2BeoRB9fQ%3D%3D)
 
-
-## Full-time positions (1341 offers)
+## Full-time positions (1329 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -8328,76 +8328,4 @@ Total: 1398 offers
 - **Location:** Madrid, Community of Madrid, Spain
 - **Posted on:** 2026-02-03
 - [Apply here](https://es.linkedin.com/jobs/view/automation-devops-engineer-ansible-at-serem-consultor%C3%ADa-empresarial-4376283344?position=56&pageNum=0&refId=OLbE7g9cn4cteojofGtiuQ%3D%3D&trackingId=GhPZEWQdrwliF%2B94KDX8Tw%3D%3D)
-
-### iCliGo
-- **Position:** DevOps/SRE (M/F/D)
-- **Location:** Vila Nova de Gaia, Porto, Portugal
-- **Posted on:** 2026-02-02
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-sre-m-f-d-at-icligo-4368354141?position=56&pageNum=0&refId=ZEfJKyJQWjUqOJlmL%2BfaHw%3D%3D&trackingId=dApSlRy1bf2WQsFvkGtNqw%3D%3D)
-
-### Outrigo
-- **Position:** DevOps / Cloud Engineer
-- **Location:** Greater Barcelona Metropolitan Area
-- **Posted on:** 2026-02-02
-- [Apply here](https://es.linkedin.com/jobs/view/devops-cloud-engineer-at-outrigo-4357581466?position=39&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=X8dWT8UmmadyrUWKJdPM1g%3D%3D)
-
-### Infortec Consultores
-- **Position:** DevOps Engineer
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-02-02
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-at-infortec-consultores-4368394541?position=47&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=Wn1ArCWEZKiLzxEN0J2MiQ%3D%3D)
-
-### Hermes Corporate
-- **Position:** DevOps Engineer
-- **Location:** Italy
-- **Posted on:** 2026-02-02
-- [Apply here](https://it.linkedin.com/jobs/view/devops-engineer-at-hermes-corporate-4368183063?position=18&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=91m6ZhovsCsgDgoX5DCjrg%3D%3D)
-
-### Westernacher Solutions
-- **Position:** DevOps Engineer
-- **Location:** Sofia, Sofia City, Bulgaria
-- **Posted on:** 2026-02-02
-- [Apply here](https://bg.linkedin.com/jobs/view/devops-engineer-at-westernacher-solutions-4357482416?position=48&pageNum=0&refId=PZGEYxElWjw8n0WmTRKU0Q%3D%3D&trackingId=ZFHRACzdkcNSDB3mtKXslQ%3D%3D)
-
-### Cambio Group
-- **Position:** DevOps Engineer within eHealth
-- **Location:** Umeå, Västerbotten County, Sweden
-- **Posted on:** 2026-02-02
-- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-within-ehealth-at-cambio-group-4367862058?position=51&pageNum=0&refId=R5kIHLgm%2F6M8QPYQNQZHwg%3D%3D&trackingId=FxkSRXa00u8fKCZ5NmUB6Q%3D%3D)
-
-### Lunar
-- **Position:** Platform Engineer
-- **Location:** Aarhus, Central Denmark Region, Denmark
-- **Posted on:** 2026-02-01
-- [Apply here](https://dk.linkedin.com/jobs/view/platform-engineer-at-lunar-4377202764?position=13&pageNum=0&refId=yo%2Fr4pPQEQWHmcxHPf0wmQ%3D%3D&trackingId=3XK4214Nyhtj9aM8dDjLmQ%3D%3D)
-
-### TwentyThree
-- **Position:** Market Developer (SE, DK, UK, NL)
-- **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- **Posted on:** 2026-02-01
-- [Apply here](https://dk.linkedin.com/jobs/view/market-developer-se-dk-uk-nl-at-twentythree-4378325682?position=46&pageNum=0&refId=yo%2Fr4pPQEQWHmcxHPf0wmQ%3D%3D&trackingId=4ltcz0pjDYaKEPsuPnWqBg%3D%3D)
-
-### ChapsVision
-- **Position:** stage DevOps - F/H
-- **Location:** Suresnes, Île-de-France, France
-- **Posted on:** 2026-02-01
-- [Apply here](https://fr.linkedin.com/jobs/view/stage-devops-f-h-at-chapsvision-4377203418?position=60&pageNum=0&refId=x%2Fup8wVjByj2QN2sxnpS%2Bw%3D%3D&trackingId=%2BD8cwUIRDIgMfZ2xgtmzmA%3D%3D)
-
-### AdPlenty - Local Marketing software
-- **Position:** Frontend Developer in Startup  (placed in CPH _ No Remote options)
-- **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- **Posted on:** 2026-02-01
-- [Apply here](https://dk.linkedin.com/jobs/view/frontend-developer-in-startup-placed-in-cph-no-remote-options-at-adplenty-local-marketing-software-4367993266?position=56&pageNum=0&refId=Lbb%2Fjio8%2BLe2IMH2UOov4Q%3D%3D&trackingId=FB0v73ZV98FnI1Zqcz0T1g%3D%3D)
-
-### Discoup
-- **Position:** Software Engineer/DevOps (Elixir)
-- **Location:** Italy
-- **Posted on:** 2026-02-01
-- [Apply here](https://it.linkedin.com/jobs/view/software-engineer-devops-elixir-at-discoup-4375559939?position=28&pageNum=0&refId=amm3gO6Lo6cCk1hzZtYH7g%3D%3D&trackingId=%2Bqiq8BGgTX52T5gN3e7lfA%3D%3D)
-
-### Protime
-- **Position:** Site Reliability Engineer
-- **Location:** Mechelen, Flemish Region, Belgium
-- **Posted on:** 2026-02-01
-- [Apply here](https://be.linkedin.com/jobs/view/site-reliability-engineer-at-protime-4367749642?position=8&pageNum=0&refId=y7JZaLLPH%2BN6V%2FQ6z4uniQ%3D%3D&trackingId=8O3oxVfdLNGzNoC39C9BLw%3D%3D)
 
