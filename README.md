@@ -4,11 +4,11 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1339 offers  
-- Internships: 54  
-- Full-time: 1285
+Total: 1322 offers  
+- Internships: 53  
+- Full-time: 1269
 
-## Internships (54 offers)
+## Internships (53 offers)
 
 ### IAR
 - **Position:** Junior Software Engineer (Paid Summer Internship) – Uppsala
@@ -328,14 +328,8 @@ Total: 1339 offers
 - **Posted on:** 2026-02-09
 - [Apply here](https://pt.linkedin.com/jobs/view/software-engineer-intern-summer-2026-at-cloudflare-4307553841?position=6&pageNum=0&refId=V8W4WtfG29ogrgrCYhFzfQ%3D%3D&trackingId=CnG2ngQxh40PYaS0RKIN6w%3D%3D)
 
-### Whatnot
-- **Position:** Software Engineer, Early Career
-- **Location:** Cracow, Małopolskie, Poland
-- **Posted on:** 2026-02-06
-- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-early-career-at-whatnot-4369815396?position=10&pageNum=0&refId=RMMs8Q0UPJ01%2FDoHIbWcaQ%3D%3D&trackingId=G3IxkrK7EQliyA1m7zj32w%3D%3D)
 
-
-## Full-time positions (1285 offers)
+## Full-time positions (1269 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -7950,100 +7944,4 @@ Total: 1339 offers
 - **Location:** Finland
 - **Posted on:** 2026-02-08
 - [Apply here](https://fi.linkedin.com/jobs/view/cloud-platform-engineer-remote-at-alex-staff-4370358419?position=30&pageNum=0&refId=9j3depRx%2BRnlYSeu1IYymQ%3D%3D&trackingId=2jzJ1BUm3yD2uvcLhe8oJw%3D%3D)
-
-### knowmad mood Portugal
-- **Position:** DevOps Engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-02-07
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-knowmad-mood-portugal-4369866086?position=40&pageNum=0&refId=ZEfJKyJQWjUqOJlmL%2BfaHw%3D%3D&trackingId=I37Ygn9aHnMKIzNxY3ngmQ%3D%3D)
-
-### Boldare
-- **Position:** DevOps Engineer
-- **Location:** Cracow Metropolitan Area
-- **Posted on:** 2026-02-07
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-boldare-4380957198?position=38&pageNum=0&refId=tqDuGpxebpkt%2BEtS5glI%2BA%3D%3D&trackingId=LJgFSYhmqQyOmViJ3%2Bx83Q%3D%3D)
-
-### Whatnot
-- **Position:** 2026 Software Engineer New Grad
-- **Location:** Cracow, Małopolskie, Poland
-- **Posted on:** 2026-02-06
-- [Apply here](https://pl.linkedin.com/jobs/view/2026-software-engineer-new-grad-at-whatnot-4369815396?position=24&pageNum=0&refId=hKcz5MUZbkO%2BpVTZ3NOs%2BQ%3D%3D&trackingId=aHxZDLC4Z8gANUNI2mgUiA%3D%3D)
-
-### Volkswagen Financial Services Portugal
-- **Position:** Platform Engineer Trainee
-- **Location:** Porto, Portugal
-- **Posted on:** 2026-02-06
-- [Apply here](https://pt.linkedin.com/jobs/view/platform-engineer-trainee-at-volkswagen-financial-services-portugal-4369560206?position=54&pageNum=0&refId=9hMe%2BahGdwkM%2FZRkqJpFjQ%3D%3D&trackingId=uKlKaLu167CkgEQFrZfAsg%3D%3D)
-
-### Wire IT
-- **Position:** Site Reliability Engineer (SRE)
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-02-06
-- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-sre-at-wire-it-4369308375?position=1&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=Urr4R26cKaU%2FC9h%2BvHQs8w%3D%3D)
-
-### myCloudDoor
-- **Position:** DevOps Engineer- Openshift
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-02-06
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-openshift-at-myclouddoor-4369967276?position=50&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=2AsXUWY2Hv%2FAlckjH7F7%2Bg%3D%3D)
-
-### WorldFirst
-- **Position:** Site Reliability Engineering (SRE)
-- **Location:** Estepona, Andalusia, Spain
-- **Posted on:** 2026-02-06
-- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineering-sre-at-worldfirst-4369927360?position=6&pageNum=0&refId=VUBTu0PF9LAaDuMVEpE9Vg%3D%3D&trackingId=Pev1yjuuuk0GOvS6XYVUPQ%3D%3D)
-
-### CORUS Consulting
-- **Position:** Site Reliability Engineer (SRE)
-- **Location:** Spain
-- **Posted on:** 2026-02-06
-- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineer-sre-at-corus-consulting-4356648538?position=42&pageNum=0&refId=VUBTu0PF9LAaDuMVEpE9Vg%3D%3D&trackingId=yFKMkyFv9%2FIrCsGEgfo66w%3D%3D)
-
-### Gecal Informatica Srl
-- **Position:** DEVOPS AWS
-- **Location:** Turin, Piedmont, Italy
-- **Posted on:** 2026-02-06
-- [Apply here](https://it.linkedin.com/jobs/view/devops-aws-at-gecal-informatica-srl-4361403561?position=10&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=zfnod8835r3JMPIgq7bc9w%3D%3D)
-
-### Ferrari
-- **Position:** Vehicle EES Process Engineering Internship (Maranello)
-- **Location:** Maranello, Emilia-Romagna, Italy
-- **Posted on:** 2026-02-06
-- [Apply here](https://it.linkedin.com/jobs/view/vehicle-ees-process-engineering-internship-maranello-at-ferrari-4369754860?position=50&pageNum=0&refId=MNOTq4O0ftFDIT3MpIwIDA%3D%3D&trackingId=KWxyHZjaGB5%2BphpMgi%2FMzg%3D%3D)
-
-### Diffco
-- **Position:** DevOps Engineer (EU, remote)
-- **Location:** Warsaw, Mazowieckie, Poland
-- **Posted on:** 2026-02-06
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-eu-remote-at-diffco-4369300090?position=48&pageNum=0&refId=2u1pmFpSyMiZDuUG6h3AwQ%3D%3D&trackingId=C%2FMuXo6Y3rCxl0%2Bil%2FbjPw%3D%3D)
-
-### Coody
-- **Position:** DevOps/Infra Engineer
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-02-06
-- [Apply here](https://se.linkedin.com/jobs/view/devops-infra-engineer-at-coody-4369537339?position=5&pageNum=0&refId=R5kIHLgm%2F6M8QPYQNQZHwg%3D%3D&trackingId=GYpFctukcvHMFiAB1H%2FMaw%3D%3D)
-
-### Sobi - Swedish Orphan Biovitrum AB (publ)
-- **Position:** BI Developer
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-02-06
-- [Apply here](https://se.linkedin.com/jobs/view/bi-developer-at-sobi-swedish-orphan-biovitrum-ab-publ-4369998030?position=46&pageNum=0&refId=5odZ0sj5kkLdtegDF09M3A%3D%3D&trackingId=fIkCX4xN%2B5nYoVvD%2BJrtfQ%3D%3D)
-
-### Testsieger.de
-- **Position:** (Junior) DevOps Engineer (m/f/d), Remote - Portugal
-- **Location:** Portugal
-- **Posted on:** 2026-02-06
-- [Apply here](https://pt.linkedin.com/jobs/view/junior-devops-engineer-m-f-d-remote-portugal-at-testsieger-de-4360539712?position=12&pageNum=0&refId=L3dQraGudqr9SGkATzdDJw%3D%3D&trackingId=Phcm5DiWfNhjDltwFIulVQ%3D%3D)
-
-### Twoday
-- **Position:** Frontend Developer
-- **Location:** Gothenburg, Västra Götaland County, Sweden
-- **Posted on:** 2026-02-06
-- [Apply here](https://se.linkedin.com/jobs/view/frontend-developer-at-twoday-4379179414?position=52&pageNum=0&refId=mRbGFnusIym%2BNRso%2F8y4pA%3D%3D&trackingId=v48F3Fvfzr%2B0pZ35%2FZOemw%3D%3D)
-
-### Warpcom
-- **Position:** Systems Engineer Trainee - Data Center & Cloud
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-02-06
-- [Apply here](https://pt.linkedin.com/jobs/view/systems-engineer-trainee-data-center-cloud-at-warpcom-4377693606?position=29&pageNum=0&refId=ibbhi8AurKkT2aZWHxRrTg%3D%3D&trackingId=Nk%2Fp%2FGhx8LidUfpQ2o1i6A%3D%3D)
 
