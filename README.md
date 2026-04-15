@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 1207 offers  
-- Internships: 41  
-- Full-time: 1166
+Total: 1181 offers  
+- Internships: 43  
+- Full-time: 1138
 
-## Internships (41 offers)
+## Internships (43 offers)
+
+### Norwegian University of Science and Technology (NTNU)
+- **Position:** Internship in Energy Systems Modelling and Computational optimization
+- **Location:** Trondheim, Trøndelag, Norway
+- **Posted on:** 2026-04-14
+- [Apply here](https://no.linkedin.com/jobs/view/internship-in-energy-systems-modelling-and-computational-optimization-at-norwegian-university-of-science-and-technology-ntnu-4402028936?position=17&pageNum=0&refId=HrpiSm88i2o7%2FubohJPy%2FQ%3D%3D&trackingId=8AS%2BWjQaLG8boX5npKVFfw%3D%3D)
 
 ### IAR
 - **Position:** Junior Software Engineer (Paid Summer Internship) – Uppsala
@@ -22,11 +28,23 @@ Total: 1207 offers
 - **Posted on:** 2026-03-27
 - [Apply here](https://pl.linkedin.com/jobs/view/embedded-software-qa-engineer-internship-at-siemens-digital-industries-software-4390997804?position=41&pageNum=0&refId=TKdfHtQS6AnrEoMlZFCwbw%3D%3D&trackingId=WxEL2cY0CJP%2F4a2h67xYGA%3D%3D)
 
+### Dow Jones
+- **Position:** Summer 2026 Internship – Backend Search Engineer Intern
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2026-03-27
+- [Apply here](https://es.linkedin.com/jobs/view/summer-2026-internship-%E2%80%93-backend-search-engineer-intern-at-dow-jones-4365233921?position=38&pageNum=0&refId=rzQwz4kc89GAh6qe1LUvCQ%3D%3D&trackingId=mgVtv1afVK8g7XWeEwZPfw%3D%3D)
+
 ### Cloudflare
 - **Position:** Software Engineer Intern (Summer 2026)
 - **Location:** Lisbon, Portugal
 - **Posted on:** 2026-03-25
 - [Apply here](https://pt.linkedin.com/jobs/view/software-engineer-intern-summer-2026-at-cloudflare-4307553841?position=3&pageNum=0&refId=HHGSa6xHJd%2FM5Rzus6eS8Q%3D%3D&trackingId=62UPARC9EpcYZzUEGe34rA%3D%3D)
+
+### Pegasystems
+- **Position:** DevOps Engineer Intern - Summer 2026
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-03-25
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-intern-summer-2026-at-pegasystems-4350802035?position=36&pageNum=0&refId=YPMzIO65xxLID0d7%2BGV1Aw%3D%3D&trackingId=JC%2BP81gsn3JFHMUAuePgkg%3D%3D)
 
 ### Second Foundation
 - **Position:** Software Engineering Intern
@@ -250,14 +268,8 @@ Total: 1207 offers
 - **Posted on:** 2026-02-15
 - [Apply here](https://ro.linkedin.com/jobs/view/cluj-software-engineering-java-academy-internship-at-lseg-4372336940?position=11&pageNum=0&refId=ST8awMPae4ggNxTWo18kCA%3D%3D&trackingId=XJmLFvFQLDO5exkULVLN1A%3D%3D)
 
-### Pegasystems
-- **Position:** Front-end Development Intern (UX Engineering team) - Summer 2026
-- **Location:** Cracow, Małopolskie, Poland
-- **Posted on:** 2026-02-13
-- [Apply here](https://pl.linkedin.com/jobs/view/front-end-development-intern-ux-engineering-team-summer-2026-at-pegasystems-4350752148?position=23&pageNum=0&refId=v4rrYxq8nlgsrlwoW5BVQA%3D%3D&trackingId=w2RiFfzozAr0jM9dtixAVQ%3D%3D)
 
-
-## Full-time positions (1166 offers)
+## Full-time positions (1138 offers)
 
 ### KCS iT
 - **Position:** DevOps Engineer
@@ -7086,172 +7098,4 @@ Total: 1207 offers
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2026-02-15
 - [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-softeta-4384594575?position=13&pageNum=0&refId=iSqcyeyi4jn%2BF1PBXku%2BAA%3D%3D&trackingId=yfqr1JrNLMG9TVgsTRRVDw%3D%3D)
-
-### Crossjoin Solutions
-- **Position:** Junior DevOps Engineer
-- **Location:** Almada, Setúbal, Portugal
-- **Posted on:** 2026-02-14
-- [Apply here](https://pt.linkedin.com/jobs/view/junior-devops-engineer-at-crossjoin-solutions-4360845574?position=17&pageNum=0&refId=ZEfJKyJQWjUqOJlmL%2BfaHw%3D%3D&trackingId=1gGObIs0T5OLlzCoBNQhcQ%3D%3D)
-
-### It's Prodigy
-- **Position:** Devops Engineer - FULL REMOTE (ITALY)
-- **Location:** Italy
-- **Posted on:** 2026-02-14
-- [Apply here](https://it.linkedin.com/jobs/view/devops-engineer-full-remote-italy-at-it-s-prodigy-4364507442?position=19&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=0yu3fdJ67cICDFWASeQfdw%3D%3D)
-
-### Google
-- **Position:** Software Engineer II, Site Reliability Engineering
-- **Location:** Warsaw, Mazowieckie, Poland
-- **Posted on:** 2026-02-14
-- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-ii-site-reliability-engineering-at-google-4365577459?position=56&pageNum=0&refId=UPZ075Ufrwc4VwreRddzSw%3D%3D&trackingId=jiOirihc7zashUXOytgn4Q%3D%3D)
-
-### Google
-- **Position:** Software Engineer, Site Reliability Engineering, Google Cloud
-- **Location:** Warsaw, Mazowieckie, Poland
-- **Posted on:** 2026-02-14
-- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-site-reliability-engineering-google-cloud-at-google-4365580310?position=60&pageNum=0&refId=UPZ075Ufrwc4VwreRddzSw%3D%3D&trackingId=9o4TYUzaslPJ%2FZzffsYs4w%3D%3D)
-
-### Gamdom
-- **Position:** DevOps Engineer
-- **Location:** Sofia, Sofia City, Bulgaria
-- **Posted on:** 2026-02-14
-- [Apply here](https://bg.linkedin.com/jobs/view/devops-engineer-at-gamdom-4364465392?position=11&pageNum=0&refId=2OjaOYyH9oKE90K%2BptMU1A%3D%3D&trackingId=CsIc7x2hnjmShMkPJNPiwA%3D%3D)
-
-### Neowshop
-- **Position:** Meta Developer - Platform Integration
-- **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- **Posted on:** 2026-02-14
-- [Apply here](https://dk.linkedin.com/jobs/view/meta-developer-platform-integration-at-neowshop-4373206463?position=18&pageNum=0&refId=yo%2Fr4pPQEQWHmcxHPf0wmQ%3D%3D&trackingId=RoPkSzdX4XV6FKVUb6MKLQ%3D%3D)
-
-### Cisco
-- **Position:** Graduate Software Engineer - Early in Career, Norway
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-02-14
-- [Apply here](https://no.linkedin.com/jobs/view/graduate-software-engineer-early-in-career-norway-at-cisco-4337199128?position=17&pageNum=0&refId=JW9jyFP757fRS6jw%2BjZKgg%3D%3D&trackingId=UnWbrIcsdryY8yQPrUMFBQ%3D%3D)
-
-### Cisco
-- **Position:** Graduate Software Engineer - Early in Career, Norway
-- **Location:** Norway
-- **Posted on:** 2026-02-14
-- [Apply here](https://no.linkedin.com/jobs/view/graduate-software-engineer-early-in-career-norway-at-cisco-4337258885?position=23&pageNum=0&refId=JW9jyFP757fRS6jw%2BjZKgg%3D%3D&trackingId=O9M0fm%2FUmNanbfpwS7KWzQ%3D%3D)
-
-### Var Group
-- **Position:** AWS Cloud Infrastructure Engineer
-- **Location:** Milan, Lombardy, Italy
-- **Posted on:** 2026-02-14
-- [Apply here](https://it.linkedin.com/jobs/view/aws-cloud-infrastructure-engineer-at-var-group-4372091602?position=60&pageNum=0&refId=KwXWUUhJ92h6rlFf6%2FHoeg%3D%3D&trackingId=PLabLEyDpjDLa%2FibwJBi5g%3D%3D)
-
-### Creditinfo Group
-- **Position:** Backend Software Developer (.NET)
-- **Location:** Prague, Prague, Czechia
-- **Posted on:** 2026-02-14
-- [Apply here](https://cz.linkedin.com/jobs/view/backend-software-developer-net-at-creditinfo-group-4372082848?position=3&pageNum=0&refId=p%2FzI2B2A4Di%2BcUSFybxMLg%3D%3D&trackingId=zp1g4dAjeknb7vLKsjpmAQ%3D%3D)
-
-### IRIUM Portugal
-- **Position:** DevOps Engineer for an International Company ATC
-- **Location:** Lisbon Metropolitan Area
-- **Posted on:** 2026-02-13
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-for-an-international-company-atc-at-irium-portugal-4372780284?position=28&pageNum=0&refId=ZEfJKyJQWjUqOJlmL%2BfaHw%3D%3D&trackingId=S%2FCwuE%2Fufsf19Cnik7ZdTA%3D%3D)
-
-### GONKSYS
-- **Position:** Junior Systems Consultant | Lisbon
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-02-13
-- [Apply here](https://pt.linkedin.com/jobs/view/junior-systems-consultant-lisbon-at-gonksys-4372284478?position=28&pageNum=0&refId=0bJcXLJlQ12J8EQOuVeBjA%3D%3D&trackingId=U6G%2BE8BnYRPLSdUfOMsk9Q%3D%3D)
-
-### emagine
-- **Position:** SRE (Site Reliability Engineer)
-- **Location:** Lisbon, Portugal
-- **Posted on:** 2026-02-13
-- [Apply here](https://pt.linkedin.com/jobs/view/sre-site-reliability-engineer-at-emagine-4364492101?position=47&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=MuPFbMKon9k1oMYYHf40yA%3D%3D)
-
-### Antom
-- **Position:** Site Reliability Engineering
-- **Location:** Málaga, Andalusia, Spain
-- **Posted on:** 2026-02-13
-- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineering-at-antom-4371787113?position=7&pageNum=0&refId=VUBTu0PF9LAaDuMVEpE9Vg%3D%3D&trackingId=wMNe9rViZITSI%2B9P9iZSwA%3D%3D)
-
-### NABA Nuova Accademia di Belle Arti
-- **Position:** IT Developer Analyst Assistant
-- **Location:** Milan, Lombardy, Italy
-- **Posted on:** 2026-02-13
-- [Apply here](https://it.linkedin.com/jobs/view/it-developer-analyst-assistant-at-naba-nuova-accademia-di-belle-arti-4372257076?position=18&pageNum=0&refId=Zek01u5RlDG%2FeTwo0SjG3w%3D%3D&trackingId=JpB26G2QvNeRgroob8OuXQ%3D%3D)
-
-### BNL BNP Paribas
-- **Position:** Cloud Engineer
-- **Location:** Rome, Latium, Italy
-- **Posted on:** 2026-02-13
-- [Apply here](https://it.linkedin.com/jobs/view/cloud-engineer-at-bnl-bnp-paribas-4350206411?position=27&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=iRtwduOYDHVe%2FiZs2vTnRg%3D%3D)
-
-### Wesii
-- **Position:** DevOps Engineer
-- **Location:** Chiavari, Liguria, Italy
-- **Posted on:** 2026-02-13
-- [Apply here](https://it.linkedin.com/jobs/view/devops-engineer-at-wesii-4364471739?position=29&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=hUqJQbCwVoiG2a3pNPDhaA%3D%3D)
-
-### Skytechnology SRL
-- **Position:** Cloud Architect
-- **Location:** Milan, Lombardy, Italy
-- **Posted on:** 2026-02-13
-- [Apply here](https://it.linkedin.com/jobs/view/cloud-architect-at-skytechnology-srl-4372028091?position=25&pageNum=0&refId=YWfXs%2FPsa2Q7oCM8fnZf2A%3D%3D&trackingId=leRvP38LUT8pAJS7ZAkkzQ%3D%3D)
-
-### Experian
-- **Position:** DevOps Engineer - Open Banking
-- **Location:** Sofia, Sofia City, Bulgaria
-- **Posted on:** 2026-02-13
-- [Apply here](https://bg.linkedin.com/jobs/view/devops-engineer-open-banking-at-experian-4343168502?position=24&pageNum=0&refId=2OjaOYyH9oKE90K%2BptMU1A%3D%3D&trackingId=%2F2m22hy%2BqNbXffKDNDSU%2Fg%3D%3D)
-
-### SD Worx
-- **Position:** DevOps Engineer
-- **Location:** Sundbyberg, Stockholm County, Sweden
-- **Posted on:** 2026-02-13
-- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-at-sd-worx-4372012396?position=27&pageNum=0&refId=R5kIHLgm%2F6M8QPYQNQZHwg%3D%3D&trackingId=1%2BToEp%2FZCIKU5y356zZ1fA%3D%3D)
-
-### Good Tape
-- **Position:** Front-End Developer
-- **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- **Posted on:** 2026-02-13
-- [Apply here](https://dk.linkedin.com/jobs/view/front-end-developer-at-good-tape-4363287500?position=38&pageNum=0&refId=yo%2Fr4pPQEQWHmcxHPf0wmQ%3D%3D&trackingId=m7w3N%2B1OBaJZMAw8ZmcXVA%3D%3D)
-
-### Microsoft
-- **Position:** Solution Engineering Internship Opportunities
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-02-13
-- [Apply here](https://no.linkedin.com/jobs/view/solution-engineering-internship-opportunities-at-microsoft-4365478719?position=9&pageNum=0&refId=VeiovroAdFebcsnW6opQoA%3D%3D&trackingId=sHpfNtZ6vjllmyshQw47Eg%3D%3D)
-
-### ALTEN
-- **Position:** Responsable Infrastructure & Cloud (H/F)
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-02-13
-- [Apply here](https://fr.linkedin.com/jobs/view/responsable-infrastructure-cloud-h-f-at-alten-4363949497?position=60&pageNum=0&refId=JouJNokSA9LWF%2B%2BYO2r4dg%3D%3D&trackingId=E%2BB3EXSNHu9qnTKRsAViDA%3D%3D)
-
-### SpendHQ
-- **Position:** Devops Engineer
-- **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- **Posted on:** 2026-02-13
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-engineer-at-spendhq-4372296875?position=26&pageNum=0&refId=U3%2FUFzuZJ1l4hw2xU0kEpw%3D%3D&trackingId=UFP9cwZCW0KHa%2Bzim0DTKw%3D%3D)
-
-### Fabskill Partners
-- **Position:** DevOps
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-02-13
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-at-fabskill-partners-4372745643?position=35&pageNum=0&refId=U3%2FUFzuZJ1l4hw2xU0kEpw%3D%3D&trackingId=%2FiLBYH4AxcoIkGtb4Natzg%3D%3D)
-
-### Welvaart
-- **Position:** Cloud Architect
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-02-13
-- [Apply here](https://pt.linkedin.com/jobs/view/cloud-architect-at-welvaart-4371707069?position=35&pageNum=0&refId=OBqnShGkLm%2BXnnF%2BDDSwZA%3D%3D&trackingId=HNsqdiqTSuNRzGh7rfNL9Q%3D%3D)
-
-### Wipro Romania
-- **Position:** DevOps Engineer
-- **Location:** Bucharest Metropolitan Area
-- **Posted on:** 2026-02-13
-- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-at-wipro-romania-4364442038?position=58&pageNum=0&refId=ueyw0bpm8gQDoI04LRNFHQ%3D%3D&trackingId=WCxu3rtiGs2SaRdJm%2FhLKw%3D%3D)
-
-### Altogee
-- **Position:** Cloud Engineer
-- **Location:** Flemish Region, Belgium
-- **Posted on:** 2026-02-13
-- [Apply here](https://be.linkedin.com/jobs/view/cloud-engineer-at-altogee-4372737416?position=20&pageNum=0&refId=tMDzH0L5Vtsn%2BuniuZe0vg%3D%3D&trackingId=5Tu6O1Rmg0EIt1iUCLqY5w%3D%3D)
 
