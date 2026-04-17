@@ -1,22 +1,4 @@
 {
-  "749a11c076c2157f75eb7de03419251d": {
-    "title": "2026 - Summer Internship Program - Full Stack Engineering Intern",
-    "company_name": "Verisk",
-    "location": "Cracow, Ma\u0142opolskie, Poland",
-    "posted_date": "2026-02-16",
-    "url": "https://pl.linkedin.com/jobs/view/2026-summer-internship-program-full-stack-engineering-intern-at-verisk-4373598437?position=16&pageNum=0&refId=t21syktBgKDCOoKI6op54Q%3D%3D&trackingId=%2Fh75xC%2BnnQOnMHioKP6tlw%3D%3D",
-    "description": null,
-    "first_seen": "2026-02-18T11:18:17.747965"
-  },
-  "2763b1fe8e0cc94fa9bff1a17d9e94b0": {
-    "title": "Cluj Software Engineering Java Academy Internship",
-    "company_name": "LSEG",
-    "location": "Cluj-Napoca, Cluj, Romania",
-    "posted_date": "2026-02-15",
-    "url": "https://ro.linkedin.com/jobs/view/cluj-software-engineering-java-academy-internship-at-lseg-4372336940?position=11&pageNum=0&refId=ST8awMPae4ggNxTWo18kCA%3D%3D&trackingId=XJmLFvFQLDO5exkULVLN1A%3D%3D",
-    "description": null,
-    "first_seen": "2026-02-18T11:18:17.749047"
-  },
   "b329b9a99f5c7d566be8ab9921d191c3": {
     "title": "Software Development Internship - Summer 2026",
     "company_name": "fme Romania",
@@ -325,16 +307,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.577487"
   },
-  "e2d072371c0576f51a30a0cf5a5e8fc8": {
-    "title": "DevOps Engineer",
-    "company_name": "Bose Corporation",
-    "location": "Lisboa, Lisbon, Portugal",
-    "posted_date": "2026-02-16",
-    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-bose-corporation-4310711189?position=46&pageNum=0&refId=ZEfJKyJQWjUqOJlmL%2BfaHw%3D%3D&trackingId=0BElFMHjNZbtuFi2TdMOlg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.577499"
-  },
   "ded962532093215723c3a051e75a64f7": {
     "title": "DevOps Engineer",
     "company_name": "Mobizy",
@@ -635,16 +607,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.582308"
   },
-  "014c9fc3f04a847594aeaa982519cf6e": {
-    "title": "Telecom Sector | Site Reliability Engineer (Azure)",
-    "company_name": "Devoteam",
-    "location": "Lisbon, Lisbon, Portugal",
-    "posted_date": "2026-02-16",
-    "url": "https://pt.linkedin.com/jobs/view/telecom-sector-site-reliability-engineer-azure-at-devoteam-4372392200?position=33&pageNum=0&refId=jbOeavl3jYWwXasWVMN8IA%3D%3D&trackingId=r3JfTqO%2FQaQc14oj8dvhfg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.582312"
-  },
   "98520beae71a37a394a9a9ed6d16ccf2": {
     "title": "Site Reliability Engineer (SRE) @Lisboa",
     "company_name": "KCS iT",
@@ -795,26 +757,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.586521"
   },
-  "aaeaddd901937f3b053a31df691ff1fe": {
-    "title": "AZURE DEVOPS \u2013 REMOTO",
-    "company_name": "IRIUM",
-    "location": "Spain",
-    "posted_date": "2026-02-16",
-    "url": "https://es.linkedin.com/jobs/view/azure-devops-%E2%80%93-remoto-at-irium-4373841291?position=16&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=2xMrvHLIqWNe%2BQsf8BfN2A%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.586528"
-  },
-  "67b1846127c2cc7468312b80a6ada8ba": {
-    "title": "DevOps Engineer - H\u00edbrido (Madrid/M\u00e1laga)",
-    "company_name": "TheWhiteam",
-    "location": "Tres Cantos, Community of Madrid, Spain",
-    "posted_date": "2026-02-16",
-    "url": "https://es.linkedin.com/jobs/view/devops-engineer-h%C3%ADbrido-madrid-m%C3%A1laga-at-thewhiteam-4372543554?position=24&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=58Yuo1fqKZJit0ltWnD2ww%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.586545"
-  },
   "c1f5032c23b36f70b4b6b0714e7c1fb5": {
     "title": "DevOps Engineer",
     "company_name": "Coforge",
@@ -855,16 +797,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.586571"
   },
-  "66653f1200ac2475f6d4ce4d02c696d1": {
-    "title": "Devops",
-    "company_name": "KAIROS DIGITAL SOLUTIONS",
-    "location": "Madrid, Community of Madrid, Spain",
-    "posted_date": "2026-02-16",
-    "url": "https://es.linkedin.com/jobs/view/devops-at-kairos-digital-solutions-4372578981?position=37&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=DKjel9UOqhkQ02LZDJMUqg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.586583"
-  },
   "c5d05596b803901d25f0ab5ee72a43af": {
     "title": "Devops - Permanent - Full Remote",
     "company_name": "papernest",
@@ -904,16 +836,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.586602"
-  },
-  "27d766f6fbe0a8a1e57f3716ee02ec84": {
-    "title": "Devops",
-    "company_name": "GRUPO NS",
-    "location": "Madrid, Community of Madrid, Spain",
-    "posted_date": "2026-02-16",
-    "url": "https://es.linkedin.com/jobs/view/devops-at-grupo-ns-4373595411?position=48&pageNum=0&refId=iWNqODQykHf9TULP5d4FDQ%3D%3D&trackingId=VcypRWKtRJlWHpCVvoQThg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.586611"
   },
   "2ef2c4b80a07afa4e9c84f16d4b87c76": {
     "title": "Devops Engineer / SRE(100% Remoto)",
@@ -1085,16 +1007,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.593242"
   },
-  "29ae6d44b0ca3b1cadf8ba4b697cf63d": {
-    "title": "Site Reliability Engineer (SRE)",
-    "company_name": "MCA Espa\u00f1a",
-    "location": "Madrid, Community of Madrid, Spain",
-    "posted_date": "2026-02-16",
-    "url": "https://es.linkedin.com/jobs/view/site-reliability-engineer-sre-at-mca-espa%C3%B1a-4373851551?position=15&pageNum=0&refId=VUBTu0PF9LAaDuMVEpE9Vg%3D%3D&trackingId=bfHzBwp2JGpschVPUVDRSg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.593248"
-  },
   "a2ece9d9aa497495e645fd13c5f4f033": {
     "title": "Site Reliability Engineer",
     "company_name": "Oliver Bernard",
@@ -1245,16 +1157,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.598651"
   },
-  "8e7c11f4433560d46236c7ebec98d103": {
-    "title": "Infra/DevOps Engineer",
-    "company_name": "Jumpit Srl",
-    "location": "Milan, Lombardy, Italy",
-    "posted_date": "2026-02-16",
-    "url": "https://it.linkedin.com/jobs/view/infra-devops-engineer-at-jumpit-srl-4364717347?position=16&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=nasVBNIUucXmE4JTJ0oN6w%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.598654"
-  },
   "bac49335f4623d25076831d788cd6805": {
     "title": "DevOps Engineer",
     "company_name": "RelyBytes",
@@ -1274,16 +1176,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.598673"
-  },
-  "9f3928d58a34bfb5c483b018182fb0be": {
-    "title": "DevOps Engineer Junior",
-    "company_name": "Armundia Group",
-    "location": "Rome, Latium, Italy",
-    "posted_date": "2026-02-16",
-    "url": "https://it.linkedin.com/jobs/view/devops-engineer-junior-at-armundia-group-4373584455?position=25&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=3ckBBeg806cGbB2Xsay7og%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.598683"
   },
   "a1c5925f510b9816194f85195ca49fa4": {
     "title": "DevOps Engineer",
@@ -1305,16 +1197,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.598718"
   },
-  "7892fbe7fcdd664f916f4d40084c1b1a": {
-    "title": "Site Reliability Engineer",
-    "company_name": "Eligo Recruitment",
-    "location": "Milan, Lombardy, Italy",
-    "posted_date": "2026-02-16",
-    "url": "https://it.linkedin.com/jobs/view/site-reliability-engineer-at-eligo-recruitment-4364764842?position=42&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=DtZlaJJSiCEY95XUf4Bi4Q%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.598724"
-  },
   "28a020397ace5c00168fb0c50ef307fe": {
     "title": "Cloud Reliability Engineer (Kubernetes, Azure e AWS)",
     "company_name": "iSelection",
@@ -1324,16 +1206,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.598730"
-  },
-  "f2911486574c80696585efa77240836e": {
-    "title": "Cloud DevOps Engineer",
-    "company_name": "Proxima Group",
-    "location": "Rome, Latium, Italy",
-    "posted_date": "2026-02-16",
-    "url": "https://it.linkedin.com/jobs/view/cloud-devops-engineer-at-proxima-group-4364784975?position=46&pageNum=0&refId=x7s%2FTPuA7fImaJQHrPGaHg%3D%3D&trackingId=tq6GgQkVREiOtb8ciVj%2B6Q%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.598733"
   },
   "1419e30f51f330318dd2e414cb0f8022": {
     "title": "DevOps Consultant",
@@ -1495,16 +1367,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.606943"
   },
-  "67d449fa2ed078de4df76c50029a2033": {
-    "title": "Maintenance Engineering Specialist Rotating",
-    "company_name": "Airswift",
-    "location": "Milan, Lombardy, Italy",
-    "posted_date": "2026-02-16",
-    "url": "https://it.linkedin.com/jobs/view/maintenance-engineering-specialist-rotating-at-airswift-4373576772?position=6&pageNum=0&refId=iloF095Ru5HaveWbquctPg%3D%3D&trackingId=XyhdAT2VBQ%2B%2B7vyYYGhwQw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.606950"
-  },
   "7d016a9e6d071a5214c4e55553eb8a47": {
     "title": "Site Reliability Engineer",
     "company_name": "Immobiliare.it",
@@ -1555,16 +1417,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.606975"
   },
-  "bedb2ad2b35106d12944a68a7f8a26e5": {
-    "title": "Instrumentation Maintenance Engineering Specialist",
-    "company_name": "Airswift",
-    "location": "Greater Milan Metropolitan Area",
-    "posted_date": "2026-02-16",
-    "url": "https://it.linkedin.com/jobs/view/instrumentation-maintenance-engineering-specialist-at-airswift-4364785037?position=23&pageNum=0&refId=iloF095Ru5HaveWbquctPg%3D%3D&trackingId=6XKttSem9FP35rC3K1JumA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.606981"
-  },
   "018e292ea4b7ded6f62d2479c080048c": {
     "title": "Cloud Engineer",
     "company_name": "Immobiliare.it",
@@ -1604,26 +1456,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.609132"
-  },
-  "3d7f3a2bb4e84302f9db835838f646a0": {
-    "title": "Infrastructure Engineer",
-    "company_name": "ADP",
-    "location": "Warsaw, Mazowieckie, Poland",
-    "posted_date": "2026-02-16",
-    "url": "https://pl.linkedin.com/jobs/view/infrastructure-engineer-at-adp-4372518052?position=25&pageNum=0&refId=nImTNYniCO8H5AmRygPrtA%3D%3D&trackingId=%2B1vhIBKRl91ux4ILLYnZvw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.609144"
-  },
-  "fc2a5a289f967c823b9f339a156be88c": {
-    "title": "IT Infrastructure Engineer",
-    "company_name": "TEKsystems",
-    "location": "Warsaw Metropolitan Area",
-    "posted_date": "2026-02-16",
-    "url": "https://pl.linkedin.com/jobs/view/it-infrastructure-engineer-at-teksystems-4373563938?position=27&pageNum=0&refId=nImTNYniCO8H5AmRygPrtA%3D%3D&trackingId=%2BHPInPRC%2F7Q441B0wiY8aQ%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.609147"
   },
   "142a5b6b9b81d210277a041faf18ab31": {
     "title": "Backend Engineer",
@@ -1684,16 +1516,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.613508"
-  },
-  "3451072b17a657b4c40c80ab37c1debb": {
-    "title": "DevOps Engineer / 1",
-    "company_name": "Inetum",
-    "location": "Warsaw, Mazowieckie, Poland",
-    "posted_date": "2026-02-16",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-1-at-inetum-4373815407?position=43&pageNum=0&refId=2u1pmFpSyMiZDuUG6h3AwQ%3D%3D&trackingId=V9NFLoXJ9stXX5WryJlCmA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.613514"
   },
   "d8e864eaa50c8b52a13f1d69ac728641": {
     "title": "DevOps Engineer",
@@ -1854,16 +1676,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.628189"
-  },
-  "5c4709405a7e8b65c8ade0aa144a5cf3": {
-    "title": "DevOps Engineer",
-    "company_name": "Evolution",
-    "location": "Sofia, Sofia City, Bulgaria",
-    "posted_date": "2026-02-16",
-    "url": "https://bg.linkedin.com/jobs/view/devops-engineer-at-evolution-4364727109?position=2&pageNum=0&refId=2OjaOYyH9oKE90K%2BptMU1A%3D%3D&trackingId=vl5uV12PhNmc2OqgbBk1Ew%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.630648"
   },
   "8a9afc9d077aa0bc1c8e49fa594167cf": {
     "title": "Cloud DevOps Engineer",
@@ -2115,16 +1927,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.649655"
   },
-  "792318aff75633d339bb8c7fbc416807": {
-    "title": "DevOps & Cloud Infrastructure Engineer - Contract-To-Hire",
-    "company_name": "Edison Smart\u00ae",
-    "location": "Stockholm, Stockholm County, Sweden",
-    "posted_date": "2026-02-16",
-    "url": "https://se.linkedin.com/jobs/view/devops-cloud-infrastructure-engineer-contract-to-hire-at-edison-smart%C2%AE-4373586783?position=15&pageNum=0&refId=R5kIHLgm%2F6M8QPYQNQZHwg%3D%3D&trackingId=RaoEv5KiqPSSUnscAQKoMw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.649659"
-  },
   "544bf6c9a916d7cc90afe90dc69f846f": {
     "title": "DevOps Specialist",
     "company_name": "Mediaflow",
@@ -2214,26 +2016,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.649758"
-  },
-  "b592c4f41e3223d75c7b14212d89057d": {
-    "title": "AWS Cloud Architect",
-    "company_name": "InterEx Group",
-    "location": "Sweden",
-    "posted_date": "2026-02-16",
-    "url": "https://se.linkedin.com/jobs/view/aws-cloud-architect-at-interex-group-4364579121?position=10&pageNum=0&refId=tsdsGUG7wUlY2wgV17jlwQ%3D%3D&trackingId=XYAFBavhjPhHGK27kDl9gQ%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.655670"
-  },
-  "709db640550e5eaab89f198d3d0ce224": {
-    "title": "Cloud Consultant",
-    "company_name": "Astek",
-    "location": "Stockholm County, Sweden",
-    "posted_date": "2026-02-16",
-    "url": "https://se.linkedin.com/jobs/view/cloud-consultant-at-astek-4364579928?position=25&pageNum=0&refId=tsdsGUG7wUlY2wgV17jlwQ%3D%3D&trackingId=DT3jmAQ0AWLJ3yNQWEf%2FzQ%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.655691"
   },
   "dd0258d5e883ebbe6d26823c1842cd04": {
     "title": "React Developer",
@@ -2565,16 +2347,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.687403"
   },
-  "d361347481b0c9cb15a00183f1872dba": {
-    "title": "Software Engineer (Platform)",
-    "company_name": "Enode",
-    "location": "Oslo, Oslo, Norway",
-    "posted_date": "2026-02-15",
-    "url": "https://no.linkedin.com/jobs/view/software-engineer-platform-at-enode-4372324285?position=14&pageNum=0&refId=Am1uRHEUVEW1Po5mhmVu7Q%3D%3D&trackingId=iGlBlh8xWc9hwgg1wajfDA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.690696"
-  },
   "597e8d22b023fa28afb6373f21088f67": {
     "title": "Freelance Machine Learning Developer (Python)",
     "company_name": "Mindrift",
@@ -2584,16 +2356,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-26T11:48:16.690707"
-  },
-  "40706754ebf76223de5c47fd835f3641": {
-    "title": "Python Developer (AI/LLM)",
-    "company_name": "Halliburton",
-    "location": "Oslo, Oslo, Norway",
-    "posted_date": "2026-02-16",
-    "url": "https://no.linkedin.com/jobs/view/python-developer-ai-llm-at-halliburton-4372505848?position=47&pageNum=0&refId=Am1uRHEUVEW1Po5mhmVu7Q%3D%3D&trackingId=CM1hGcStQsWS1RfIBZvW2A%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.690731"
   },
   "1baa9a8abcc74c902299cc68319a8251": {
     "title": "AI Developer",
@@ -3215,16 +2977,6 @@
     "description": null,
     "first_seen": "2026-02-26T11:48:16.733170"
   },
-  "ecff2748101c6e6c9070894aec439ba0": {
-    "title": "Site Reliability Engineer",
-    "company_name": "Innova Solutions",
-    "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
-    "posted_date": "2026-02-16",
-    "url": "https://fr.linkedin.com/jobs/view/site-reliability-engineer-at-innova-solutions-4364783276?position=47&pageNum=0&refId=iOob6UvsWHf5hiI1N%2BZLKg%3D%3D&trackingId=Ap5PbEsQEZtnbpM%2FABcUPA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-26T11:48:16.733176"
-  },
   "59d612470abac2f5c7cb820b2ba88f96": {
     "title": "Site Reliability Engineer (SRE) - Storage",
     "company_name": "Scaleway",
@@ -3465,16 +3217,6 @@
     "description": null,
     "first_seen": "2026-02-27T09:41:41.151877"
   },
-  "05eb63411a52a0ea658b0a81c9d30352": {
-    "title": "AZURE/DEVOPS ENGINEER (remoto)",
-    "company_name": "Omicron srl",
-    "location": "Rome, Latium, Italy",
-    "posted_date": "2026-02-16",
-    "url": "https://it.linkedin.com/jobs/view/azure-devops-engineer-remoto-at-omicron-srl-4364756625?position=32&pageNum=0&refId=IdBqS0A5rFxTzHYRWBFo2A%3D%3D&trackingId=%2Bm7xP6we1gaPfW0NmTG%2BbQ%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-27T09:41:41.151888"
-  },
   "a3a24194449c0261f992d3ab2ea81288": {
     "title": "CLOUD ENGINEER (remoto)",
     "company_name": "Omicron srl",
@@ -3484,16 +3226,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-02-27T09:41:41.151892"
-  },
-  "91a46ed799521e05b017f07c47356b0a": {
-    "title": "CLOUD/DEVOPS ENGINEER (Modena/ibrido)",
-    "company_name": "Omicron srl",
-    "location": "Modena, Emilia-Romagna, Italy",
-    "posted_date": "2026-02-16",
-    "url": "https://it.linkedin.com/jobs/view/cloud-devops-engineer-modena-ibrido-at-omicron-srl-4364717350?position=45&pageNum=0&refId=IdBqS0A5rFxTzHYRWBFo2A%3D%3D&trackingId=bGKXFg5Xr49EBlAAEldt2A%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-02-27T09:41:41.151904"
   },
   "2e0bbb84cb5f8f052a386dd9f087b5d6": {
     "title": "Junior Cloud Architect",
@@ -3994,16 +3726,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-03-02T09:47:33.681211"
-  },
-  "6d2081495c7c8a20e6f98d425cb79f7e": {
-    "title": "Cloud Engineer",
-    "company_name": "MCA Espa\u00f1a",
-    "location": "Madrid, Community of Madrid, Spain",
-    "posted_date": "2026-02-16",
-    "url": "https://es.linkedin.com/jobs/view/cloud-engineer-at-mca-espa%C3%B1a-4373854382?position=59&pageNum=0&refId=ZSKqXVed88Wq14NUPdvIyg%3D%3D&trackingId=X99jBFOhQ5vHvU6uE8CXdg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-02T09:47:33.681220"
   },
   "a2ca36acc5856a178daeac854e3730c0": {
     "title": "DevOps con Ansible e Terraform",
@@ -5084,16 +4806,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-03-03T12:33:11.031303"
-  },
-  "bf214a297ed9be4b33627f72069d613f": {
-    "title": "Backend Engineer (Python/Go) - Consumer Platform team",
-    "company_name": "Wolt",
-    "location": "Stockholm, Stockholm County, Sweden",
-    "posted_date": "2026-02-16",
-    "url": "https://se.linkedin.com/jobs/view/backend-engineer-python-go-consumer-platform-team-at-wolt-4372526518?position=44&pageNum=0&refId=kQTBaEYE4mxh4E5W%2FwlppA%3D%3D&trackingId=6l6ldt2LMOfxv5DTS6cuzQ%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-03T12:33:11.035431"
   },
   "1a68c0e98c69ccbf48608266c0cde885": {
     "title": "DevOps Engineer",
@@ -7745,16 +7457,6 @@
     "description": null,
     "first_seen": "2026-03-11T09:42:26.276603"
   },
-  "c90104973c254f2b351c0097ad6369cf": {
-    "title": "Cloud Engineer (English speaking) (M/F/D)",
-    "company_name": "MobiLab Solutions",
-    "location": "Aveiro, Aveiro, Portugal",
-    "posted_date": "2026-02-15",
-    "url": "https://pt.linkedin.com/jobs/view/cloud-engineer-english-speaking-m-f-d-at-mobilab-solutions-4364771926?position=60&pageNum=0&refId=m4PDhTdAtTns5WHeiqcWSw%3D%3D&trackingId=Nr%2B28v0IVLSGUANf%2Bi2fyg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-11T09:42:26.276630"
-  },
   "53c0252a3c727e8a22e952a06a542164": {
     "title": "Site Reliability Engineer (GCP or AWS)",
     "company_name": "Aubay Portugal",
@@ -8455,16 +8157,6 @@
     "description": null,
     "first_seen": "2026-03-12T14:29:49.758657"
   },
-  "92cae3bd79c72e414c15d0827953b7de": {
-    "title": "AWS Cloud Architect (m/f/d)",
-    "company_name": "Deutsche Telekom",
-    "location": "Barcelona, Catalonia, Spain",
-    "posted_date": "2026-02-16",
-    "url": "https://es.linkedin.com/jobs/view/aws-cloud-architect-m-f-d-at-deutsche-telekom-4373803329?position=46&pageNum=0&refId=%2BoFJnUpnRizzmPiM%2BO7krw%3D%3D&trackingId=zM19e7Y8SKdapfgaglzrRw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-12T14:29:49.758672"
-  },
   "5df5570570a1053360343ef18c277522": {
     "title": "Administrador/a de Sistemas Cloud",
     "company_name": "Einzelnet",
@@ -8795,16 +8487,6 @@
     "description": null,
     "first_seen": "2026-03-12T14:29:49.839483"
   },
-  "99f045832e23ba98f9a136d992840cbf": {
-    "title": "DevOps Engineer",
-    "company_name": "SOFTETA",
-    "location": "Cracow, Ma\u0142opolskie, Poland",
-    "posted_date": "2026-02-15",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-softeta-4384594575?position=13&pageNum=0&refId=iSqcyeyi4jn%2BF1PBXku%2BAA%3D%3D&trackingId=yfqr1JrNLMG9TVgsTRRVDw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-12T14:29:49.839532"
-  },
   "e8e4231c7a694d8cb35916de295075fe": {
     "title": "Cloud Engineer",
     "company_name": "Vertex Agility",
@@ -8884,16 +8566,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-03-12T14:29:49.862026"
-  },
-  "402950faa5269abc9d9e0abe08cffe44": {
-    "title": "IT Infrastructure Engineer",
-    "company_name": "TEKsystems",
-    "location": "Bucharest Metropolitan Area",
-    "posted_date": "2026-02-16",
-    "url": "https://ro.linkedin.com/jobs/view/it-infrastructure-engineer-at-teksystems-4373575269?position=57&pageNum=0&refId=pnGWyt8PY5Rfds3XaL94%2Fg%3D%3D&trackingId=bXpU%2FAL61rw7iiHWeXKSsw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-12T14:29:49.862035"
   },
   "7ea4c20aa9c1e3e6eff371a4f95a947a": {
     "title": "IT Systems Analyst",
@@ -9155,16 +8827,6 @@
     "description": null,
     "first_seen": "2026-03-12T14:29:49.881664"
   },
-  "7528cf3ad53ce60bfc1c0ccfe22418a8": {
-    "title": "Site Reliability Engineer",
-    "company_name": "Worldline",
-    "location": "Bucharest Metropolitan Area",
-    "posted_date": "2026-02-16",
-    "url": "https://ro.linkedin.com/jobs/view/site-reliability-engineer-at-worldline-4368652097?position=25&pageNum=0&refId=H8itbAII9eVTnwqaENAZVQ%3D%3D&trackingId=VJFR4pBIfIR%2FTxDWWXp3aA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-12T14:29:49.881668"
-  },
   "6dfc2f63315ea29ed9a5c37041f7dacd": {
     "title": "Site Reliability Engineer (m/f/d)",
     "company_name": "Schwarz Digits Romania",
@@ -9234,16 +8896,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-03-12T14:29:49.886354"
-  },
-  "a799b640ca6d351848e9f804993c88a8": {
-    "title": "DevOps Engineer",
-    "company_name": "Raiffeisen Bank Romania",
-    "location": "Bucharest Metropolitan Area",
-    "posted_date": "2026-02-16",
-    "url": "https://ro.linkedin.com/jobs/view/devops-engineer-at-raiffeisen-bank-romania-4373579004?position=15&pageNum=0&refId=ueyw0bpm8gQDoI04LRNFHQ%3D%3D&trackingId=bZUkkWkga92UZwNkcoxT%2FA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-12T14:29:49.886370"
   },
   "2de0155e95821d9aaee82881fd470a4b": {
     "title": "DevOps Engineer",
@@ -10575,16 +10227,6 @@
     "description": null,
     "first_seen": "2026-03-12T14:29:49.958349"
   },
-  "50980c05485e9c8f02c652acec6c69be": {
-    "title": "DevOps Engineer",
-    "company_name": "Cronos Europa",
-    "location": "Luxembourg",
-    "posted_date": "2026-02-16",
-    "url": "https://lu.linkedin.com/jobs/view/devops-engineer-at-cronos-europa-4373881059?position=43&pageNum=0&refId=LVzK0SE6hZspW5IUcqipAw%3D%3D&trackingId=1hYAOy%2BrOamTMxfSl5ZbuA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-12T14:29:49.958354"
-  },
   "7cab190681549721507d8d4e3a3c9878": {
     "title": "Ing\u00e9nieur DevOps/Ing\u00e9nieure DevOps",
     "company_name": "Cyberr\u00ae",
@@ -10614,16 +10256,6 @@
     "full_time": true,
     "description": null,
     "first_seen": "2026-03-12T14:29:49.962608"
-  },
-  "5cb5d85d34866855c2f88834c5376856": {
-    "title": "DevOps Engineer",
-    "company_name": "Experis IT Luxembourg",
-    "location": "Luxembourg, Luxembourg",
-    "posted_date": "2026-02-16",
-    "url": "https://lu.linkedin.com/jobs/view/devops-engineer-at-experis-it-luxembourg-4354003831?position=12&pageNum=0&refId=8b5ONWrQhBJAKHWGA4WaSA%3D%3D&trackingId=lZJuT4pRh0KPya%2Ftym8j%2Fg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-12T14:29:49.975248"
   },
   "2daeba634a44843fcd225bb2d023f742": {
     "title": "Ing\u00e9nieur DevOps (Ref : 356)",
@@ -11615,16 +11247,6 @@
     "description": null,
     "first_seen": "2026-03-13T12:13:07.250839"
   },
-  "f22394e8a23e5a0daefa5258c92234fb": {
-    "title": "Cloud Solution Architect",
-    "company_name": "Droppar",
-    "location": "Antwerp, Flemish Region, Belgium",
-    "posted_date": "2026-02-16",
-    "url": "https://be.linkedin.com/jobs/view/cloud-solution-architect-at-droppar-4372393117?position=25&pageNum=0&refId=dz5OYMVDmaXCRPQ2%2F8hXbQ%3D%3D&trackingId=%2ByFfSikKOfIcThUn9As%2FWg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T12:13:07.250858"
-  },
   "99d99d9904fb5cc18e5881abac826105": {
     "title": "Solution Specialist (Vlaamstalig) \u2013 Cloud Solutions Expert JOUW VOLGENDE STAP BEGINT HIER.",
     "company_name": "EG Hire Global",
@@ -11804,5 +11426,15 @@
     "full_time": false,
     "description": null,
     "first_seen": "2026-04-15T10:18:03.068991"
+  },
+  "cbb5a075f93d4894ddc0aa95804b9f2e": {
+    "title": "Backend Software Engineer Intern - Summer 2026",
+    "company_name": "Pegasystems",
+    "location": "Cracow, Ma\u0142opolskie, Poland",
+    "posted_date": "2026-04-16",
+    "url": "https://pl.linkedin.com/jobs/view/backend-software-engineer-intern-summer-2026-at-pegasystems-4400419502?position=21&pageNum=0&refId=ORGXqBflcsADbzQtW40nXw%3D%3D&trackingId=GkZOJoyjB2Aqv5FCobtnpQ%3D%3D",
+    "full_time": false,
+    "description": null,
+    "first_seen": "2026-04-17T10:44:32.654528"
   }
 }
