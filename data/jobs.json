@@ -1,194 +1,4 @@
 {
-  "f5a9ac24ffc48f3180e171ace7d0bd36": {
-    "title": "DevOps Engineer",
-    "company_name": "KCS iT",
-    "location": "Portugal",
-    "posted_date": "2026-03-13",
-    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-kcs-it-4384244551?position=19&pageNum=0&refId=xOoATvaZgeGY3oFGgi1qRg%3D%3D&trackingId=e6Hp44IMD%2B9uhY9TlUjS%2FA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:35.925365"
-  },
-  "a497a537b93e79953eebdaf5f8fc9106": {
-    "title": "DevOps Engineer",
-    "company_name": "FOX IT",
-    "location": "Almada, Set\u00fabal, Portugal",
-    "posted_date": "2026-03-13",
-    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-fox-it-4385331632?position=30&pageNum=0&refId=xOoATvaZgeGY3oFGgi1qRg%3D%3D&trackingId=HNnwQoVANpFOjyQO5IzZWA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:35.925394"
-  },
-  "d6b6f541672fe30af5d4eab19b0d368f": {
-    "title": "Data Platform Engineer",
-    "company_name": "Prenomics",
-    "location": "Barcelona, Catalonia, Spain",
-    "posted_date": "2026-03-13",
-    "url": "https://es.linkedin.com/jobs/view/data-platform-engineer-at-prenomics-4383083885?position=37&pageNum=0&refId=dFqLickvU9%2Bjdta%2FNNnkZw%3D%3D&trackingId=BuW8saASlWXVh5GSHNm3Pw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:35.986989"
-  },
-  "9664910faedb2afb34838ad25e1a2410": {
-    "title": "DevOps Engineer",
-    "company_name": "Base.com",
-    "location": "Brzeg Dolny, Dolno\u015bl\u0105skie, Poland",
-    "posted_date": "2026-03-13",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385335726?position=2&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=2ocVnIuV3EqB6sT%2BJkyvkA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.000106"
-  },
-  "ab63fc1d84e9b8374d1ca8c8e329dc4e": {
-    "title": "DevOps Engineer",
-    "company_name": "Base.com",
-    "location": "Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland",
-    "posted_date": "2026-03-13",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385347216?position=3&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=88Ua9lvGfrQwOdYXndWn0Q%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.000111"
-  },
-  "bf1756894644cbbfb95c0c14518e952c": {
-    "title": "DevOps Engineer",
-    "company_name": "Base.com",
-    "location": "Ole\u015bnica, Dolno\u015bl\u0105skie, Poland",
-    "posted_date": "2026-03-13",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385327903?position=5&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=RS1zihNg6g4PHw0Ndewv%2Bw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.000115"
-  },
-  "714ee6de4e1f8e58385759d63476f789": {
-    "title": "DevOps Engineer",
-    "company_name": "Base.com",
-    "location": "Trzebnica, Dolno\u015bl\u0105skie, Poland",
-    "posted_date": "2026-03-13",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385349092?position=6&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=QzeUY8RfQBs28fQo%2B4MSiA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.000117"
-  },
-  "de651efcdb12bd00efca2988da7945c6": {
-    "title": "DevOps Engineer",
-    "company_name": "Base.com",
-    "location": "Oborniki \u015al\u0105skie, Dolno\u015bl\u0105skie, Poland",
-    "posted_date": "2026-03-13",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385330815?position=7&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=e5Ybj5au3NX0zIFEddtayw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.000119"
-  },
-  "d8c6de7e397a2de8bd3662e62fce9cea": {
-    "title": "DevOps Engineer",
-    "company_name": "Base.com",
-    "location": "O\u0142awa, Dolno\u015bl\u0105skie, Poland",
-    "posted_date": "2026-03-13",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385328865?position=9&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=TgNNpH7m3bQnQjaoyAX2Iw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.000122"
-  },
-  "6220b7a41fe119f2145169ebdd359c4d": {
-    "title": "DevOps Engineer (GCP)",
-    "company_name": "HCLTech",
-    "location": "Bucharest, Romania",
-    "posted_date": "2026-03-13",
-    "url": "https://ro.linkedin.com/jobs/view/devops-engineer-gcp-at-hcltech-4384234535?position=23&pageNum=0&refId=aDsUCy%2F7Y4BGq3ICAdS5gw%3D%3D&trackingId=rtcdaYgXGq9j1MhArfZlkg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.030770"
-  },
-  "d91c938765dfe49933f5106eb7473b2d": {
-    "title": "AWS Cloud Engineer",
-    "company_name": "Revolgy",
-    "location": "Czechia",
-    "posted_date": "2026-03-13",
-    "url": "https://cz.linkedin.com/jobs/view/aws-cloud-engineer-at-revolgy-4302634827?position=41&pageNum=0&refId=thhfxNAusvL5TArwuKXQxw%3D%3D&trackingId=hX3UdO%2BrqRTQOLZCU3ymsg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.144732"
-  },
-  "e8db5d8da37be2469f6f6ffee99bc15a": {
-    "title": "AWS Cloud Engineer",
-    "company_name": "Groupe SII",
-    "location": "Brno, South Moravia, Czechia",
-    "posted_date": "2026-03-13",
-    "url": "https://cz.linkedin.com/jobs/view/aws-cloud-engineer-at-groupe-sii-4384236300?position=46&pageNum=0&refId=4m%2Bya4QI1n1Qszwr7bkg7Q%3D%3D&trackingId=S%2F7gpcep9vSSkPIs%2Ba4STw%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.169052"
-  },
-  "ddde9e2cdb157e049bc147401813895f": {
-    "title": "Enterprise Architect (Data & Cloud)",
-    "company_name": "EUROPEAN DYNAMICS",
-    "location": "Brussels, Brussels Region, Belgium",
-    "posted_date": "2026-03-13",
-    "url": "https://be.linkedin.com/jobs/view/enterprise-architect-data-cloud-at-european-dynamics-4385335665?position=6&pageNum=0&refId=1GXrjXrdq2tHsTGg471Tgw%3D%3D&trackingId=Xsn4wgA10qEyNzVd4rNH0Q%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.212897"
-  },
-  "ab609e88d2528be3897910ae8e892b4f": {
-    "title": "Site Reliability Engineer",
-    "company_name": "ACENSI",
-    "location": "Brussels Metropolitan Area",
-    "posted_date": "2026-03-13",
-    "url": "https://be.linkedin.com/jobs/view/site-reliability-engineer-at-acensi-4385334627?position=1&pageNum=0&refId=aldHNfT00ege4aN%2BiQcxag%3D%3D&trackingId=xA5dY0cO73SRxnBiz3uj%2FQ%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.232929"
-  },
-  "7bfed0e6048605a87cbfeea84c1e4c70": {
-    "title": "Devops Cloud Platform Developer",
-    "company_name": "PHZ Full Stack",
-    "location": "Helsinki, Southwest Finland, Finland",
-    "posted_date": "2026-03-13",
-    "url": "https://fi.linkedin.com/jobs/view/devops-cloud-platform-developer-at-phz-full-stack-4385322788?position=10&pageNum=0&refId=kPY2N8MIU0cAGbRS9DYFlA%3D%3D&trackingId=5gNuElJF2g3tobmqiu%2FQhA%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.241859"
-  },
-  "021be7466c8c82dc4ce087288d9b1013": {
-    "title": "Cloud Architect",
-    "company_name": "SkillRecruit",
-    "location": "Malmo, Sk\u00e5ne County, Sweden",
-    "posted_date": "2026-03-13",
-    "url": "https://se.linkedin.com/jobs/view/cloud-architect-at-skillrecruit-4383081843?position=38&pageNum=0&refId=u2W07BSdrXD8ftyNXWa8%2Bw%3D%3D&trackingId=s0iww2j2RE%2B9xEQzt9tyyQ%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T11:46:36.277205"
-  },
-  "7c1ddeae7681f528935510a49014ec3d": {
-    "title": "DevOps Engineer (m/f/d)",
-    "company_name": "Siemens",
-    "location": "Prague, Prague, Czechia",
-    "posted_date": "2026-03-13",
-    "url": "https://cz.linkedin.com/jobs/view/devops-engineer-m-f-d-at-siemens-4374300018?position=39&pageNum=0&refId=FF1jC759H27ObbD9ziKfGw%3D%3D&trackingId=LejzB%2F7ONYfn8gC%2BelV8cg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T12:13:07.198609"
-  },
-  "940752c3ad65f81fdfe549f1ea49e938": {
-    "title": "DevOps Engineer",
-    "company_name": "Aistech Space",
-    "location": "Sant Cugat del Vall\u00e8s, Catalonia, Spain",
-    "posted_date": "2026-03-13",
-    "url": "https://es.linkedin.com/jobs/view/devops-engineer-at-aistech-space-4384251723?position=25&pageNum=0&refId=XSIgibetZjFFSZblag9nMw%3D%3D&trackingId=Oip%2FZDy%2F%2BezeMiRTZ4oqyg%3D%3D",
-    "full_time": true,
-    "description": null,
-    "first_seen": "2026-03-13T12:58:46.517708"
-  },
-  "0a67bf4005d9f5afc376b81971eb8f79": {
-    "title": "Software Development Intern",
-    "company_name": "Bandwidth Inc.",
-    "location": "Ia\u015fi, Ia\u015fi, Romania",
-    "posted_date": "2026-03-13",
-    "url": "https://ro.linkedin.com/jobs/view/software-development-intern-at-bandwidth-inc-4383930651?position=3&pageNum=0&refId=g5y4QrnKTvtEFUHwV5Ps4w%3D%3D&trackingId=dBoBcfFV6g82J3M4QCHNPg%3D%3D",
-    "full_time": false,
-    "description": null,
-    "first_seen": "2026-03-18T09:58:31.950004"
-  },
   "9f030d7a87a79f4844c8fbfa0fe96874": {
     "title": "Software Engineering Intern",
     "company_name": "Second Foundation",
@@ -368,5 +178,25 @@
     "full_time": false,
     "description": null,
     "first_seen": "2026-05-06T11:05:41.463573"
+  },
+  "07ed998077f7fbdd3b58826d7b3f0f36": {
+    "title": "Software Developer Engineer, Internship",
+    "company_name": "Siemens",
+    "location": "Pozna\u0144, Wielkopolskie, Poland",
+    "posted_date": "2026-04-25",
+    "url": "https://pl.linkedin.com/jobs/view/software-developer-engineer-internship-at-siemens-4405758254?position=4&pageNum=0&refId=OL40AzhDkom1DIsCkfKwRA%3D%3D&trackingId=lsZ9PDPwkGZ2YWTI%2BY22tw%3D%3D",
+    "full_time": false,
+    "description": null,
+    "first_seen": "2026-05-13T11:31:50.450736"
+  },
+  "543bb2064bfb980fdeef13a36ee3dd89": {
+    "title": "Summer Internship 2026 - Software Developer - Boeing Defense, Space, and Security",
+    "company_name": "Boeing",
+    "location": "Gdansk Metropolitan Area",
+    "posted_date": "2026-05-12",
+    "url": "https://pl.linkedin.com/jobs/view/summer-internship-2026-software-developer-boeing-defense-space-and-security-at-boeing-4410160136?position=9&pageNum=0&refId=OL40AzhDkom1DIsCkfKwRA%3D%3D&trackingId=nOnJHZUxdlRIE7ktN37cGg%3D%3D",
+    "full_time": false,
+    "description": null,
+    "first_seen": "2026-05-13T11:31:50.450760"
   }
 }

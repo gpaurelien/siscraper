@@ -4,17 +4,29 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 37 offers  
-- Internships: 19  
-- Full-time: 18
+Total: 20 offers  
+- Internships: 20  
+- Full-time: 0
 
-## Internships (19 offers)
+## Internships (20 offers)
+
+### Boeing
+- **Position:** Summer Internship 2026 - Software Developer - Boeing Defense, Space, and Security
+- **Location:** Gdansk Metropolitan Area
+- **Posted on:** 2026-05-12
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-internship-2026-software-developer-boeing-defense-space-and-security-at-boeing-4410160136?position=9&pageNum=0&refId=OL40AzhDkom1DIsCkfKwRA%3D%3D&trackingId=nOnJHZUxdlRIE7ktN37cGg%3D%3D)
 
 ### Squarepoint
 - **Position:** Intern Software Developer - Summer - Warsaw
 - **Location:** Warsaw, Mazowieckie, Poland
 - **Posted on:** 2026-04-27
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-software-developer-summer-warsaw-at-squarepoint-4405120635?position=2&pageNum=0&refId=CpE6vg9PlMJnLYZY5Tjp8A%3D%3D&trackingId=IhRSYELJ%2FQlGnkQCEPU4QA%3D%3D)
+
+### Siemens
+- **Position:** Software Developer Engineer, Internship
+- **Location:** Poznań, Wielkopolskie, Poland
+- **Posted on:** 2026-04-25
+- [Apply here](https://pl.linkedin.com/jobs/view/software-developer-engineer-internship-at-siemens-4405758254?position=4&pageNum=0&refId=OL40AzhDkom1DIsCkfKwRA%3D%3D&trackingId=lsZ9PDPwkGZ2YWTI%2BY22tw%3D%3D)
 
 ### Superhuman
 - **Position:** Software Engineer Intern (Summer 2026)
@@ -118,120 +130,6 @@ Total: 37 offers
 - **Posted on:** 2026-03-20
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4388546827?position=1&pageNum=0&refId=a2Kde4O8B3eibU50djFa6g%3D%3D&trackingId=NO25K%2FjCJ4Qgo7F7WDS4pw%3D%3D)
 
-### Bandwidth Inc.
-- **Position:** Software Development Intern
-- **Location:** Iaşi, Iaşi, Romania
-- **Posted on:** 2026-03-13
-- [Apply here](https://ro.linkedin.com/jobs/view/software-development-intern-at-bandwidth-inc-4383930651?position=3&pageNum=0&refId=g5y4QrnKTvtEFUHwV5Ps4w%3D%3D&trackingId=dBoBcfFV6g82J3M4QCHNPg%3D%3D)
 
-
-## Full-time positions (18 offers)
-
-### KCS iT
-- **Position:** DevOps Engineer
-- **Location:** Portugal
-- **Posted on:** 2026-03-13
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-kcs-it-4384244551?position=19&pageNum=0&refId=xOoATvaZgeGY3oFGgi1qRg%3D%3D&trackingId=e6Hp44IMD%2B9uhY9TlUjS%2FA%3D%3D)
-
-### FOX IT
-- **Position:** DevOps Engineer
-- **Location:** Almada, Setúbal, Portugal
-- **Posted on:** 2026-03-13
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-fox-it-4385331632?position=30&pageNum=0&refId=xOoATvaZgeGY3oFGgi1qRg%3D%3D&trackingId=HNnwQoVANpFOjyQO5IzZWA%3D%3D)
-
-### Prenomics
-- **Position:** Data Platform Engineer
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-03-13
-- [Apply here](https://es.linkedin.com/jobs/view/data-platform-engineer-at-prenomics-4383083885?position=37&pageNum=0&refId=dFqLickvU9%2Bjdta%2FNNnkZw%3D%3D&trackingId=BuW8saASlWXVh5GSHNm3Pw%3D%3D)
-
-### Base.com
-- **Position:** DevOps Engineer
-- **Location:** Brzeg Dolny, Dolnośląskie, Poland
-- **Posted on:** 2026-03-13
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385335726?position=2&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=2ocVnIuV3EqB6sT%2BJkyvkA%3D%3D)
-
-### Base.com
-- **Position:** DevOps Engineer
-- **Location:** Wrocław, Dolnośląskie, Poland
-- **Posted on:** 2026-03-13
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385347216?position=3&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=88Ua9lvGfrQwOdYXndWn0Q%3D%3D)
-
-### Base.com
-- **Position:** DevOps Engineer
-- **Location:** Oleśnica, Dolnośląskie, Poland
-- **Posted on:** 2026-03-13
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385327903?position=5&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=RS1zihNg6g4PHw0Ndewv%2Bw%3D%3D)
-
-### Base.com
-- **Position:** DevOps Engineer
-- **Location:** Trzebnica, Dolnośląskie, Poland
-- **Posted on:** 2026-03-13
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385349092?position=6&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=QzeUY8RfQBs28fQo%2B4MSiA%3D%3D)
-
-### Base.com
-- **Position:** DevOps Engineer
-- **Location:** Oborniki Śląskie, Dolnośląskie, Poland
-- **Posted on:** 2026-03-13
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385330815?position=7&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=e5Ybj5au3NX0zIFEddtayw%3D%3D)
-
-### Base.com
-- **Position:** DevOps Engineer
-- **Location:** Oława, Dolnośląskie, Poland
-- **Posted on:** 2026-03-13
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-base-com-4385328865?position=9&pageNum=0&refId=2%2BLVysfRvFz233513qF%2BQQ%3D%3D&trackingId=TgNNpH7m3bQnQjaoyAX2Iw%3D%3D)
-
-### HCLTech
-- **Position:** DevOps Engineer (GCP)
-- **Location:** Bucharest, Romania
-- **Posted on:** 2026-03-13
-- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-gcp-at-hcltech-4384234535?position=23&pageNum=0&refId=aDsUCy%2F7Y4BGq3ICAdS5gw%3D%3D&trackingId=rtcdaYgXGq9j1MhArfZlkg%3D%3D)
-
-### Revolgy
-- **Position:** AWS Cloud Engineer
-- **Location:** Czechia
-- **Posted on:** 2026-03-13
-- [Apply here](https://cz.linkedin.com/jobs/view/aws-cloud-engineer-at-revolgy-4302634827?position=41&pageNum=0&refId=thhfxNAusvL5TArwuKXQxw%3D%3D&trackingId=hX3UdO%2BrqRTQOLZCU3ymsg%3D%3D)
-
-### Groupe SII
-- **Position:** AWS Cloud Engineer
-- **Location:** Brno, South Moravia, Czechia
-- **Posted on:** 2026-03-13
-- [Apply here](https://cz.linkedin.com/jobs/view/aws-cloud-engineer-at-groupe-sii-4384236300?position=46&pageNum=0&refId=4m%2Bya4QI1n1Qszwr7bkg7Q%3D%3D&trackingId=S%2F7gpcep9vSSkPIs%2Ba4STw%3D%3D)
-
-### EUROPEAN DYNAMICS
-- **Position:** Enterprise Architect (Data & Cloud)
-- **Location:** Brussels, Brussels Region, Belgium
-- **Posted on:** 2026-03-13
-- [Apply here](https://be.linkedin.com/jobs/view/enterprise-architect-data-cloud-at-european-dynamics-4385335665?position=6&pageNum=0&refId=1GXrjXrdq2tHsTGg471Tgw%3D%3D&trackingId=Xsn4wgA10qEyNzVd4rNH0Q%3D%3D)
-
-### ACENSI
-- **Position:** Site Reliability Engineer
-- **Location:** Brussels Metropolitan Area
-- **Posted on:** 2026-03-13
-- [Apply here](https://be.linkedin.com/jobs/view/site-reliability-engineer-at-acensi-4385334627?position=1&pageNum=0&refId=aldHNfT00ege4aN%2BiQcxag%3D%3D&trackingId=xA5dY0cO73SRxnBiz3uj%2FQ%3D%3D)
-
-### PHZ Full Stack
-- **Position:** Devops Cloud Platform Developer
-- **Location:** Helsinki, Southwest Finland, Finland
-- **Posted on:** 2026-03-13
-- [Apply here](https://fi.linkedin.com/jobs/view/devops-cloud-platform-developer-at-phz-full-stack-4385322788?position=10&pageNum=0&refId=kPY2N8MIU0cAGbRS9DYFlA%3D%3D&trackingId=5gNuElJF2g3tobmqiu%2FQhA%3D%3D)
-
-### SkillRecruit
-- **Position:** Cloud Architect
-- **Location:** Malmo, Skåne County, Sweden
-- **Posted on:** 2026-03-13
-- [Apply here](https://se.linkedin.com/jobs/view/cloud-architect-at-skillrecruit-4383081843?position=38&pageNum=0&refId=u2W07BSdrXD8ftyNXWa8%2Bw%3D%3D&trackingId=s0iww2j2RE%2B9xEQzt9tyyQ%3D%3D)
-
-### Siemens
-- **Position:** DevOps Engineer (m/f/d)
-- **Location:** Prague, Prague, Czechia
-- **Posted on:** 2026-03-13
-- [Apply here](https://cz.linkedin.com/jobs/view/devops-engineer-m-f-d-at-siemens-4374300018?position=39&pageNum=0&refId=FF1jC759H27ObbD9ziKfGw%3D%3D&trackingId=LejzB%2F7ONYfn8gC%2BelV8cg%3D%3D)
-
-### Aistech Space
-- **Position:** DevOps Engineer
-- **Location:** Sant Cugat del Vallès, Catalonia, Spain
-- **Posted on:** 2026-03-13
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-at-aistech-space-4384251723?position=25&pageNum=0&refId=XSIgibetZjFFSZblag9nMw%3D%3D&trackingId=Oip%2FZDy%2F%2BezeMiRTZ4oqyg%3D%3D)
+## Full-time positions (0 offers)
 
