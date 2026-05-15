@@ -4,11 +4,23 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 20 offers  
-- Internships: 20  
+Total: 22 offers  
+- Internships: 22  
 - Full-time: 0
 
-## Internships (20 offers)
+## Internships (22 offers)
+
+### Winnow
+- **Position:** Summer intern - Software Engineer (2026/2027 graduates)
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2026-05-15
+- [Apply here](https://ro.linkedin.com/jobs/view/summer-intern-software-engineer-2026-2027-graduates-at-winnow-4415326967?position=9&pageNum=0&refId=BTzXxfsngZFhiU9%2BdCmSrw%3D%3D&trackingId=t6Xjfuw19AKaRXCeL6qGPQ%3D%3D)
+
+### Bandwidth Inc.
+- **Position:** Software Development Intern
+- **Location:** Iaşi, Iaşi, Romania
+- **Posted on:** 2026-05-13
+- [Apply here](https://ro.linkedin.com/jobs/view/software-development-intern-at-bandwidth-inc-4414112914?position=1&pageNum=0&refId=BTzXxfsngZFhiU9%2BdCmSrw%3D%3D&trackingId=eXYNmVi%2Fyi9WIcMLmEme%2BA%3D%3D)
 
 ### Boeing
 - **Position:** Summer Internship 2026 - Software Developer - Boeing Defense, Space, and Security
