@@ -1,14 +1,4 @@
 {
-  "9f030d7a87a79f4844c8fbfa0fe96874": {
-    "title": "Software Engineering Intern",
-    "company_name": "Second Foundation",
-    "location": "Prague 1, Prague, Czechia",
-    "posted_date": "2026-03-20",
-    "url": "https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4388546827?position=1&pageNum=0&refId=a2Kde4O8B3eibU50djFa6g%3D%3D&trackingId=NO25K%2FjCJ4Qgo7F7WDS4pw%3D%3D",
-    "full_time": false,
-    "description": null,
-    "first_seen": "2026-03-23T10:03:36.253988"
-  },
   "90e7afca517abf8cef6f86c31de9efc8": {
     "title": "Embedded Software QA Engineer, Internship",
     "company_name": "Siemens Digital Industries Software",
@@ -218,5 +208,25 @@
     "full_time": false,
     "description": null,
     "first_seen": "2026-05-15T11:23:14.360400"
+  },
+  "79e88434cb858f3c2c7ededadf8c86a9": {
+    "title": "Software Development Intern (Cracow, Poland)",
+    "company_name": "Cisco",
+    "location": "Cracow, Ma\u0142opolskie, Poland",
+    "posted_date": "2026-05-18",
+    "url": "https://pl.linkedin.com/jobs/view/software-development-intern-cracow-poland-at-cisco-4416251921?position=1&pageNum=0&refId=FiPnwUSzFGp0kz1U2cAxHg%3D%3D&trackingId=mbYBU3WlxHFLh1CLjFVj0A%3D%3D",
+    "full_time": false,
+    "description": null,
+    "first_seen": "2026-05-20T11:50:10.288553"
+  },
+  "06cff6f7e9b30e42621ce074ac26a59a": {
+    "title": "Cloud Development Engineer Intern - Summer 2026",
+    "company_name": "Pegasystems",
+    "location": "Cracow, Ma\u0142opolskie, Poland",
+    "posted_date": "2026-05-19",
+    "url": "https://pl.linkedin.com/jobs/view/cloud-development-engineer-intern-summer-2026-at-pegasystems-4351732542?position=34&pageNum=0&refId=FiPnwUSzFGp0kz1U2cAxHg%3D%3D&trackingId=m0E16TfQmCf4ZXs4EJuuvw%3D%3D",
+    "full_time": false,
+    "description": null,
+    "first_seen": "2026-05-20T11:50:10.288585"
   }
 }

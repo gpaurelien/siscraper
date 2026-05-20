@@ -4,11 +4,23 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 22 offers  
-- Internships: 22  
+Total: 23 offers  
+- Internships: 23  
 - Full-time: 0
 
-## Internships (22 offers)
+## Internships (23 offers)
+
+### Pegasystems
+- **Position:** Cloud Development Engineer Intern - Summer 2026
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-05-19
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-development-engineer-intern-summer-2026-at-pegasystems-4351732542?position=34&pageNum=0&refId=FiPnwUSzFGp0kz1U2cAxHg%3D%3D&trackingId=m0E16TfQmCf4ZXs4EJuuvw%3D%3D)
+
+### Cisco
+- **Position:** Software Development Intern (Cracow, Poland)
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-05-18
+- [Apply here](https://pl.linkedin.com/jobs/view/software-development-intern-cracow-poland-at-cisco-4416251921?position=1&pageNum=0&refId=FiPnwUSzFGp0kz1U2cAxHg%3D%3D&trackingId=mbYBU3WlxHFLh1CLjFVj0A%3D%3D)
 
 ### Winnow
 - **Position:** Summer intern - Software Engineer (2026/2027 graduates)
@@ -135,12 +147,6 @@ Total: 22 offers
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2026-03-25
 - [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-intern-summer-2026-at-pegasystems-4350802035?position=36&pageNum=0&refId=YPMzIO65xxLID0d7%2BGV1Aw%3D%3D&trackingId=JC%2BP81gsn3JFHMUAuePgkg%3D%3D)
-
-### Second Foundation
-- **Position:** Software Engineering Intern
-- **Location:** Prague 1, Prague, Czechia
-- **Posted on:** 2026-03-20
-- [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4388546827?position=1&pageNum=0&refId=a2Kde4O8B3eibU50djFa6g%3D%3D&trackingId=NO25K%2FjCJ4Qgo7F7WDS4pw%3D%3D)
 
 
 ## Full-time positions (0 offers)
