@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 23 offers  
-- Internships: 23  
+Total: 24 offers  
+- Internships: 24  
 - Full-time: 0
 
-## Internships (23 offers)
+## Internships (24 offers)
+
+### UiPath
+- **Position:** Front-End Software Engineer Intern
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-05-20
+- [Apply here](https://ro.linkedin.com/jobs/view/front-end-software-engineer-intern-at-uipath-4413613826?position=5&pageNum=0&refId=ZwweyMeGnbHHxKqqA8vJOQ%3D%3D&trackingId=RcIH2r6s04zzcsoT2oR1Xg%3D%3D)
 
 ### Pegasystems
 - **Position:** Cloud Development Engineer Intern - Summer 2026
