@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 24 offers  
-- Internships: 24  
+Total: 23 offers  
+- Internships: 23  
 - Full-time: 0
 
-## Internships (24 offers)
+## Internships (23 offers)
+
+### Siemens Energy
+- **Position:** Summer Internship 2026 (Local Program - Automation & Systems)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-05-25
+- [Apply here](https://ro.linkedin.com/jobs/view/summer-internship-2026-local-program-automation-systems-at-siemens-energy-4417870862?position=7&pageNum=0&refId=isnKZeOxZ4RB0ryRdgnrJg%3D%3D&trackingId=Rf3zUUZ0z1e1kdVEBOy4xw%3D%3D)
 
 ### UiPath
 - **Position:** Front-End Software Engineer Intern
@@ -141,18 +147,6 @@ Total: 24 offers
 - **Location:** Barcelona, Catalonia, Spain
 - **Posted on:** 2026-03-27
 - [Apply here](https://es.linkedin.com/jobs/view/summer-2026-internship-%E2%80%93-backend-search-engineer-intern-at-dow-jones-4365233921?position=38&pageNum=0&refId=rzQwz4kc89GAh6qe1LUvCQ%3D%3D&trackingId=mgVtv1afVK8g7XWeEwZPfw%3D%3D)
-
-### Cloudflare
-- **Position:** Software Engineer Intern (Summer 2026)
-- **Location:** Lisbon, Portugal
-- **Posted on:** 2026-03-25
-- [Apply here](https://pt.linkedin.com/jobs/view/software-engineer-intern-summer-2026-at-cloudflare-4307553841?position=3&pageNum=0&refId=HHGSa6xHJd%2FM5Rzus6eS8Q%3D%3D&trackingId=62UPARC9EpcYZzUEGe34rA%3D%3D)
-
-### Pegasystems
-- **Position:** DevOps Engineer Intern - Summer 2026
-- **Location:** Cracow, Małopolskie, Poland
-- **Posted on:** 2026-03-25
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-intern-summer-2026-at-pegasystems-4350802035?position=36&pageNum=0&refId=YPMzIO65xxLID0d7%2BGV1Aw%3D%3D&trackingId=JC%2BP81gsn3JFHMUAuePgkg%3D%3D)
 
 
 ## Full-time positions (0 offers)

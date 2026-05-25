@@ -19,16 +19,6 @@
     "description": null,
     "first_seen": "2026-04-03T09:55:44.113486"
   },
-  "461203bf172ec67b828cd992974bc30c": {
-    "title": "Software Engineer Intern (Summer 2026)",
-    "company_name": "Cloudflare",
-    "location": "Lisbon, Portugal",
-    "posted_date": "2026-03-25",
-    "url": "https://pt.linkedin.com/jobs/view/software-engineer-intern-summer-2026-at-cloudflare-4307553841?position=3&pageNum=0&refId=HHGSa6xHJd%2FM5Rzus6eS8Q%3D%3D&trackingId=62UPARC9EpcYZzUEGe34rA%3D%3D",
-    "full_time": false,
-    "description": null,
-    "first_seen": "2026-04-13T10:47:31.745133"
-  },
   "1e5e04df0ef669face3bdf631ed2e339": {
     "title": "Summer 2026 Internship \u2013 Backend Search Engineer Intern",
     "company_name": "Dow Jones",
@@ -38,16 +28,6 @@
     "full_time": false,
     "description": null,
     "first_seen": "2026-04-15T10:18:03.035603"
-  },
-  "0408f19599a93cba73e26ed9a38028da": {
-    "title": "DevOps Engineer Intern - Summer 2026",
-    "company_name": "Pegasystems",
-    "location": "Cracow, Ma\u0142opolskie, Poland",
-    "posted_date": "2026-03-25",
-    "url": "https://pl.linkedin.com/jobs/view/devops-engineer-intern-summer-2026-at-pegasystems-4350802035?position=36&pageNum=0&refId=YPMzIO65xxLID0d7%2BGV1Aw%3D%3D&trackingId=JC%2BP81gsn3JFHMUAuePgkg%3D%3D",
-    "full_time": false,
-    "description": null,
-    "first_seen": "2026-04-15T10:18:03.040426"
   },
   "0b98120cfb8706198724841099a63901": {
     "title": "Internship in Energy Systems Modelling and Computational optimization",
@@ -238,5 +218,15 @@
     "full_time": false,
     "description": null,
     "first_seen": "2026-05-22T12:54:19.498566"
+  },
+  "0d8260b1745f510644aa2390fb6194a5": {
+    "title": "Summer Internship 2026 (Local Program - Automation & Systems)",
+    "company_name": "Siemens Energy",
+    "location": "Bucharest, Bucharest, Romania",
+    "posted_date": "2026-05-25",
+    "url": "https://ro.linkedin.com/jobs/view/summer-internship-2026-local-program-automation-systems-at-siemens-energy-4417870862?position=7&pageNum=0&refId=isnKZeOxZ4RB0ryRdgnrJg%3D%3D&trackingId=Rf3zUUZ0z1e1kdVEBOy4xw%3D%3D",
+    "full_time": false,
+    "description": null,
+    "first_seen": "2026-05-25T12:32:03.106778"
   }
 }
