@@ -4,11 +4,17 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 23 offers  
-- Internships: 23  
+Total: 22 offers  
+- Internships: 22  
 - Full-time: 0
 
-## Internships (23 offers)
+## Internships (22 offers)
+
+### Hipo.ro
+- **Position:** Summer Internship 2026 (Local Program - Automation & Systems)
+- **Location:** Ilfov, Romania
+- **Posted on:** 2026-05-26
+- [Apply here](https://ro.linkedin.com/jobs/view/summer-internship-2026-local-program-automation-systems-at-hipo-ro-4419480978?position=4&pageNum=0&refId=feG3r9L2p%2FHNVJ8sq5KqUg%3D%3D&trackingId=fsUEMPdOi8N97Uht9Fv2cA%3D%3D)
 
 ### Siemens Energy
 - **Position:** Summer Internship 2026 (Local Program - Automation & Systems)
@@ -135,18 +141,6 @@ Total: 23 offers
 - **Location:** Uppsala, Uppsala County, Sweden
 - **Posted on:** 2026-04-01
 - [Apply here](https://se.linkedin.com/jobs/view/junior-software-engineer-paid-summer-internship-%E2%80%93-uppsala-at-iar-4394906502?position=5&pageNum=0&refId=ZryJ%2FfqZQjUx2G2JivrSsQ%3D%3D&trackingId=KqNwKoTdUEv3Tv7dIbQJJA%3D%3D)
-
-### Siemens Digital Industries Software
-- **Position:** Embedded Software QA Engineer, Internship
-- **Location:** Poznań, Wielkopolskie, Poland
-- **Posted on:** 2026-03-27
-- [Apply here](https://pl.linkedin.com/jobs/view/embedded-software-qa-engineer-internship-at-siemens-digital-industries-software-4390997804?position=41&pageNum=0&refId=TKdfHtQS6AnrEoMlZFCwbw%3D%3D&trackingId=WxEL2cY0CJP%2F4a2h67xYGA%3D%3D)
-
-### Dow Jones
-- **Position:** Summer 2026 Internship – Backend Search Engineer Intern
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-03-27
-- [Apply here](https://es.linkedin.com/jobs/view/summer-2026-internship-%E2%80%93-backend-search-engineer-intern-at-dow-jones-4365233921?position=38&pageNum=0&refId=rzQwz4kc89GAh6qe1LUvCQ%3D%3D&trackingId=mgVtv1afVK8g7XWeEwZPfw%3D%3D)
 
 
 ## Full-time positions (0 offers)

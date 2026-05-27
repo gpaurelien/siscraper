@@ -1,14 +1,4 @@
 {
-  "90e7afca517abf8cef6f86c31de9efc8": {
-    "title": "Embedded Software QA Engineer, Internship",
-    "company_name": "Siemens Digital Industries Software",
-    "location": "Pozna\u0144, Wielkopolskie, Poland",
-    "posted_date": "2026-03-27",
-    "url": "https://pl.linkedin.com/jobs/view/embedded-software-qa-engineer-internship-at-siemens-digital-industries-software-4390997804?position=41&pageNum=0&refId=TKdfHtQS6AnrEoMlZFCwbw%3D%3D&trackingId=WxEL2cY0CJP%2F4a2h67xYGA%3D%3D",
-    "full_time": false,
-    "description": null,
-    "first_seen": "2026-03-30T19:55:42.884539"
-  },
   "bcd18967940ad60930f69d42e584638d": {
     "title": "Junior Software Engineer (Paid Summer Internship) \u2013 Uppsala",
     "company_name": "IAR",
@@ -18,16 +8,6 @@
     "full_time": false,
     "description": null,
     "first_seen": "2026-04-03T09:55:44.113486"
-  },
-  "1e5e04df0ef669face3bdf631ed2e339": {
-    "title": "Summer 2026 Internship \u2013 Backend Search Engineer Intern",
-    "company_name": "Dow Jones",
-    "location": "Barcelona, Catalonia, Spain",
-    "posted_date": "2026-03-27",
-    "url": "https://es.linkedin.com/jobs/view/summer-2026-internship-%E2%80%93-backend-search-engineer-intern-at-dow-jones-4365233921?position=38&pageNum=0&refId=rzQwz4kc89GAh6qe1LUvCQ%3D%3D&trackingId=mgVtv1afVK8g7XWeEwZPfw%3D%3D",
-    "full_time": false,
-    "description": null,
-    "first_seen": "2026-04-15T10:18:03.035603"
   },
   "0b98120cfb8706198724841099a63901": {
     "title": "Internship in Energy Systems Modelling and Computational optimization",
@@ -228,5 +208,15 @@
     "full_time": false,
     "description": null,
     "first_seen": "2026-05-25T12:32:03.106778"
+  },
+  "fd36734014375bf9853af99d7f55bb0e": {
+    "title": "Summer Internship 2026 (Local Program - Automation & Systems)",
+    "company_name": "Hipo.ro",
+    "location": "Ilfov, Romania",
+    "posted_date": "2026-05-26",
+    "url": "https://ro.linkedin.com/jobs/view/summer-internship-2026-local-program-automation-systems-at-hipo-ro-4419480978?position=4&pageNum=0&refId=feG3r9L2p%2FHNVJ8sq5KqUg%3D%3D&trackingId=fsUEMPdOi8N97Uht9Fv2cA%3D%3D",
+    "full_time": false,
+    "description": null,
+    "first_seen": "2026-05-27T12:20:35.371171"
   }
 }
