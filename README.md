@@ -10,6 +10,12 @@ Total: 22 offers
 
 ## Internships (22 offers)
 
+### Siemens Digital Industries Software
+- **Position:** Embedded Software QA Engineer, Internship
+- **Location:** Poznań, Wielkopolskie, Poland
+- **Posted on:** 2026-05-30
+- [Apply here](https://pl.linkedin.com/jobs/view/embedded-software-qa-engineer-internship-at-siemens-digital-industries-software-4390997804?position=21&pageNum=0&refId=dIe0Gf4PpSzcf40af0DW%2Fg%3D%3D&trackingId=JO7zkAVMRNXx5wsbhOMrPQ%3D%3D)
+
 ### Hipo.ro
 - **Position:** Summer Internship 2026 (Local Program - Automation & Systems)
 - **Location:** Ilfov, Romania
@@ -135,12 +141,6 @@ Total: 22 offers
 - **Location:** Warsaw, Mazowieckie, Poland
 - **Posted on:** 2026-04-05
 - [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-summer-2026-warsaw-at-asana-4352344362?position=5&pageNum=0&refId=yLZwhpjjjZRVSLM8oNggng%3D%3D&trackingId=waA4S6MLeTWw9MFrOyI3UQ%3D%3D)
-
-### IAR
-- **Position:** Junior Software Engineer (Paid Summer Internship) – Uppsala
-- **Location:** Uppsala, Uppsala County, Sweden
-- **Posted on:** 2026-04-01
-- [Apply here](https://se.linkedin.com/jobs/view/junior-software-engineer-paid-summer-internship-%E2%80%93-uppsala-at-iar-4394906502?position=5&pageNum=0&refId=ZryJ%2FfqZQjUx2G2JivrSsQ%3D%3D&trackingId=KqNwKoTdUEv3Tv7dIbQJJA%3D%3D)
 
 
 ## Full-time positions (0 offers)

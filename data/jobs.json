@@ -1,14 +1,4 @@
 {
-  "bcd18967940ad60930f69d42e584638d": {
-    "title": "Junior Software Engineer (Paid Summer Internship) \u2013 Uppsala",
-    "company_name": "IAR",
-    "location": "Uppsala, Uppsala County, Sweden",
-    "posted_date": "2026-04-01",
-    "url": "https://se.linkedin.com/jobs/view/junior-software-engineer-paid-summer-internship-%E2%80%93-uppsala-at-iar-4394906502?position=5&pageNum=0&refId=ZryJ%2FfqZQjUx2G2JivrSsQ%3D%3D&trackingId=KqNwKoTdUEv3Tv7dIbQJJA%3D%3D",
-    "full_time": false,
-    "description": null,
-    "first_seen": "2026-04-03T09:55:44.113486"
-  },
   "0b98120cfb8706198724841099a63901": {
     "title": "Internship in Energy Systems Modelling and Computational optimization",
     "company_name": "Norwegian University of Science and Technology (NTNU)",
@@ -218,5 +208,15 @@
     "full_time": false,
     "description": null,
     "first_seen": "2026-05-27T12:20:35.371171"
+  },
+  "90e7afca517abf8cef6f86c31de9efc8": {
+    "title": "Embedded Software QA Engineer, Internship",
+    "company_name": "Siemens Digital Industries Software",
+    "location": "Pozna\u0144, Wielkopolskie, Poland",
+    "posted_date": "2026-05-30",
+    "url": "https://pl.linkedin.com/jobs/view/embedded-software-qa-engineer-internship-at-siemens-digital-industries-software-4390997804?position=21&pageNum=0&refId=dIe0Gf4PpSzcf40af0DW%2Fg%3D%3D&trackingId=JO7zkAVMRNXx5wsbhOMrPQ%3D%3D",
+    "full_time": false,
+    "description": null,
+    "first_seen": "2026-06-01T14:57:53.460799"
   }
 }
