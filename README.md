@@ -4,11 +4,11 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 22 offers  
-- Internships: 22  
+Total: 21 offers  
+- Internships: 21  
 - Full-time: 0
 
-## Internships (22 offers)
+## Internships (21 offers)
 
 ### Siemens Digital Industries Software
 - **Position:** Embedded Software QA Engineer, Internship
@@ -135,12 +135,6 @@ Total: 22 offers
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2026-04-13
 - [Apply here](https://pl.linkedin.com/jobs/view/summer-2026-software-engineering-internship-at-activecampaign-4322072942?position=9&pageNum=0&refId=h3V228gBe89eVmxZIC9clA%3D%3D&trackingId=F7PffZ%2BOX%2FG7VNTWEO3Ohg%3D%3D)
-
-### Asana
-- **Position:** Software Engineering Intern - Summer 2026 (Warsaw)
-- **Location:** Warsaw, Mazowieckie, Poland
-- **Posted on:** 2026-04-05
-- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-summer-2026-warsaw-at-asana-4352344362?position=5&pageNum=0&refId=yLZwhpjjjZRVSLM8oNggng%3D%3D&trackingId=waA4S6MLeTWw9MFrOyI3UQ%3D%3D)
 
 
 ## Full-time positions (0 offers)
