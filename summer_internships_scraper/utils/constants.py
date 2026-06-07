@@ -1,11 +1,11 @@
 LOCATIONS = {
     "Portugal": "100364837",
     "Spain": "105646813",
-    # "France": "105015875",
+    "France": "105015875",
     "Poland": "105072130",
     "Roumanie": "106670623",
-    "Tchéquie": "104508036",
-    "Belgique": "100565514",
+    "Swiss": "106693272",
+    "Alpes-Maritimes": "103314674",  # personally interested in this location
     "Finlande": "100456013",
     "Sweden": "105117694",
     "Norway": "103819153",
@@ -28,10 +28,9 @@ HEADERS = {
 
 ROLES = {
     "Summer 2026",
-    # "Platform",
-    # "Cloud",
-    # "DevOps",
-    # "Infrastructure",
-    # "Systems",
-    # "Site Reliability",
+    "Platform",
+    "Cloud",
+    "DevOps",
+    "Infrastructure",
+    "Site Reliability",
 }

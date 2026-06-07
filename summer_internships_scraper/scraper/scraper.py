@@ -183,8 +183,6 @@ class LinkedInScraper:
             "infrastructure engineer",
             "systems",
             "site reliability",
-            "software",
-            "developer",
         }
 
         if full_time is False and not any(
