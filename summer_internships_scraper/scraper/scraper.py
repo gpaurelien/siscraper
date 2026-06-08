@@ -1,6 +1,7 @@
 import asyncio
 import logging
 import typing as t
+import random
 
 import aiohttp
 from bs4 import BeautifulSoup
@@ -23,6 +24,7 @@ class LinkedInScraper:
     def __init__(self, host: str, logger: logging.Logger = logger) -> None:
         self.host = host
         self.logger = logger
+        self.sem = asyncio.Semaphore(3)  # limiting concurrent requests to 3
 
     async def fetch_jobs(
         self,
@@ -44,10 +46,9 @@ class LinkedInScraper:
         geo_id, country = location
         keywords = self._format_keywords(keywords)
         step = 25
-        sem = asyncio.Semaphore(3)
 
         async def fetch_throttled(url):
-            async with sem:
+            async with self.sem:
                 return await self._get_page(url, session)
 
         urls = [
@@ -83,6 +84,7 @@ class LinkedInScraper:
         wait=wait_fixed(3),
     )
     async def _get_page(self, url: str, session: aiohttp.ClientSession) -> str:
+        await asyncio.sleep(random.uniform(1, 3))
         async with session.get(
             url,
             headers=HEADERS,
