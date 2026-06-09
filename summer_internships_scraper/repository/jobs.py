@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 class JobRepository:
     def __init__(
-        self, storage_path: str = "data/jobs.json", logger: logging.Logger = logger
+        self, storage_path: str, logger: logging.Logger = logger
     ) -> None:
         self.storage_path = Path(storage_path)
         self.storage_path.parent.mkdir(parents=True, exist_ok=True)

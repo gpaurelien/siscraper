@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 async def main():
     scraper = LinkedInScraper(HOST)
-    repo = JobRepository()
+    repo = JobRepository("data/jobs.json")
 
     async with aiohttp.ClientSession() as session:
         tasks = []
@@ -30,7 +30,7 @@ async def main():
                     )
                 )
 
-        results = await asyncio.gather(*tasks)
+        results = await asyncio.gather(*tasks)  # TODO: use workers instead of `gather()`
 
         total_new_jobs = 0
         for jobs in results:
