@@ -6,12 +6,12 @@ from typing import Optional
 
 @dataclass
 class JobOffer:
-    title: Optional[str]
-    company_name: Optional[str]
-    location: Optional[str]
-    posted_date: Optional[datetime]
     url: str
     full_time: bool
+    title: str
+    company_name: str
+    location: Optional[str]
+    posted_date: Optional[datetime]
     description: Optional[str] = None
 
     def to(self):
