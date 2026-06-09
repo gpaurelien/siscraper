@@ -30,7 +30,7 @@ build-backend = "poetry.core.masonry.api"
 scrape = "summer_internships_scraper.scraper:main"
 
 [tool.black]
-line-length = 85
+line-length = 100
 target-version = ["py313"]
 
 [tool.mypy]
@@ -39,4 +39,4 @@ ignore_missing_imports = true
 
 [tool.isort]
 profile = "black"
-line_length = 85
+line_length = 100
