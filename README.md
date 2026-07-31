@@ -4,14 +4,236 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 2488 offers  
+Total: 2612 offers  
 - Internships: 0  
-- Full-time: 2488
+- Full-time: 2612
 
 ## Internships (0 offers)
 
 
-## Full-time positions (2488 offers)
+## Full-time positions (2612 offers)
+
+### Feedzai
+- **Position:** Site Reliability Engineer
+- **Location:** Portugal
+- **Posted on:** 2026-07-31
+- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-feedzai-4388961709?position=13&pageNum=0&refId=%2Bs6ZnI1lYX14ips8bMGBfQ%3D%3D&trackingId=wNfSwWElgP3grWFW%2BrNOqg%3D%3D)
+
+### Centrifuge
+- **Position:** IT & Platform Engineer
+- **Location:** Spain
+- **Posted on:** 2026-07-31
+- [Apply here](https://es.linkedin.com/jobs/view/it-platform-engineer-at-centrifuge-4445948425?position=46&pageNum=0&refId=5y5fm0%2BpN0SPA0bfHBwcPQ%3D%3D&trackingId=cG5%2F8A%2FqOYjuZBYaAX2LTw%3D%3D)
+
+### 3MT GALICIA GLOBAL SERVICES, S. L.
+- **Position:** DevOps Data Engineer
+- **Location:** Valencia, Valencian Community, Spain
+- **Posted on:** 2026-07-31
+- [Apply here](https://es.linkedin.com/jobs/view/devops-data-engineer-at-3mt-galicia-global-services-s-l-4447116460?position=36&pageNum=0&refId=KAjMOLwr29wZt4qE1Dw7pg%3D%3D&trackingId=5%2BHh893c4vtumfWqu2rEoQ%3D%3D)
+
+### Exoscale
+- **Position:** Site Reliability Engineer - Compute System & Network (f/m/d)
+- **Location:** Greater Madrid Metropolitan Area
+- **Posted on:** 2026-07-31
+- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineer-compute-system-network-f-m-d-at-exoscale-4447100043?position=28&pageNum=0&refId=6BzLjyu%2B6RTKMeSLHMryxg%3D%3D&trackingId=N5RkJIZs%2FYsPluvlG0LOOQ%3D%3D)
+
+### Qualient Technology Solutions UK Limited
+- **Position:** Site Reliability Engineer
+- **Location:** Krakowski, Małopolskie, Poland
+- **Posted on:** 2026-07-31
+- [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-at-qualient-technology-solutions-uk-limited-4446974768?position=22&pageNum=0&refId=wAcAkGXjlBvsHSBijAsbzw%3D%3D&trackingId=%2F2Ahwe1IIHq0M4chRNoERw%3D%3D)
+
+### Thales
+- **Position:** Infrastructure Engineer (with DevOps skills)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-07-31
+- [Apply here](https://ro.linkedin.com/jobs/view/infrastructure-engineer-with-devops-skills-at-thales-4447293586?position=13&pageNum=0&refId=aFeeTWKbJUv1krpJP3uHHQ%3D%3D&trackingId=O8lYQSATV1PGxUTNIuzvkw%3D%3D)
+
+### Multitude
+- **Position:** Platform Engineer
+- **Location:** Helsinki, Uusimaa, Finland
+- **Posted on:** 2026-07-31
+- [Apply here](https://fi.linkedin.com/jobs/view/platform-engineer-at-multitude-4445508372?position=43&pageNum=0&refId=PY4%2FqwvErzdWUXT2Tl6GVQ%3D%3D&trackingId=TkUKI%2FtXn5AvtgIBclz2dQ%3D%3D)
+
+### Devoteam
+- **Position:** Distributed Cloud | DevOps Engineer
+- **Location:** Porto, Porto, Portugal
+- **Posted on:** 2026-07-30
+- [Apply here](https://pt.linkedin.com/jobs/view/distributed-cloud-devops-engineer-at-devoteam-4389578029?position=24&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=c7dNGn82%2Fdhx%2FMMemzQkbA%3D%3D)
+
+### ADENTIS
+- **Position:** DevOps Engineer (Porto)
+- **Location:** Porto, Porto, Portugal
+- **Posted on:** 2026-07-30
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-porto-at-adentis-4445008307?position=55&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=DDQlZJw%2B917QMAgd4aXMpw%3D%3D)
+
+### Expleo Group
+- **Position:** Platform Engineer
+- **Location:** Lisboa, Lisbon, Portugal
+- **Posted on:** 2026-07-30
+- [Apply here](https://pt.linkedin.com/jobs/view/platform-engineer-at-expleo-group-4447020764?position=11&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=PLqgXD%2Bg6b311ZmPz%2BEO2A%3D%3D)
+
+### Ankix
+- **Position:** MuleSoft Platform Engineer (M/F) - Híbrido (Lisboa)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2026-07-30
+- [Apply here](https://pt.linkedin.com/jobs/view/mulesoft-platform-engineer-m-f-h%C3%ADbrido-lisboa-at-ankix-4444558555?position=24&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=ybcxrd%2F7NGHX%2FQCRNmmJWA%3D%3D)
+
+### Fulcrum Digital Inc
+- **Position:** Site Reliability Engineer
+- **Location:** Portugal
+- **Posted on:** 2026-07-30
+- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-fulcrum-digital-inc-4444550181?position=35&pageNum=0&refId=%2Bs6ZnI1lYX14ips8bMGBfQ%3D%3D&trackingId=M8RO%2F4TPyZ0s7t3pvz8hYA%3D%3D)
+
+### Dynatrace
+- **Position:** Cloud and Infrastructure Systems Engineer III
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2026-07-30
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-and-infrastructure-systems-engineer-iii-at-dynatrace-4447018648?position=13&pageNum=0&refId=5y5fm0%2BpN0SPA0bfHBwcPQ%3D%3D&trackingId=vLk%2FXiiaI86e8AmP%2FAzkdw%3D%3D)
+
+### FNZ
+- **Position:** Network and Infrastructure Engineer
+- **Location:** Greater Barcelona Metropolitan Area
+- **Posted on:** 2026-07-30
+- [Apply here](https://es.linkedin.com/jobs/view/network-and-infrastructure-engineer-at-fnz-4446772123?position=41&pageNum=0&refId=5y5fm0%2BpN0SPA0bfHBwcPQ%3D%3D&trackingId=K2yzXOkKJ5ZP%2FL8d3LkxLg%3D%3D)
+
+### SETESCA
+- **Position:** Product & Platform Architect (Cloud & Enterprise Solutions)
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2026-07-30
+- [Apply here](https://es.linkedin.com/jobs/view/product-platform-architect-cloud-enterprise-solutions-at-setesca-4445000684?position=30&pageNum=0&refId=UwFw5KbMcOTSogL2cduqHg%3D%3D&trackingId=Aa0VR2wfvV6Ww169YhlbpA%3D%3D)
+
+### avacone Iberia
+- **Position:** Data Integration Platform Engineer
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-07-30
+- [Apply here](https://es.linkedin.com/jobs/view/data-integration-platform-engineer-at-avacone-iberia-4446747449?position=31&pageNum=0&refId=UwFw5KbMcOTSogL2cduqHg%3D%3D&trackingId=r7EJRs1yBfL2ghaIn1FJ7g%3D%3D)
+
+### Exoscale
+- **Position:** Site Reliability Engineer - Core Platform (f/m/d)
+- **Location:** Greater Madrid Metropolitan Area
+- **Posted on:** 2026-07-30
+- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineer-core-platform-f-m-d-at-exoscale-4446765390?position=23&pageNum=0&refId=6BzLjyu%2B6RTKMeSLHMryxg%3D%3D&trackingId=hicoaPviURNMS4h%2Bp%2F%2FaCQ%3D%3D)
+
+### Smile
+- **Position:** DevOps & Cloud H/F
+- **Location:** Nantes, Pays de la Loire, France
+- **Posted on:** 2026-07-30
+- [Apply here](https://fr.linkedin.com/jobs/view/devops-cloud-h-f-at-smile-4410763093?position=11&pageNum=0&refId=D2tX0w9%2FrAWzM9R%2BmNOygg%3D%3D&trackingId=4ADn3ppojiyv%2F%2FlFxHMI7w%3D%3D)
+
+### REDOPUS
+- **Position:** Expert Cloud
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-30
+- [Apply here](https://fr.linkedin.com/jobs/view/expert-cloud-at-redopus-4444557497?position=9&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=RoDWi2Vt4gtMoo%2BSfK1sSQ%3D%3D)
+
+### KODA.AI
+- **Position:** DevOps Engineer (AI Platform)
+- **Location:** Wrocław, Dolnośląskie, Poland
+- **Posted on:** 2026-07-30
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-ai-platform-at-koda-ai-4446767179?position=19&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=orNLmWZclWw9YjXeVZIl8Q%3D%3D)
+
+### Moon Active
+- **Position:** DevOps Engineer
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-30
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-moon-active-4447025407?position=37&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=WgeqnluKkrm8l2lJPjBELg%3D%3D)
+
+### CloudFerro S.A.
+- **Position:** Junior DevOps Engineer
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-30
+- [Apply here](https://pl.linkedin.com/jobs/view/junior-devops-engineer-at-cloudferro-s-a-4446759219?position=40&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=QtxVkDEsoRD9ApCGHoGYxg%3D%3D)
+
+### Infinity Quest
+- **Position:** DevOps Engineer
+- **Location:** Krakowski, Małopolskie, Poland
+- **Posted on:** 2026-07-30
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-infinity-quest-4447071110?position=50&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=FydAVj93Ep2Q655VfVOaiQ%3D%3D)
+
+### Wizeline
+- **Position:** Site Reliability Engineer
+- **Location:** Romania
+- **Posted on:** 2026-07-30
+- [Apply here](https://ro.linkedin.com/jobs/view/site-reliability-engineer-at-wizeline-4446939293?position=59&pageNum=0&refId=aFeeTWKbJUv1krpJP3uHHQ%3D%3D&trackingId=jtb%2FEa8UEKvs3ub%2BHmhB5w%3D%3D)
+
+### Coltech
+- **Position:** DevOps Engineer
+- **Location:** Cluj, Romania
+- **Posted on:** 2026-07-30
+- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-at-coltech-4445021365?position=4&pageNum=0&refId=GDG%2FWlEZbhytdAm4y5F%2FFQ%3D%3D&trackingId=oBFfy9UTKY0J0ZUDkD5j%2Bg%3D%3D)
+
+### AARK Tech Solutions GmbH
+- **Position:** AWS Cloud Infrastructure Engineer
+- **Location:** Geneva, Switzerland
+- **Posted on:** 2026-07-30
+- [Apply here](https://ch.linkedin.com/jobs/view/aws-cloud-infrastructure-engineer-at-aark-tech-solutions-gmbh-4446747426?position=20&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=0Zu1G0GTs%2Bqep%2Feh0bYAdg%3D%3D)
+
+### Rocken®
+- **Position:** Site Reliability Engineer (m/w/d)
+- **Location:** Lucerne, Lucerne, Switzerland
+- **Posted on:** 2026-07-30
+- [Apply here](https://ch.linkedin.com/jobs/view/site-reliability-engineer-m-w-d-at-rocken%C2%AE-4444192581?position=8&pageNum=0&refId=pPSEGsM95wIrb9ohXtrRDw%3D%3D&trackingId=VLtpxQgIanYv46wTxuGKWg%3D%3D)
+
+### Free-Work
+- **Position:** MS Cloud Engineer & Product Specialist (M365)
+- **Location:** Geneva, Geneva, Switzerland
+- **Posted on:** 2026-07-30
+- [Apply here](https://ch.linkedin.com/jobs/view/ms-cloud-engineer-product-specialist-m365-at-free-work-4447060033?position=28&pageNum=0&refId=wrGMS6ZLLE3fa5zW47ijew%3D%3D&trackingId=J2sTDTo%2FHY%2FG%2BABV2KAKfQ%3D%3D)
+
+### yellowshark® AG
+- **Position:** Cloud Engineer (m/w, 80-100%)
+- **Location:** Hägendorf, Solothurn, Switzerland
+- **Posted on:** 2026-07-30
+- [Apply here](https://ch.linkedin.com/jobs/view/cloud-engineer-m-w-80-100%25-at-yellowshark%C2%AE-ag-4446732422?position=53&pageNum=0&refId=wrGMS6ZLLE3fa5zW47ijew%3D%3D&trackingId=1DmOlbhbEIo8qXppGKk5Xw%3D%3D)
+
+### emagine
+- **Position:** Infrastructure Engineer
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-07-30
+- [Apply here](https://se.linkedin.com/jobs/view/infrastructure-engineer-at-emagine-4446911811?position=59&pageNum=0&refId=5eSc9Slj5AguqkTplLs4bQ%3D%3D&trackingId=p2JTouJVAbjntWUP6DZm%2BQ%3D%3D)
+
+### Redeploy
+- **Position:** Cloud Engineer
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-07-30
+- [Apply here](https://se.linkedin.com/jobs/view/cloud-engineer-at-redeploy-4447006543?position=7&pageNum=0&refId=GMl14ui4WPQt0pDCcp16uA%3D%3D&trackingId=aJTRvLXlpgdmEqK1tUMzlw%3D%3D)
+
+### Spektrum
+- **Position:** DevOps / Cloud Infrastructure Engineer
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2026-07-30
+- [Apply here](https://no.linkedin.com/jobs/view/devops-cloud-infrastructure-engineer-at-spektrum-4445003237?position=19&pageNum=0&refId=BnbisCbpfy3TkLQsaR4%2ByQ%3D%3D&trackingId=IGFZCBR2e3CQpmIBdFWgwQ%3D%3D)
+
+### Spektrum
+- **Position:** Cloud Platform Engineer
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2026-07-30
+- [Apply here](https://no.linkedin.com/jobs/view/cloud-platform-engineer-at-spektrum-4447018353?position=31&pageNum=0&refId=BnbisCbpfy3TkLQsaR4%2ByQ%3D%3D&trackingId=h7UjIW%2FgB%2FPyCxqKzHGqRQ%3D%3D)
+
+### Uchromatic
+- **Position:** Cloud & DevOps Engineer
+- **Location:** Time, Rogaland, Norway
+- **Posted on:** 2026-07-30
+- [Apply here](https://no.linkedin.com/jobs/view/cloud-devops-engineer-at-uchromatic-4446708524?position=55&pageNum=0&refId=BnbisCbpfy3TkLQsaR4%2ByQ%3D%3D&trackingId=ii2J3B65YkYHP05LtdO67w%3D%3D)
+
+### Uchromatic
+- **Position:** DevOps Engineer
+- **Location:** Time, Rogaland, Norway
+- **Posted on:** 2026-07-30
+- [Apply here](https://no.linkedin.com/jobs/view/devops-engineer-at-uchromatic-4446499647?position=4&pageNum=0&refId=1jcX07rbIwLWlBV3nHLI%2FA%3D%3D&trackingId=4VYY3GzWFrZ%2Fnr7w0CVxhQ%3D%3D)
+
+### SYSACS TECHNOLOGY PVT.LTD.
+- **Position:** Cloud Architect (Azure)
+- **Location:** Time, Rogaland, Norway
+- **Posted on:** 2026-07-30
+- [Apply here](https://no.linkedin.com/jobs/view/cloud-architect-azure-at-sysacs-technology-pvt-ltd-4444187716?position=2&pageNum=0&refId=Mw1FOtHMyZcftZ89vrdo%2BQ%3D%3D&trackingId=ujuELaqtvVdx7%2BAGqXJ%2FZg%3D%3D)
+
+### Uchromatic
+- **Position:** Cloud Architect
+- **Location:** Time, Rogaland, Norway
+- **Posted on:** 2026-07-30
+- [Apply here](https://no.linkedin.com/jobs/view/cloud-architect-at-uchromatic-4446499648?position=16&pageNum=0&refId=Mw1FOtHMyZcftZ89vrdo%2BQ%3D%3D&trackingId=lHDv0c5LFR2kFyNa9sRQ0A%3D%3D)
 
 ### TMC
 - **Position:** Platform Engineer
@@ -78,6 +300,204 @@ Total: 2488 offers
 - **Location:** Stockholm, Stockholm County, Sweden
 - **Posted on:** 2026-07-29
 - [Apply here](https://se.linkedin.com/jobs/view/cloud-architect-at-e-solutions-4446319401?position=11&pageNum=0&refId=3MxnweOUz86qG9n0xe60mw%3D%3D&trackingId=fG9NFk%2BRhoLR636uuF8kIg%3D%3D)
+
+### Adentis Portugal
+- **Position:** AWS DevOps Engineer
+- **Location:** Porto, Portugal
+- **Posted on:** 2026-07-29
+- [Apply here](https://pt.linkedin.com/jobs/view/aws-devops-engineer-at-adentis-portugal-4446083281?position=56&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=ZoHJUTKUw%2BPEiTXmFjHtSw%3D%3D)
+
+### Philip Morris International
+- **Position:** Global Data Platform Engineer
+- **Location:** Albarraque, Lisbon, Portugal
+- **Posted on:** 2026-07-29
+- [Apply here](https://pt.linkedin.com/jobs/view/global-data-platform-engineer-at-philip-morris-international-4446856468?position=1&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=lqEGSoWLkIChgWjraPQYnA%3D%3D)
+
+### Philip Morris International
+- **Position:** Data Intelligence Platform Engineer
+- **Location:** Albarraque, Lisbon, Portugal
+- **Posted on:** 2026-07-29
+- [Apply here](https://pt.linkedin.com/jobs/view/data-intelligence-platform-engineer-at-philip-morris-international-4446855533?position=7&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=lDUsEeb4du4C2fk%2BuGpWpQ%3D%3D)
+
+### Ankix
+- **Position:** Integration Platform Engineer Expert (M/F) – Híbrido (Lisboa)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2026-07-29
+- [Apply here](https://pt.linkedin.com/jobs/view/integration-platform-engineer-expert-m-f-%E2%80%93-h%C3%ADbrido-lisboa-at-ankix-4446579096?position=38&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=7v6fkNAXxgcJTrVpMqUgSw%3D%3D)
+
+### Kuehne+Nagel
+- **Position:** Platform Engineer (m/f/d)
+- **Location:** Porto, Portugal
+- **Posted on:** 2026-07-29
+- [Apply here](https://pt.linkedin.com/jobs/view/platform-engineer-m-f-d-at-kuehne%2Bnagel-4446821368?position=59&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=AIU7fTBPu5jSJOxIO5PjDg%3D%3D)
+
+### Philip Morris International
+- **Position:** Site Reliability Engineer
+- **Location:** Albarraque, Lisbon, Portugal
+- **Posted on:** 2026-07-29
+- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-philip-morris-international-4446849752?position=9&pageNum=0&refId=%2Bs6ZnI1lYX14ips8bMGBfQ%3D%3D&trackingId=2pmjnpAHmPUMxswpaNu5hA%3D%3D)
+
+### ITDS
+- **Position:** Site Reliability Engineer
+- **Location:** Portugal
+- **Posted on:** 2026-07-29
+- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-itds-4444156488?position=32&pageNum=0&refId=%2Bs6ZnI1lYX14ips8bMGBfQ%3D%3D&trackingId=pDEJYNllnjKD99zC7BuV3A%3D%3D)
+
+### Ekkiden
+- **Position:** Integration Platform Engineer
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-07-29
+- [Apply here](https://es.linkedin.com/jobs/view/integration-platform-engineer-at-ekkiden-4446039368?position=39&pageNum=0&refId=UwFw5KbMcOTSogL2cduqHg%3D%3D&trackingId=l5aEvDveW2B6JwL6Cbc7xQ%3D%3D)
+
+### T-Systems Iberia
+- **Position:** Cloud Architect T-Cloud Public (m/f/d)
+- **Location:** Granada, Andalusia, Spain
+- **Posted on:** 2026-07-29
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-architect-t-cloud-public-m-f-d-at-t-systems-iberia-4410715056?position=1&pageNum=0&refId=av7pxXkvF%2FJkwjYHe0gf2Q%3D%3D&trackingId=RRJF4RohU%2BKt%2BZgb%2Fds3bA%3D%3D)
+
+### SDG Group España
+- **Position:** Cloud Engineer (AWS/Azure/GCP) - Terraform
+- **Location:** Galicia, Spain
+- **Posted on:** 2026-07-29
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-engineer-aws-azure-gcp-terraform-at-sdg-group-espa%C3%B1a-4444139556?position=13&pageNum=0&refId=av7pxXkvF%2FJkwjYHe0gf2Q%3D%3D&trackingId=buyUotTlB7MyZofSFwh02w%3D%3D)
+
+### EasyPicky
+- **Position:** DevOps Engineer H/F
+- **Location:** Montpellier, Occitanie, France
+- **Posted on:** 2026-07-29
+- [Apply here](https://fr.linkedin.com/jobs/view/devops-engineer-h-f-at-easypicky-4446405918?position=8&pageNum=0&refId=D2tX0w9%2FrAWzM9R%2BmNOygg%3D%3D&trackingId=%2BkT8LVorykL4XfR1bcNhYA%3D%3D)
+
+### Devoteam
+- **Position:** Gitlab Platform Engineer H/F
+- **Location:** Levallois-Perret, Île-de-France, France
+- **Posted on:** 2026-07-29
+- [Apply here](https://fr.linkedin.com/jobs/view/gitlab-platform-engineer-h-f-at-devoteam-4317943184?position=31&pageNum=0&refId=BCWRhI3pcTBnfwd2OUynqg%3D%3D&trackingId=bMfF1FUjpR17XdMgdROUzQ%3D%3D)
+
+### Onepoint
+- **Position:** Architecte Cloud F/H
+- **Location:** Strasbourg, Grand Est, France
+- **Posted on:** 2026-07-29
+- [Apply here](https://fr.linkedin.com/jobs/view/architecte-cloud-f-h-at-onepoint-4329254272?position=7&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=%2BQwwFhL%2Bv6m0n%2B0OpATdLw%3D%3D)
+
+### Sopra Steria
+- **Position:** Infrastructure Engineer (Linux) with French
+- **Location:** Katowice, Śląskie, Poland
+- **Posted on:** 2026-07-29
+- [Apply here](https://pl.linkedin.com/jobs/view/infrastructure-engineer-linux-with-french-at-sopra-steria-4446801484?position=7&pageNum=0&refId=NABc7muawFe2EJDYy0h%2FKA%3D%3D&trackingId=oeMNmos8OMrMxf7RqxYSRA%3D%3D)
+
+### auticon Poland
+- **Position:** AWS DevOps Engineer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-07-29
+- [Apply here](https://pl.linkedin.com/jobs/view/aws-devops-engineer-at-auticon-poland-4446840030?position=41&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=pGq2pfvFarwHtHKbQHapgA%3D%3D)
+
+### Philip Morris International
+- **Position:** Global Data Platform Engineer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-07-29
+- [Apply here](https://pl.linkedin.com/jobs/view/global-data-platform-engineer-at-philip-morris-international-4446847765?position=1&pageNum=0&refId=136CQjXqnIOKIuYRgxfIMw%3D%3D&trackingId=qAMOUBKlJpjcq6qQ3zEUZw%3D%3D)
+
+### Inetum
+- **Position:** System Engineer / Site Reliability Engineer | 1
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-29
+- [Apply here](https://pl.linkedin.com/jobs/view/system-engineer-site-reliability-engineer-1-at-inetum-4415273821?position=50&pageNum=0&refId=wAcAkGXjlBvsHSBijAsbzw%3D%3D&trackingId=s95TQcAw3tzk8tkNOfglkg%3D%3D)
+
+### KPMG Poland
+- **Position:** Cloud Solutions Architect - Data & Cloud
+- **Location:** Gdańsk, Pomorskie, Poland
+- **Posted on:** 2026-07-29
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-solutions-architect-data-cloud-at-kpmg-poland-4445495879?position=34&pageNum=0&refId=eBn7vb%2BCuxaq7EUZLch2qg%3D%3D&trackingId=VPzEPBcS6EzCuh%2FeLFKgAQ%3D%3D)
+
+### KPMG Poland
+- **Position:** Cloud Solutions Architect - Data & Cloud
+- **Location:** Katowice, Śląskie, Poland
+- **Posted on:** 2026-07-29
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-solutions-architect-data-cloud-at-kpmg-poland-4445496878?position=49&pageNum=0&refId=eBn7vb%2BCuxaq7EUZLch2qg%3D%3D&trackingId=L512t3gBnICk201Fcblqhw%3D%3D)
+
+### Ericsson
+- **Position:** MS Core and Cloud Infra Specialist
+- **Location:** Timisoara Metropolitan Area
+- **Posted on:** 2026-07-29
+- [Apply here](https://ro.linkedin.com/jobs/view/ms-core-and-cloud-infra-specialist-at-ericsson-4446421602?position=9&pageNum=0&refId=aFeeTWKbJUv1krpJP3uHHQ%3D%3D&trackingId=Zq8mMh%2Fk%2FCGOdW1oRUDKAQ%3D%3D)
+
+### Ericsson
+- **Position:** MS Core and Cloud Infra Specialist
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-07-29
+- [Apply here](https://ro.linkedin.com/jobs/view/ms-core-and-cloud-infra-specialist-at-ericsson-4446405657?position=19&pageNum=0&refId=aFeeTWKbJUv1krpJP3uHHQ%3D%3D&trackingId=nbwtlWIMcwj3eP4qBmzFPg%3D%3D)
+
+### Rocken®
+- **Position:** Infrastructure Engineer (m/w/d)
+- **Location:** Frauenfeld, Thurgau, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/infrastructure-engineer-m-w-d-at-rocken%C2%AE-4446002382?position=2&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=WTh5SbIUxDBVtUZ9GajBNA%3D%3D)
+
+### Nicoll Curtin
+- **Position:** Platform Engineer
+- **Location:** Basel, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/platform-engineer-at-nicoll-curtin-4444120419?position=18&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=P2alooZRY65f%2FBvlQn9%2BuQ%3D%3D)
+
+### kaiko.ai
+- **Position:** Site Reliability Engineer
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/site-reliability-engineer-at-kaiko-ai-4446075061?position=51&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=m1PulagsllJ402YIA2zbmg%3D%3D)
+
+### Rocken®
+- **Position:** Cloud DevOps Specialist (m/w/d)
+- **Location:** Bern, Berne, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/cloud-devops-specialist-m-w-d-at-rocken%C2%AE-4445782754?position=3&pageNum=0&refId=o9qgkadghH2y%2B%2BWRPLqp0Q%3D%3D&trackingId=IwPm0yfH0qAYf3sePBJVhA%3D%3D)
+
+### Zühlke Group
+- **Position:** Platform Engineer (all genders)
+- **Location:** Schlieren, Zurich, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/platform-engineer-all-genders-at-z%C3%BChlke-group-4417873306?position=9&pageNum=0&refId=r8AqaRPrT0Rar%2B7o30a8Pg%3D%3D&trackingId=RmquqhQRY2%2F6x%2B3tLMyhYg%3D%3D)
+
+### kaiko.ai
+- **Position:** ML Platform Engineer
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/ml-platform-engineer-at-kaiko-ai-4446060455?position=22&pageNum=0&refId=r8AqaRPrT0Rar%2B7o30a8Pg%3D%3D&trackingId=UZNFbTW2%2BeAKxmKbtuR%2FTw%3D%3D)
+
+### Rocken®
+- **Position:** Azure Cloud Engineer (m/w/d)
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/azure-cloud-engineer-m-w-d-at-rocken%C2%AE-4445797502?position=17&pageNum=0&refId=wrGMS6ZLLE3fa5zW47ijew%3D%3D&trackingId=JtC7MpbcsvUyUu0omaVc0w%3D%3D)
+
+### Rocken®
+- **Position:** Microsoft Cloud Engineer (m/w/d)
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/microsoft-cloud-engineer-m-w-d-at-rocken%C2%AE-4445777841?position=20&pageNum=0&refId=wrGMS6ZLLE3fa5zW47ijew%3D%3D&trackingId=bo7PVDTfIBCUXUsiUQ4WZw%3D%3D)
+
+### Riverty
+- **Position:** Cloud Engineer (m/f/d)
+- **Location:** Chiasso, Ticino, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/cloud-engineer-m-f-d-at-riverty-4446874006?position=27&pageNum=0&refId=wrGMS6ZLLE3fa5zW47ijew%3D%3D&trackingId=EPu%2BA1YpnSoxQiCifv7gMg%3D%3D)
+
+### scopewyse AG
+- **Position:** Mircosoft Cloud Engineer
+- **Location:** St Gallen, Switzerland
+- **Posted on:** 2026-07-29
+- [Apply here](https://ch.linkedin.com/jobs/view/mircosoft-cloud-engineer-at-scopewyse-ag-4442878379?position=38&pageNum=0&refId=wrGMS6ZLLE3fa5zW47ijew%3D%3D&trackingId=v8PpkXVnCCQpaTjVZjS08A%3D%3D)
+
+### Eccera IT Professionals Sverige
+- **Position:** DevOps Engineer
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-07-29
+- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-at-eccera-it-professionals-sverige-4320772150?position=19&pageNum=0&refId=8YT7UeRo6fQSZI4BhRYyKg%3D%3D&trackingId=Vt06uUYuGZfib2FZkJEfEw%3D%3D)
+
+### CONSULTING it
+- **Position:** Platform Engineer
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-07-29
+- [Apply here](https://se.linkedin.com/jobs/view/platform-engineer-at-consulting-it-4446064817?position=48&pageNum=0&refId=%2Fmc0NaaZhBnne4i97F%2BoSw%3D%3D&trackingId=nziabYde8M9H7SNGjLru0w%3D%3D)
 
 ### iU Talent
 - **Position:** Platform Engineer (hybrid) | Lisbon (M/F/D)
@@ -174,6 +594,102 @@ Total: 2488 offers
 - **Location:** Drammen, Viken, Norway
 - **Posted on:** 2026-07-28
 - [Apply here](https://no.linkedin.com/jobs/view/platform-engineer-at-dc-fort%C3%A9-4445485463?position=34&pageNum=0&refId=3do8V0PurCcvqfsDEA3HPg%3D%3D&trackingId=UwDobZ%2BD9r23same8hdfhQ%3D%3D)
+
+### Velv
+- **Position:** DevOps Engineer
+- **Location:** Lisbon Metropolitan Area
+- **Posted on:** 2026-07-28
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-velv-4443252349?position=43&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=77%2FldLUlRde7Wl5%2BHHwygw%3D%3D)
+
+### Richemont
+- **Position:** DevOps Engineer
+- **Location:** Moscavide, Lisbon, Portugal
+- **Posted on:** 2026-07-28
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-richemont-4417861074?position=44&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=cgB2BgI47r%2By7rslNCeaTQ%3D%3D)
+
+### GRiT Solutions
+- **Position:** DevOps Engineer
+- **Location:** Porto, Portugal
+- **Posted on:** 2026-07-28
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-grit-solutions-4445733916?position=54&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=c0iyFlzM1HComiB0kNxUrQ%3D%3D)
+
+### AN Info Systems (AN-INFO)
+- **Position:** Platform Engineer – MuleSoft
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2026-07-28
+- [Apply here](https://pt.linkedin.com/jobs/view/platform-engineer-%E2%80%93-mulesoft-at-an-info-systems-an-info-4443271617?position=46&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=vH9y749qc9RY42doptLQzg%3D%3D)
+
+### CodeWin
+- **Position:** Cloud Engineer (AWS/Azure)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2026-07-28
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-engineer-aws-azure-at-codewin-4445743468?position=18&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=%2BrMh5xrLXYdaUrhzNT%2BjAw%3D%3D)
+
+### Certinia
+- **Position:** DevOps Engineer-SP
+- **Location:** Armilla, Andalusia, Spain
+- **Posted on:** 2026-07-28
+- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-sp-at-certinia-4445718066?position=13&pageNum=0&refId=KAjMOLwr29wZt4qE1Dw7pg%3D%3D&trackingId=z2Kr%2BT0zKvmNLmAteos9yQ%3D%3D)
+
+### Davidson consulting
+- **Position:** Integration Platform Engineer
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2026-07-28
+- [Apply here](https://es.linkedin.com/jobs/view/integration-platform-engineer-at-davidson-consulting-4445480413?position=28&pageNum=0&refId=UwFw5KbMcOTSogL2cduqHg%3D%3D&trackingId=8AtCwAs6h7GdGiPOs34GpA%3D%3D)
+
+### Davidson consulting
+- **Position:** Data Integration Platform Engineer
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-07-28
+- [Apply here](https://es.linkedin.com/jobs/view/data-integration-platform-engineer-at-davidson-consulting-4445497036?position=29&pageNum=0&refId=UwFw5KbMcOTSogL2cduqHg%3D%3D&trackingId=1H2qXzKOUcE6XpN%2BBd95bw%3D%3D)
+
+### Polkomtel
+- **Position:** Infrastructure Engineer (k/m)
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-28
+- [Apply here](https://pl.linkedin.com/jobs/view/infrastructure-engineer-k-m-at-polkomtel-4445464783?position=3&pageNum=0&refId=NABc7muawFe2EJDYy0h%2FKA%3D%3D&trackingId=P4BouNaFOqQvR04iGyDtlw%3D%3D)
+
+### Polkomtel
+- **Position:** Junior Infrastructure Engineer (k/m)
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-28
+- [Apply here](https://pl.linkedin.com/jobs/view/junior-infrastructure-engineer-k-m-at-polkomtel-4445457889?position=21&pageNum=0&refId=NABc7muawFe2EJDYy0h%2FKA%3D%3D&trackingId=zfLR%2Bf%2BJjY1v%2FOGrTEgZZA%3D%3D)
+
+### Motorola Solutions
+- **Position:** CM/SCM/DevOps Engineer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-07-28
+- [Apply here](https://pl.linkedin.com/jobs/view/cm-scm-devops-engineer-at-motorola-solutions-4446311193?position=44&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=sCDKpmbMTTJYLJyajw1ONA%3D%3D)
+
+### SMART business Azerbaijan
+- **Position:** Cloud Engineer
+- **Location:** Warszawa, Wielkopolskie, Poland
+- **Posted on:** 2026-07-28
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-engineer-at-smart-business-azerbaijan-4443234778?position=19&pageNum=0&refId=eBn7vb%2BCuxaq7EUZLch2qg%3D%3D&trackingId=logH2QIfJH8AE3tMoTuuHw%3D%3D)
+
+### Rocken®
+- **Position:** Microsoft Infrastructure Engineer (m/w/d)
+- **Location:** Rorschach, St Gallen, Switzerland
+- **Posted on:** 2026-07-28
+- [Apply here](https://ch.linkedin.com/jobs/view/microsoft-infrastructure-engineer-m-w-d-at-rocken%C2%AE-4445763187?position=11&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=U6PjQmRnExhBBEELTHG1cw%3D%3D)
+
+### yellowshark® AG
+- **Position:** DevOps Engineer Microsoft Cloud
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-07-28
+- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-microsoft-cloud-at-yellowshark%C2%AE-ag-4443296426?position=25&pageNum=0&refId=o9qgkadghH2y%2B%2BWRPLqp0Q%3D%3D&trackingId=BczeIs241c1NpnZ73AjZyQ%3D%3D)
+
+### Zühlke Group
+- **Position:** Platform Engineer (all genders)
+- **Location:** Bern, Berne, Switzerland
+- **Posted on:** 2026-07-28
+- [Apply here](https://ch.linkedin.com/jobs/view/platform-engineer-all-genders-at-z%C3%BChlke-group-4417855393?position=10&pageNum=0&refId=r8AqaRPrT0Rar%2B7o30a8Pg%3D%3D&trackingId=jJwqx4ee0UMYtal97Q3xKA%3D%3D)
+
+### Kreditz
+- **Position:** DevOps Engineer
+- **Location:** Danderyd, Stockholm County, Sweden
+- **Posted on:** 2026-07-28
+- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-at-kreditz-4372104308?position=1&pageNum=0&refId=8YT7UeRo6fQSZI4BhRYyKg%3D%3D&trackingId=S9QJ4BY67LUJBbJcrjjZMw%3D%3D)
 
 ### TMC
 - **Position:** Cloud Architect
@@ -361,6 +877,174 @@ Total: 2488 offers
 - **Posted on:** 2026-07-27
 - [Apply here](https://se.linkedin.com/jobs/view/site-reliability-engineer-at-fdj-united-4445928443?position=41&pageNum=0&refId=JnLZ0BXO%2BlWhz3rewrcNiw%3D%3D&trackingId=lpPHn15HmaiAtOSbl8CLBQ%3D%3D)
 
+### WITHUS technology factory
+- **Position:** Cloud Infrastructure Engineer
+- **Location:** Aveiro, Aveiro, Portugal
+- **Posted on:** 2026-07-27
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-infrastructure-engineer-at-withus-technology-factory-4445974281?position=11&pageNum=0&refId=oTiZPf3%2FnG3WOuqz%2FsdbpQ%3D%3D&trackingId=ay9K8kwcO2TPYLvcIjcGlw%3D%3D)
+
+### Timestamp
+- **Position:** DevOps / Cloud Engineer
+- **Location:** Lisbon Metropolitan Area
+- **Posted on:** 2026-07-27
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-cloud-engineer-at-timestamp-4445909780?position=47&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=jtdjR2PdqyYDDUsaGLknEw%3D%3D)
+
+### syffer by LUZA
+- **Position:** Data Integration Platform Engineer Expert
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2026-07-27
+- [Apply here](https://pt.linkedin.com/jobs/view/data-integration-platform-engineer-expert-at-syffer-by-luza-4445132940?position=41&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=zkAQd6sbfVRVtVMydbI%2B3Q%3D%3D)
+
+### Noesis
+- **Position:** Integration Platform Engineer Expert
+- **Location:** Lisboa, Lisbon, Portugal
+- **Posted on:** 2026-07-27
+- [Apply here](https://pt.linkedin.com/jobs/view/integration-platform-engineer-expert-at-noesis-4445969398?position=42&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=Duf%2FaH1iuMJJ29ZfSmAdZw%3D%3D)
+
+### Wire IT
+- **Position:** Integration Platform Engineer Expert
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2026-07-27
+- [Apply here](https://pt.linkedin.com/jobs/view/integration-platform-engineer-expert-at-wire-it-4445129919?position=58&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=j41JR%2B9akHa27cUMPJDFKQ%3D%3D)
+
+### EPAM Systems
+- **Position:** Site Reliability Engineer
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2026-07-27
+- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-epam-systems-4355450363?position=12&pageNum=0&refId=%2Bs6ZnI1lYX14ips8bMGBfQ%3D%3D&trackingId=qquLsKVHvIAuyoXHqR019g%3D%3D)
+
+### Ytech
+- **Position:** Cloud Engineer
+- **Location:** Lisbon Metropolitan Area
+- **Posted on:** 2026-07-27
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-engineer-at-ytech-4442858272?position=30&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=DFaI9%2BSxpagqLoQ7%2BXW14A%3D%3D)
+
+### emagine
+- **Position:** Cloud Architect
+- **Location:** Leiria, Leiria, Portugal
+- **Posted on:** 2026-07-27
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-architect-at-emagine-4262104109?position=43&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=MfJSbDA81QYIYq6IQU7UEA%3D%3D)
+
+### KAIROS DIGITAL SOLUTIONS
+- **Position:** DevOps IOT
+- **Location:** Spain
+- **Posted on:** 2026-07-27
+- [Apply here](https://es.linkedin.com/jobs/view/devops-iot-at-kairos-digital-solutions-4445912908?position=53&pageNum=0&refId=KAjMOLwr29wZt4qE1Dw7pg%3D%3D&trackingId=BFohksyqp%2B%2Fitqj%2FCJXqog%3D%3D)
+
+### Tecnosylva
+- **Position:** Cloud Architect (Spain Only)
+- **Location:** León, Castilla and Leon, Spain
+- **Posted on:** 2026-07-27
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-architect-spain-only-at-tecnosylva-4445156611?position=3&pageNum=0&refId=av7pxXkvF%2FJkwjYHe0gf2Q%3D%3D&trackingId=1cvaV8EL8UoIplkFn1GkMQ%3D%3D)
+
+### Technosylva
+- **Position:** Cloud Architect (Spain Only)
+- **Location:** Spain
+- **Posted on:** 2026-07-27
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-architect-spain-only-at-technosylva-4445941289?position=43&pageNum=0&refId=av7pxXkvF%2FJkwjYHe0gf2Q%3D%3D&trackingId=rawEuUKcHug7ZQtpYoE%2FRA%3D%3D)
+
+### Bonitasoft
+- **Position:** Cloud Architect
+- **Location:** Grenoble, Auvergne-Rhône-Alpes, France
+- **Posted on:** 2026-07-27
+- [Apply here](https://fr.linkedin.com/jobs/view/cloud-architect-at-bonitasoft-4442848909?position=19&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=vu%2BpXSOspwFRpr210mMuDQ%3D%3D)
+
+### Fundacja Grupy ERGO Hestia Integralia
+- **Position:** Infrastructure Architect (Cloud)
+- **Location:** Pomorskie, Poland
+- **Posted on:** 2026-07-27
+- [Apply here](https://pl.linkedin.com/jobs/view/infrastructure-architect-cloud-at-fundacja-grupy-ergo-hestia-integralia-4445177239?position=11&pageNum=0&refId=NABc7muawFe2EJDYy0h%2FKA%3D%3D&trackingId=kNeJAK0rcgCsjBqeFTbKgA%3D%3D)
+
+### Aristocrat
+- **Position:** DevOps Engineer
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-27
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-aristocrat-4444884825?position=27&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=P2SruaG%2FcmdI7vC455%2B8cA%3D%3D)
+
+### EG A/S
+- **Position:** DevOps Engineer
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-27
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-eg-a-s-4445699919?position=55&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=AhC%2B9alVA3NFgv7JqYeadg%3D%3D)
+
+### Concentrix
+- **Position:** Cloud Architect
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2026-07-27
+- [Apply here](https://ro.linkedin.com/jobs/view/cloud-architect-at-concentrix-4376206615?position=60&pageNum=0&refId=I4XVgrQ07Gi%2FdDZ2NqZuNA%3D%3D&trackingId=mHEWPyO682qs3CUjBoctMw%3D%3D)
+
+### Oracle
+- **Position:** Site Reliability Developer 3
+- **Location:** Iaşi, Iaşi, Romania
+- **Posted on:** 2026-07-27
+- [Apply here](https://ro.linkedin.com/jobs/view/site-reliability-developer-3-at-oracle-4442855663?position=27&pageNum=0&refId=ZxmagOwBfIeza9Vu0TmUpw%3D%3D&trackingId=1LW8QirtIkZuN4XB8%2BfXGw%3D%3D)
+
+### Oracle
+- **Position:** Site Reliability Developer 3
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-07-27
+- [Apply here](https://ro.linkedin.com/jobs/view/site-reliability-developer-3-at-oracle-4442862585?position=29&pageNum=0&refId=ZxmagOwBfIeza9Vu0TmUpw%3D%3D&trackingId=X%2B9JD448YFbPnYdEGnx6dg%3D%3D)
+
+### Swiss Armed Forces
+- **Position:** DevOps Engineer III (Data Platform)
+- **Location:** Zimmerwald, Berne, Switzerland
+- **Posted on:** 2026-07-27
+- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-iii-data-platform-at-swiss-armed-forces-4445150580?position=17&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=Mrmv5PlHsRW%2BgfK9vVuR7g%3D%3D)
+
+### Swiss Armed Forces
+- **Position:** DevOps Engineer III (plateforme de données)
+- **Location:** Zimmerwald, Berne, Switzerland
+- **Posted on:** 2026-07-27
+- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-iii-plateforme-de-donn%C3%A9es-at-swiss-armed-forces-4445155504?position=36&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=7gXUaiV6ZioTAdt0PI3%2ByQ%3D%3D)
+
+### Swiss Federal Administration
+- **Position:** Specialista di sistemi TIC - Platform Engineer
+- **Location:** Bern, Berne, Switzerland
+- **Posted on:** 2026-07-27
+- [Apply here](https://ch.linkedin.com/jobs/view/specialista-di-sistemi-tic-platform-engineer-at-swiss-federal-administration-4444897359?position=38&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=hPYgNMMRGLXNLp%2BaUdMGRQ%3D%3D)
+
+### Swiss Federal Administration
+- **Position:** ICT System Specialist - Platform Engineer
+- **Location:** Bern, Berne, Switzerland
+- **Posted on:** 2026-07-27
+- [Apply here](https://ch.linkedin.com/jobs/view/ict-system-specialist-platform-engineer-at-swiss-federal-administration-4445102001?position=40&pageNum=0&refId=VLg19yZxmorjcyAObZ%2BKOw%3D%3D&trackingId=%2F36HA1KbmcVHzaYPnZDflQ%3D%3D)
+
+### Ericsson
+- **Position:** NW Infrastructure DevOps Engineer
+- **Location:** Linköping, Östergötland County, Sweden
+- **Posted on:** 2026-07-27
+- [Apply here](https://se.linkedin.com/jobs/view/nw-infrastructure-devops-engineer-at-ericsson-4445154543?position=42&pageNum=0&refId=ACr29X6B%2FiQ%2Bo3xUAdmhRw%3D%3D&trackingId=Yfg%2BGAcd84ZMTWPVqwHbyw%3D%3D)
+
+### Bravura Sverige
+- **Position:** Site Reliability Engineer till Miss Group
+- **Location:** Greater Gothenburg Metropolitan Area
+- **Posted on:** 2026-07-27
+- [Apply here](https://se.linkedin.com/jobs/view/site-reliability-engineer-till-miss-group-at-bravura-sverige-4436708456?position=53&pageNum=0&refId=ACr29X6B%2FiQ%2Bo3xUAdmhRw%3D%3D&trackingId=ZHsn7GgXtNGPueIbVrkbdg%3D%3D)
+
+### Zero Index
+- **Position:** Site Reliability &amp; DevOps Engineer
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-07-27
+- [Apply here](https://se.linkedin.com/jobs/view/site-reliability-amp-devops-engineer-at-zero-index-4446160081?position=24&pageNum=0&refId=8YT7UeRo6fQSZI4BhRYyKg%3D%3D&trackingId=J7znFGuwmXlyACgjC7Ku8g%3D%3D)
+
+### Planima
+- **Position:** Software Engineer - DevOps
+- **Location:** Gothenburg, Västra Götaland County, Sweden
+- **Posted on:** 2026-07-27
+- [Apply here](https://se.linkedin.com/jobs/view/software-engineer-devops-at-planima-4445182277?position=42&pageNum=0&refId=8YT7UeRo6fQSZI4BhRYyKg%3D%3D&trackingId=pldbnl03%2FcQkHTkBghPVBA%3D%3D)
+
+### LanceSoft Europe
+- **Position:** Platform Engineer
+- **Location:** Oslo, Norway
+- **Posted on:** 2026-07-27
+- [Apply here](https://no.linkedin.com/jobs/view/platform-engineer-at-lancesoft-europe-4445149445?position=32&pageNum=0&refId=BnbisCbpfy3TkLQsaR4%2ByQ%3D%3D&trackingId=i%2BVcg0FXECUg%2F0cj9Z01rg%3D%3D)
+
+### Politiets IT-enhet
+- **Position:** Platform Engineer sentrale arbeidsflater - Politiets IT-enhet - Søknadsfrist: søndag 16. august 2026
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2026-07-27
+- [Apply here](https://no.linkedin.com/jobs/view/platform-engineer-sentrale-arbeidsflater-politiets-it-enhet-s%C3%B8knadsfrist-s%C3%B8ndag-16-august-2026-at-politiets-it-enhet-4445929948?position=38&pageNum=0&refId=BnbisCbpfy3TkLQsaR4%2ByQ%3D%3D&trackingId=txkusPvWsyju%2BGLHbZdRXw%3D%3D)
+
 ### hedgehog lab
 - **Position:** Data Platform Engineer (Contarct)
 - **Location:** Porto, Portugal
@@ -408,6 +1092,24 @@ Total: 2488 offers
 - **Location:** Helsinki, Uusimaa, Finland
 - **Posted on:** 2026-07-26
 - [Apply here](https://fi.linkedin.com/jobs/view/devops-engineer-at-ewq-sverige-ab-4444849014?position=34&pageNum=0&refId=%2Bi4m6oIxwiFhaUC2Nc%2BqMA%3D%3D&trackingId=Q2Zs9acFCWjzxNaXae4RxA%3D%3D)
+
+### Brightstar Lottery
+- **Position:** DevOps Engineer
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-26
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-brightstar-lottery-4398109730?position=18&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=KKDnbMtfUlVoSN4TaHHGCg%3D%3D)
+
+### Adentis Portugal
+- **Position:** Platform Engineer (Internal Developer Platforms / Backstage) - Scale-Up
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2026-07-25
+- [Apply here](https://pt.linkedin.com/jobs/view/platform-engineer-internal-developer-platforms-backstage-scale-up-at-adentis-portugal-4444673242?position=51&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=gmOcRIPe5slCJeTAYY5QMQ%3D%3D)
+
+### leboncoin
+- **Position:** Infrastructure engineer confirmé (H/F/N)
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-25
+- [Apply here](https://fr.linkedin.com/jobs/view/infrastructure-engineer-confirm%C3%A9-h-f-n-at-leboncoin-4436766954?position=2&pageNum=0&refId=kRRJy22%2ByZy94xtYeHSeeA%3D%3D&trackingId=TQWOarB0pnD5IP7twg7SYA%3D%3D)
 
 ### Dellent
 - **Position:** DevOps
@@ -540,6 +1242,90 @@ Total: 2488 offers
 - **Location:** Bucharest, Romania
 - **Posted on:** 2026-07-24
 - [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-at-sii-group-romania-4444982069?position=50&pageNum=0&refId=lTbXjLCLh7RnplvSJNxqCQ%3D%3D&trackingId=VM08z2xgamdZq4fY1qfCCg%3D%3D)
+
+### Decskill
+- **Position:** Cloud Architect
+- **Location:** Lisbon Metropolitan Area
+- **Posted on:** 2026-07-24
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-architect-at-decskill-4441824022?position=35&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=jmqO%2FqbsIasHoM9XQcyxIg%3D%3D)
+
+### Backbase
+- **Position:** Platform Engineer
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-07-24
+- [Apply here](https://es.linkedin.com/jobs/view/platform-engineer-at-backbase-4435217611?position=60&pageNum=0&refId=6BzLjyu%2B6RTKMeSLHMryxg%3D%3D&trackingId=balwHVlfKrhHgRH%2BOSBcvA%3D%3D)
+
+### Algoritmia ♾️
+- **Position:** Cloud Architect
+- **Location:** Greater Lerida Area
+- **Posted on:** 2026-07-24
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-architect-at-algoritmia-%E2%99%BE%EF%B8%8F-4440134709?position=4&pageNum=0&refId=av7pxXkvF%2FJkwjYHe0gf2Q%3D%3D&trackingId=D5UYy%2F1bukVwAtJDp6YqVg%3D%3D)
+
+### Extia
+- **Position:** DevOps junior H/F
+- **Location:** Bordeaux, Nouvelle-Aquitaine, France
+- **Posted on:** 2026-07-24
+- [Apply here](https://fr.linkedin.com/jobs/view/devops-junior-h-f-at-extia-4391391160?position=6&pageNum=0&refId=D2tX0w9%2FrAWzM9R%2BmNOygg%3D%3D&trackingId=7PH%2BwL%2BFDy4SX136hrWPLQ%3D%3D)
+
+### Ecorobotix
+- **Position:** DevOps Engineer
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-24
+- [Apply here](https://fr.linkedin.com/jobs/view/devops-engineer-at-ecorobotix-4444972302?position=20&pageNum=0&refId=D2tX0w9%2FrAWzM9R%2BmNOygg%3D%3D&trackingId=nPTF83uo2vvnTxlxJUaBLQ%3D%3D)
+
+### Comarch
+- **Position:** DevOps Engineer
+- **Location:** Gdańsk, Pomorskie, Poland
+- **Posted on:** 2026-07-24
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-comarch-4445221269?position=55&pageNum=0&refId=NABc7muawFe2EJDYy0h%2FKA%3D%3D&trackingId=RPQhrsPyqdjVKfymJ%2BtDsA%3D%3D)
+
+### Accuris
+- **Position:** DevOps Engineer
+- **Location:** Gdańsk, Pomorskie, Poland
+- **Posted on:** 2026-07-24
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-accuris-4441827649?position=7&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=kQOMjkNROHAhRllvR4pB1g%3D%3D)
+
+### Comarch
+- **Position:** DevOps Engineer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-07-24
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-comarch-4445222280?position=15&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=r%2FcJuaR%2FGcRIaL%2B9a2%2F0Yg%3D%3D)
+
+### ALTEN Polska
+- **Position:** AWS DevOps Engineer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-07-24
+- [Apply here](https://pl.linkedin.com/jobs/view/aws-devops-engineer-at-alten-polska-4444945772?position=39&pageNum=0&refId=nZLQLtk4BzfHhzYjYKMxHA%3D%3D&trackingId=8arnerJidazjS317CUNTfA%3D%3D)
+
+### IdriveAI
+- **Position:** DevOps Engineer (AWS)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-07-24
+- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-aws-at-idriveai-4441580886?position=14&pageNum=0&refId=GDG%2FWlEZbhytdAm4y5F%2FFQ%3D%3D&trackingId=yEWzhpgMd56LfK9aGCtcxg%3D%3D)
+
+### Betfair Romania Development
+- **Position:** Cloud Engineer - Flutter Functions, Hybrid & Remote
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2026-07-24
+- [Apply here](https://ro.linkedin.com/jobs/view/cloud-engineer-flutter-functions-hybrid-remote-at-betfair-romania-development-4441814127?position=15&pageNum=0&refId=QfRpjMcB5OZRTZGIc%2Fi8Uw%3D%3D&trackingId=dVyblHnrv%2Fe3Wamk7ZIWoQ%3D%3D)
+
+### Atos
+- **Position:** Ingénieur DevOps Expérimenté (F/H)
+- **Location:** Valbonne, Provence-Alpes-Côte d'Azur, France
+- **Posted on:** 2026-07-24
+- [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-devops-exp%C3%A9riment%C3%A9-f-h-at-atos-4378944074?position=46&pageNum=0&refId=sud%2FqOJe3Lk8HpcOhpo6Ug%3D%3D&trackingId=PjpGOf2DEb%2BdZYKMR2oROQ%3D%3D)
+
+### Accelerate Sverige
+- **Position:** Site Reliability Engineer/Cloud Engineer
+- **Location:** Malmo, Skåne County, Sweden
+- **Posted on:** 2026-07-24
+- [Apply here](https://se.linkedin.com/jobs/view/site-reliability-engineer-cloud-engineer-at-accelerate-sverige-4435231349?position=18&pageNum=0&refId=5eSc9Slj5AguqkTplLs4bQ%3D%3D&trackingId=ztl8NcwBz3KFbNCPz5r%2BCg%3D%3D)
+
+### Accelerate Sverige
+- **Position:** Azure Cloud Engineer
+- **Location:** Gothenburg, Västra Götaland County, Sweden
+- **Posted on:** 2026-07-24
+- [Apply here](https://se.linkedin.com/jobs/view/azure-cloud-engineer-at-accelerate-sverige-4435237155?position=10&pageNum=0&refId=GMl14ui4WPQt0pDCcp16uA%3D%3D&trackingId=MMV1pna%2BQABpKE3h6JRAeA%3D%3D)
 
 ### Aubay Portugal
 - **Position:** Site Reliability Engineer
@@ -889,6 +1675,30 @@ Total: 2488 offers
 - **Posted on:** 2026-07-23
 - [Apply here](https://ch.linkedin.com/jobs/view/ing%C3%A9nieur-devops-ing%C3%A9nieure-devops-at-qim-info-4429025050?position=38&pageNum=0&refId=eYQTw7DwIbTQoOeacnUtYg%3D%3D&trackingId=uy69B1N9xVyOhCrYkBrUKQ%3D%3D)
 
+### Five9
+- **Position:** Cloud Governance Engineer
+- **Location:** Porto, Portugal
+- **Posted on:** 2026-07-23
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-governance-engineer-at-five9-4444017570?position=9&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=65yZ2mCa2Ga%2BRnoAjyRECA%3D%3D)
+
+### Smart Consulting
+- **Position:** Cloud Engineer
+- **Location:** Lisbon Metropolitan Area
+- **Posted on:** 2026-07-23
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-engineer-at-smart-consulting-4441504439?position=53&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=VGm6FPrBR%2B%2FGWd9OkHf8fA%3D%3D)
+
+### CSCS
+- **Position:** DevOps Engineer
+- **Location:** Lugano, Ticino, Switzerland
+- **Posted on:** 2026-07-23
+- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-at-cscs-4420280733?position=36&pageNum=0&refId=o9qgkadghH2y%2B%2BWRPLqp0Q%3D%3D&trackingId=VqEj5HBcDfDzAKFhp%2FNtuA%3D%3D)
+
+### Accelerate Sverige
+- **Position:** Platform Engineer
+- **Location:** Gothenburg, Västra Götaland County, Sweden
+- **Posted on:** 2026-07-23
+- [Apply here](https://se.linkedin.com/jobs/view/platform-engineer-at-accelerate-sverige-4435840047?position=35&pageNum=0&refId=8YT7UeRo6fQSZI4BhRYyKg%3D%3D&trackingId=jUn4qOkb7T%2FunOE2i2pYvw%3D%3D)
+
 ### Xpand IT
 - **Position:** Platform Engineer
 - **Location:** Lisbon Metropolitan Area
@@ -1098,6 +1908,36 @@ Total: 2488 offers
 - **Location:** Zurich, Switzerland
 - **Posted on:** 2026-07-22
 - [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-23450-at-profilogic-ag-4443169276?position=37&pageNum=0&refId=5NawBPpaqwpxPSh9ONddqg%3D%3D&trackingId=1aXkUnO%2FlVEVRQJkNYWbsA%3D%3D)
+
+### Amadeus
+- **Position:** DevOps Engineer – Observability & Platform Reliability
+- **Location:** Lisboa, Lisbon, Portugal
+- **Posted on:** 2026-07-22
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-%E2%80%93-observability-platform-reliability-at-amadeus-4408672588?position=18&pageNum=0&refId=%2Bs6ZnI1lYX14ips8bMGBfQ%3D%3D&trackingId=bksdyCCq9WwCvsGIbKOBhA%3D%3D)
+
+### T-Systems Iberia
+- **Position:** Cloud & AI Platform Architect (m/f/d)
+- **Location:** Granada, Andalusia, Spain
+- **Posted on:** 2026-07-22
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-ai-platform-architect-m-f-d-at-t-systems-iberia-4440162884?position=22&pageNum=0&refId=UwFw5KbMcOTSogL2cduqHg%3D%3D&trackingId=YNRHII0raScAj8qaxRODMg%3D%3D)
+
+### CGI
+- **Position:** Architecte CLOUD Azure F/H
+- **Location:** Bordeaux, Nouvelle-Aquitaine, France
+- **Posted on:** 2026-07-22
+- [Apply here](https://fr.linkedin.com/jobs/view/architecte-cloud-azure-f-h-at-cgi-4443986858?position=58&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=RJ5BylXZJLzxrWy2v8K0Ag%3D%3D)
+
+### Guardian Industries
+- **Position:** Cloud Engineer
+- **Location:** Katowice, Śląskie, Poland
+- **Posted on:** 2026-07-22
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-engineer-at-guardian-industries-4441052897?position=58&pageNum=0&refId=eBn7vb%2BCuxaq7EUZLch2qg%3D%3D&trackingId=NZyVn%2BodoihRx59XK5QKTg%3D%3D)
+
+### Abraxas Informatik AG
+- **Position:** DevOps Engineer 80–100 %
+- **Location:** Zürich-Flughafen, Zurich, Switzerland
+- **Posted on:** 2026-07-22
+- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-80%E2%80%93100-%25-at-abraxas-informatik-ag-4435527859?position=17&pageNum=0&refId=o9qgkadghH2y%2B%2BWRPLqp0Q%3D%3D&trackingId=0nVZSgurPrM5DYQeJCGpZg%3D%3D)
 
 ### Siemens
 - **Position:** Junior Azure CloudOps Engineer (m/f/d)
@@ -1459,6 +2299,24 @@ Total: 2488 offers
 - **Posted on:** 2026-07-21
 - [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-at-kion-group-4442636067?position=11&pageNum=0&refId=djEpYyJvrCZ6rDY4zxJ7BQ%3D%3D&trackingId=Eprl9%2FKhYo4fIhIwX%2FqU6A%3D%3D)
 
+### SOFICO
+- **Position:** Platform Engineer (m/f/d)
+- **Location:** Porto, Portugal
+- **Posted on:** 2026-07-21
+- [Apply here](https://pt.linkedin.com/jobs/view/platform-engineer-m-f-d-at-sofico-4235619339?position=30&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=bPiykRMHhN6OgmzTCtZlpQ%3D%3D)
+
+### Axians Portugal
+- **Position:** Azure Cloud Engineer
+- **Location:** Porto, Porto, Portugal
+- **Posted on:** 2026-07-21
+- [Apply here](https://pt.linkedin.com/jobs/view/azure-cloud-engineer-at-axians-portugal-4443072171?position=15&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=vesZDmprSIQpXvJL6wOAqg%3D%3D)
+
+### Astek
+- **Position:** Expert SI Produit Cloud - Brest, France  (H/F)
+- **Location:** Brest, Brittany, France
+- **Posted on:** 2026-07-21
+- [Apply here](https://fr.linkedin.com/jobs/view/expert-si-produit-cloud-brest-france-h-f-at-astek-4440444340?position=10&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=t5qa3ZzT2pJ%2F8x523LN%2B2Q%3D%3D)
+
 ### GCTestDesign
 - **Position:** Site Reliability Engineer
 Lisbon, Portugal
@@ -1789,6 +2647,18 @@ Lisbon, Portugal
 - **Location:** Bucharest, Romania
 - **Posted on:** 2026-07-20
 - [Apply here](https://ro.linkedin.com/jobs/view/python-devops-engineer-at-rinf-tech-4442721519?position=51&pageNum=0&refId=KWxjBppZI2UgW42qjP%2BSnA%3D%3D&trackingId=sTfelIhKsJT9LL9Fjz9GBw%3D%3D)
+
+### ALTEN Spain
+- **Position:** DevOps Engineer
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-07-20
+- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-at-alten-spain-4434869297?position=59&pageNum=0&refId=6BzLjyu%2B6RTKMeSLHMryxg%3D%3D&trackingId=5HKac7QVmIA8N%2FNgiBrtRw%3D%3D)
+
+### Commerzbank Digital Technology Centre Poland
+- **Position:** Cloud Architect - GCP || Cost Processing & Transactions (m/f/d)
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2026-07-20
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-architect-gcp-cost-processing-transactions-m-f-d-at-commerzbank-digital-technology-centre-poland-4421925669?position=47&pageNum=0&refId=eBn7vb%2BCuxaq7EUZLch2qg%3D%3D&trackingId=IXGvrvP4IbF8kUV3DKIyfQ%3D%3D)
 
 ### act digital
 - **Position:** Site Reliability Engineer
@@ -2162,6 +3032,30 @@ Lisbon, Portugal
 - **Posted on:** 2026-07-17
 - [Apply here](https://fr.linkedin.com/jobs/view/devops-h-f-at-alten-4438797469?position=12&pageNum=0&refId=XcLQf16c5nJfOBtcWzxgrg%3D%3D&trackingId=2IQK9LbOfQ7rpM%2Fug7wgEw%3D%3D)
 
+### InnoTech
+- **Position:** Azure Cloud Architect (Data & AI)
+- **Location:** Lisbon Metropolitan Area
+- **Posted on:** 2026-07-17
+- [Apply here](https://pt.linkedin.com/jobs/view/azure-cloud-architect-data-ai-at-innotech-4442163535?position=57&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=umZbgC%2BsVaUoAT1pDc%2FQvA%3D%3D)
+
+### leboncoin
+- **Position:** Infrastructure Engineer (H/F/N)
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-17
+- [Apply here](https://fr.linkedin.com/jobs/view/infrastructure-engineer-h-f-n-at-leboncoin-4401068608?position=3&pageNum=0&refId=kRRJy22%2ByZy94xtYeHSeeA%3D%3D&trackingId=CQrsJvnDeoN4tj%2B9UN%2FXmA%3D%3D)
+
+### Theodo
+- **Position:** Site Reliability Engineer - Pôle Run - CDI Paris - Theodo Cloud
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-17
+- [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-p%C3%B4le-run-cdi-paris-theodo-cloud-at-theodo-4315809805?position=37&pageNum=0&refId=U3%2BKa4DDLvordUPwO7kIHQ%3D%3D&trackingId=YI3EGYHHOpkp2BLCc%2BWFRg%3D%3D)
+
+### Amaris Consulting
+- **Position:** L2 Cloud Engineer - Kubernetes & Observability M / F / X
+- **Location:** Greater Marseille Metropolitan Area
+- **Posted on:** 2026-07-17
+- [Apply here](https://fr.linkedin.com/jobs/view/l2-cloud-engineer-kubernetes-observability-m-f-x-at-amaris-consulting-4441961795?position=57&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=6QsCHB8i6f3wtttuuZCqXQ%3D%3D)
+
 ### CodeWin
 - **Position:** Devops - Remote
 - **Location:** Faro, Faro, Portugal
@@ -2407,6 +3301,30 @@ Lisbon, Portugal
 - **Location:** Vézénobres, Occitanie, France
 - **Posted on:** 2026-07-16
 - [Apply here](https://fr.linkedin.com/jobs/view/devops-exp%C3%A9riment%C3%A9-h-f-at-transports-capelle-4438736467?position=53&pageNum=0&refId=BtmdKus3zjQHbAfsnLWrVQ%3D%3D&trackingId=9OI1dpReUk56eKVvz8bEHw%3D%3D)
+
+### Shiji Group
+- **Position:** Cloud Infrastructure Engineer
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2026-07-16
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-infrastructure-engineer-at-shiji-group-4440705597?position=58&pageNum=0&refId=KAjMOLwr29wZt4qE1Dw7pg%3D%3D&trackingId=DJ%2F93dgTQEzy%2Bwshfat7TA%3D%3D)
+
+### DGSE - Direction Générale de la Sécurité Extérieure
+- **Position:** Architecte infrastructure Cloud (H/F)
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-16
+- [Apply here](https://fr.linkedin.com/jobs/view/architecte-infrastructure-cloud-h-f-at-dgse-direction-g%C3%A9n%C3%A9rale-de-la-s%C3%A9curit%C3%A9-ext%C3%A9rieure-4438471319?position=54&pageNum=0&refId=kRRJy22%2ByZy94xtYeHSeeA%3D%3D&trackingId=QxDJLOvzhiIlnZ5tM8L%2B5Q%3D%3D)
+
+### Xebia
+- **Position:** AI/ML Platform Cloud Infrastructure Engineer
+- **Location:** Romania
+- **Posted on:** 2026-07-16
+- [Apply here](https://ro.linkedin.com/jobs/view/ai-ml-platform-cloud-infrastructure-engineer-at-xebia-4441442484?position=53&pageNum=0&refId=QfRpjMcB5OZRTZGIc%2Fi8Uw%3D%3D&trackingId=K6Xf176gTI6VVkErQ%2FJu3A%3D%3D)
+
+### Jeppesen ForeFlight
+- **Position:** DevOps Engineer
+- **Location:** Gothenburg, Västra Götaland County, Sweden
+- **Posted on:** 2026-07-16
+- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-at-jeppesen-foreflight-4414130323?position=8&pageNum=0&refId=8YT7UeRo6fQSZI4BhRYyKg%3D%3D&trackingId=ELv6HQqWPEXirk%2Fwc1o24A%3D%3D)
 
 ### Emerging Travel Group
 - **Position:** Junior DevOps Engineer
@@ -2720,6 +3638,36 @@ Lisbon, Portugal
 - **Posted on:** 2026-07-15
 - [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-devops-f-h-at-atos-4379346441?position=23&pageNum=0&refId=nndrb0RbDnbGG4qoLsOYkg%3D%3D&trackingId=OLpy8lskP1WURH8800DRjg%3D%3D)
 
+### Decskill
+- **Position:** Devops Engineer
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2026-07-15
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-decskill-4438087067?position=13&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=tIlS6sdMefMEvbWJ%2BBbc7w%3D%3D)
+
+### syffer by LUZA
+- **Position:** IT Platform Engineer
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2026-07-15
+- [Apply here](https://pt.linkedin.com/jobs/view/it-platform-engineer-at-syffer-by-luza-4440220864?position=50&pageNum=0&refId=jPiPjHELO%2BVpBrTXEO3yGg%3D%3D&trackingId=sWacIO0kR6z%2B7LR6RCCjVQ%3D%3D)
+
+### SFEIR
+- **Position:** Cloud Architect
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-15
+- [Apply here](https://fr.linkedin.com/jobs/view/cloud-architect-at-sfeir-3634258552?position=55&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=NwL7rU2FfpXyXYy%2FYZas3Q%3D%3D)
+
+### SIX
+- **Position:** Site Reliability Engineer
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-07-15
+- [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-at-six-4440954801?position=16&pageNum=0&refId=wAcAkGXjlBvsHSBijAsbzw%3D%3D&trackingId=vhXoKIGZcGRLtLpoE6YiPw%3D%3D)
+
+### Atos
+- **Position:** Ingénieur DevOps (F/H)
+- **Location:** Valbonne, Provence-Alpes-Côte d'Azur, France
+- **Posted on:** 2026-07-15
+- [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-devops-f-h-at-atos-4379345482?position=7&pageNum=0&refId=tnmBigzyY7QUEae0lhDjNw%3D%3D&trackingId=lCReav49gij%2F5qVXtd%2FXaQ%3D%3D)
+
 ### agap2IT Portugal
 - **Position:** Cloud Engineer
 - **Location:** Porto, Porto, Portugal
@@ -2984,6 +3932,18 @@ Lisbon, Portugal
 - **Posted on:** 2026-07-14
 - [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-affinity-4410526582?position=31&pageNum=0&refId=kfSbycGOhNdnQYYDlL0bWQ%3D%3D&trackingId=DaT6rmOXQsVbhY9X%2Bccleg%3D%3D)
 
+### Inetum
+- **Position:** Cloud Architect
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2026-07-14
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-architect-at-inetum-4440543057?position=13&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=GyzQ6WcdVmVVW5hxkVSjxQ%3D%3D)
+
+### BBVA Technology en Europa
+- **Position:** Infrastructure Engineer – Storage & Backup
+- **Location:** Greater Madrid Metropolitan Area
+- **Posted on:** 2026-07-14
+- [Apply here](https://es.linkedin.com/jobs/view/infrastructure-engineer-%E2%80%93-storage-backup-at-bbva-technology-en-europa-4440535833?position=55&pageNum=0&refId=5y5fm0%2BpN0SPA0bfHBwcPQ%3D%3D&trackingId=WmMr6NESXYBymIcQv4S0jg%3D%3D)
+
 ### Aubay Portugal
 - **Position:** Infrastructure Cloud Engineer (Azure/AWS)
 - **Location:** Lisbon, Portugal
@@ -3188,6 +4148,12 @@ Lisbon, Portugal
 - **Posted on:** 2026-07-13
 - [Apply here](https://se.linkedin.com/jobs/view/core-platform-engineer%21-at-saab-4440029345?position=50&pageNum=0&refId=f4bGW0VCCZ0awpwo%2BGYgiQ%3D%3D&trackingId=9pwMnHYgWlxgBVll4Joqkw%3D%3D)
 
+### CluePoints
+- **Position:** Site Reliability Engineer - Observability
+- **Location:** Poland
+- **Posted on:** 2026-07-13
+- [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-observability-at-cluepoints-4391554227?position=19&pageNum=0&refId=wAcAkGXjlBvsHSBijAsbzw%3D%3D&trackingId=MsoUecSRvfiNdeMvTuwv%2Fw%3D%3D)
+
 ### Experis España
 - **Position:** Ingeniero Devops
 - **Location:** Chantada, Galicia, Spain
@@ -3199,6 +4165,18 @@ Lisbon, Portugal
 - **Location:** Trondheim, Trøndelag, Norway
 - **Posted on:** 2026-07-12
 - [Apply here](https://no.linkedin.com/jobs/view/devops-platform-engineer-at-softwareone-4438974934?position=29&pageNum=0&refId=hs2kSHv2fbCQ5VxUA5aCIQ%3D%3D&trackingId=0L%2FMd%2FREs7WkryArSAEqIg%3D%3D)
+
+### Astek
+- **Position:** Product Owner Cloud - Rennes, France  (H/F)
+- **Location:** Rennes, Brittany, France
+- **Posted on:** 2026-07-12
+- [Apply here](https://fr.linkedin.com/jobs/view/product-owner-cloud-rennes-france-h-f-at-astek-4296783683?position=43&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=XRVV5tyvXM8hRY2LUixbsg%3D%3D)
+
+### Autodesk
+- **Position:** Site Reliability Engineer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-07-12
+- [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-at-autodesk-4362682146?position=26&pageNum=0&refId=NABc7muawFe2EJDYy0h%2FKA%3D%3D&trackingId=7Fu9WcJzEc34rN3jyyXzGw%3D%3D)
 
 ### Metyis
 - **Position:** DevOps Engineer – Research & Development (Fashion)
@@ -3283,6 +4261,54 @@ Lisbon, Portugal
 - **Location:** Time, Rogaland, Norway
 - **Posted on:** 2026-07-11
 - [Apply here](https://no.linkedin.com/jobs/view/backend-engineer-at-majestara-development-limited-4439500109?position=51&pageNum=0&refId=qsCVnuQ3FUAcgTNpLV8AzA%3D%3D&trackingId=UKUzhAaLy2Ak59AnEtq0zA%3D%3D)
+
+### Kuehne+Nagel
+- **Position:** Infrastructure Engineer (m/f/d)
+- **Location:** Porto, Portugal
+- **Posted on:** 2026-07-11
+- [Apply here](https://pt.linkedin.com/jobs/view/infrastructure-engineer-m-f-d-at-kuehne%2Bnagel-4402141754?position=19&pageNum=0&refId=oTiZPf3%2FnG3WOuqz%2FsdbpQ%3D%3D&trackingId=hQlESgArJ5m1cV05mqpkaA%3D%3D)
+
+### LSEG
+- **Position:** CDSClear IT Site Reliability Engineer
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-11
+- [Apply here](https://fr.linkedin.com/jobs/view/cdsclear-it-site-reliability-engineer-at-lseg-4410822711?position=45&pageNum=0&refId=U3%2BKa4DDLvordUPwO7kIHQ%3D%3D&trackingId=rxjosVumnDKizWdU6G24ag%3D%3D)
+
+### adesso Schweiz AG
+- **Position:** DevOps Engineer (all genders)
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-07-11
+- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-all-genders-at-adesso-schweiz-ag-4366333796?position=26&pageNum=0&refId=o9qgkadghH2y%2B%2BWRPLqp0Q%3D%3D&trackingId=KeFpRNcivbLHLelsUKwaKw%3D%3D)
+
+### adesso Schweiz AG
+- **Position:** DevOps Engineer (all genders)
+- **Location:** Bern, Berne, Switzerland
+- **Posted on:** 2026-07-11
+- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-all-genders-at-adesso-schweiz-ag-4366350028?position=27&pageNum=0&refId=o9qgkadghH2y%2B%2BWRPLqp0Q%3D%3D&trackingId=ByZo32bYyHipUbxjy0UpqQ%3D%3D)
+
+### Astek
+- **Position:** DevOps système  - Nice, France  (H/F)
+- **Location:** Nice, Provence-Alpes-Côte d'Azur, France
+- **Posted on:** 2026-07-11
+- [Apply here](https://fr.linkedin.com/jobs/view/devops-syst%C3%A8me-nice-france-h-f-at-astek-4309581006?position=14&pageNum=0&refId=tnmBigzyY7QUEae0lhDjNw%3D%3D&trackingId=TYGgECaUBL100EH4lzN%2FRg%3D%3D)
+
+### Legora
+- **Position:** Site Reliability Engineer
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-07-11
+- [Apply here](https://se.linkedin.com/jobs/view/site-reliability-engineer-at-legora-4399766805?position=2&pageNum=0&refId=5eSc9Slj5AguqkTplLs4bQ%3D%3D&trackingId=cUeF2C71C9pzc1fIf1xnGA%3D%3D)
+
+### Vivicta
+- **Position:** Cloud Solution Architect
+- **Location:** Skellefteå, Västerbotten County, Sweden
+- **Posted on:** 2026-07-11
+- [Apply here](https://se.linkedin.com/jobs/view/cloud-solution-architect-at-vivicta-4420445721?position=51&pageNum=0&refId=GMl14ui4WPQt0pDCcp16uA%3D%3D&trackingId=cyQ%2BhLfwoNnp5b%2B%2Bykb48w%3D%3D)
+
+### Bitdeer (NASDAQ: BTDR)
+- **Position:** AI infrastructure Engineer - Norway
+- **Location:** Tydal, Trøndelag, Norway
+- **Posted on:** 2026-07-11
+- [Apply here](https://no.linkedin.com/jobs/view/ai-infrastructure-engineer-norway-at-bitdeer-nasdaq-btdr-4417677138?position=3&pageNum=0&refId=BnbisCbpfy3TkLQsaR4%2ByQ%3D%3D&trackingId=IzfnkJ8grnSggf4LkC6qqA%3D%3D)
 
 ### Glintt Global
 - **Position:** DevOps Junior - Glintt Life
@@ -3620,6 +4646,48 @@ Lisbon, Portugal
 - **Posted on:** 2026-07-10
 - [Apply here](https://no.linkedin.com/jobs/view/plattformingeni%C3%B8r-platform-engineer-at-accenture-nordics-4389809658?position=13&pageNum=0&refId=YSv4nBAgD7yW9orZU5YmJw%3D%3D&trackingId=dqvRE4PuihxKOzuo35tK3Q%3D%3D)
 
+### HAVI
+- **Position:** Cloud Architect
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2026-07-10
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-architect-at-havi-4409905322?position=19&pageNum=0&refId=evavz1QNiY0e3XSWEIf1PA%3D%3D&trackingId=f%2Fmlhn0gxZETGkxXy4N6%2Fw%3D%3D)
+
+### Inetum
+- **Position:** ARCHITECTE CLOUD H/F
+- **Location:** Bordeaux, Nouvelle-Aquitaine, France
+- **Posted on:** 2026-07-10
+- [Apply here](https://fr.linkedin.com/jobs/view/architecte-cloud-h-f-at-inetum-4420432587?position=1&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=dIBULNDrR0ANqLE4fjZl5A%3D%3D)
+
+### Accenture Poland
+- **Position:** Cloud SysOps - AWS Engineer
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2026-07-10
+- [Apply here](https://pl.linkedin.com/jobs/view/cloud-sysops-aws-engineer-at-accenture-poland-4422063183?position=9&pageNum=0&refId=eBn7vb%2BCuxaq7EUZLch2qg%3D%3D&trackingId=PpDAD9h7W1qr9FroBHQqKA%3D%3D)
+
+### Worldline
+- **Position:** DevOps Engineer (Security/Monitoring/Reliability)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-07-10
+- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-security-monitoring-reliability-at-worldline-4419835827?position=31&pageNum=0&refId=GDG%2FWlEZbhytdAm4y5F%2FFQ%3D%3D&trackingId=ccigxYOm%2Frncidq7wiBwOQ%3D%3D)
+
+### Luxoft Romania
+- **Position:** Site Reliability Engineer (NewRelic or alternative - Must)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-07-10
+- [Apply here](https://ro.linkedin.com/jobs/view/site-reliability-engineer-newrelic-or-alternative-must-at-luxoft-romania-4439031777?position=34&pageNum=0&refId=ZxmagOwBfIeza9Vu0TmUpw%3D%3D&trackingId=duKWhGbGruxHxwzR%2Bt%2ByaQ%3D%3D)
+
+### CGI
+- **Position:** Cloud Architect
+- **Location:** Karlstad, Värmland County, Sweden
+- **Posted on:** 2026-07-10
+- [Apply here](https://se.linkedin.com/jobs/view/cloud-architect-at-cgi-4378967618?position=16&pageNum=0&refId=GMl14ui4WPQt0pDCcp16uA%3D%3D&trackingId=PnzSTrKGUG10TSdXmArAOQ%3D%3D)
+
+### Accigo
+- **Position:** Microsoft Azure Cloud Architect
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-07-10
+- [Apply here](https://se.linkedin.com/jobs/view/microsoft-azure-cloud-architect-at-accigo-4099918812?position=33&pageNum=0&refId=GMl14ui4WPQt0pDCcp16uA%3D%3D&trackingId=tRD%2FzmtkvzjG6v6ItTkE5A%3D%3D)
+
 ### FCCN
 - **Position:** Analista DevOps de Cibersegurança
 - **Location:** Lisbon, Lisbon, Portugal
@@ -3871,6 +4939,30 @@ Lisbon, Portugal
 - **Location:** Zug, Zug, Switzerland
 - **Posted on:** 2026-07-09
 - [Apply here](https://ch.linkedin.com/jobs/view/devops-software-engineer-m-w-80-100%25-zug-z%C3%BCrich-luzern-basel-german-speaking%3D-must-at-onlu-4438611594?position=44&pageNum=0&refId=p7EKphRPoKj6W1%2B9rcJvvg%3D%3D&trackingId=Z3aZRuofcDxjPdxHJ9VvLw%3D%3D)
+
+### Devoteam
+- **Position:** Distributed Cloud | AWS DevOps Engineer
+- **Location:** Porto, Porto, Portugal
+- **Posted on:** 2026-07-09
+- [Apply here](https://pt.linkedin.com/jobs/view/distributed-cloud-aws-devops-engineer-at-devoteam-4389558856?position=22&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=ZcwOVHQj8HMaaw6xfzqfZA%3D%3D)
+
+### GlobalLogic
+- **Position:** AI Platform Engineer, Agent Systems IRC296274
+- **Location:** Romania
+- **Posted on:** 2026-07-09
+- [Apply here](https://ro.linkedin.com/jobs/view/ai-platform-engineer-agent-systems-irc296274-at-globallogic-4417644777?position=51&pageNum=0&refId=I4XVgrQ07Gi%2FdDZ2NqZuNA%3D%3D&trackingId=H3Z8%2FPAPyUpcQOID1kwefw%3D%3D)
+
+### Betfair Romania Development
+- **Position:** Site Reliability Engineer - Flutter Functions, Hybrid & Remote
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2026-07-09
+- [Apply here](https://ro.linkedin.com/jobs/view/site-reliability-engineer-flutter-functions-hybrid-remote-at-betfair-romania-development-4382085998?position=10&pageNum=0&refId=ZxmagOwBfIeza9Vu0TmUpw%3D%3D&trackingId=epn8xCkYv%2FuZrN0AGPAGyw%3D%3D)
+
+### HiQ
+- **Position:** Platform Engineer
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-07-09
+- [Apply here](https://se.linkedin.com/jobs/view/platform-engineer-at-hiq-4408418631?position=33&pageNum=0&refId=%2Fmc0NaaZhBnne4i97F%2BoSw%3D%3D&trackingId=B%2FxXdY1qnZ49q7XusZmqzA%3D%3D)
 
 ### TMC
 - **Position:** Cloud Architect
@@ -4129,6 +5221,24 @@ Lisbon, Portugal
 - **Location:** Biot, Provence-Alpes-Côte d'Azur, France
 - **Posted on:** 2026-07-08
 - [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-devops-infrastructure-cloud-biot-at-sopra-steria-4410767720?position=57&pageNum=0&refId=nndrb0RbDnbGG4qoLsOYkg%3D%3D&trackingId=LyMf5x47AbZwtcgji7ZuYQ%3D%3D)
+
+### SFEIR Lille
+- **Position:** Cloud/DevOps Engineer (F/H/NB)
+- **Location:** Bordeaux, Nouvelle-Aquitaine, France
+- **Posted on:** 2026-07-08
+- [Apply here](https://fr.linkedin.com/jobs/view/cloud-devops-engineer-f-h-nb-at-sfeir-lille-4437017938?position=59&pageNum=0&refId=D2tX0w9%2FrAWzM9R%2BmNOygg%3D%3D&trackingId=m6pmSGwFtyBUH5N43l48qA%3D%3D)
+
+### SFEIR Lille
+- **Position:** Cloud Architect
+- **Location:** Paris, Île-de-France, France
+- **Posted on:** 2026-07-08
+- [Apply here](https://fr.linkedin.com/jobs/view/cloud-architect-at-sfeir-lille-4437028451?position=60&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=vR4Q5junUPHgKwkb%2FFT0iQ%3D%3D)
+
+### Autopay
+- **Position:** DevOps Engineer
+- **Location:** Sopot, Pomorskie, Poland
+- **Posted on:** 2026-07-08
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-autopay-4438199690?position=48&pageNum=0&refId=NABc7muawFe2EJDYy0h%2FKA%3D%3D&trackingId=YzXXh3iuaDRXoFKV4y%2Bh9Q%3D%3D)
 
 ### emagine
 - **Position:** DevOps Engineer
@@ -5216,6 +6326,12 @@ Lisbon, Portugal
 - **Posted on:** 2026-07-03
 - [Apply here](https://se.linkedin.com/jobs/view/platform-engineer-at-accelerate-sverige-4435425918?position=32&pageNum=0&refId=f4bGW0VCCZ0awpwo%2BGYgiQ%3D%3D&trackingId=lWX8GS59Q%2BiWVV1wbooXCA%3D%3D)
 
+### Dstny
+- **Position:** Infrastructure & Platform Engineer
+- **Location:** Porto, Portugal
+- **Posted on:** 2026-07-03
+- [Apply here](https://pt.linkedin.com/jobs/view/infrastructure-platform-engineer-at-dstny-4416823320?position=16&pageNum=0&refId=oTiZPf3%2FnG3WOuqz%2FsdbpQ%3D%3D&trackingId=iRoUFzZol5ZPwCkxmBuC%2Bg%3D%3D)
+
 ### Vex Tech
 - **Position:** AWS DevOps
 - **Location:** Lisbon, Portugal
@@ -5545,6 +6661,12 @@ Lisbon, Portugal
 - **Location:** Sophia Antipolis, Provence-Alpes-Côte d'Azur, France
 - **Posted on:** 2026-07-02
 - [Apply here](https://fr.linkedin.com/jobs/view/chef-de-projets-cloud-h-f-at-davidson-consulting-4249292760?position=48&pageNum=0&refId=kmphfmMqjA36PVlcnght8g%3D%3D&trackingId=qXlRMcw7N1yNOW6gKh8Tbg%3D%3D)
+
+### Euronext
+- **Position:** DevOps Engineer
+- **Location:** Porto, Porto, Portugal
+- **Posted on:** 2026-07-02
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-euronext-4419921613?position=4&pageNum=0&refId=QA3LL0A8u2m2amfuZUd%2FoA%3D%3D&trackingId=LLGmLXMrfV9YPglN7PpZ9Q%3D%3D)
 
 ### Conclusion Lifecycle
 - **Position:** Site Reliability Engineer
@@ -6128,6 +7250,18 @@ Lisbon, Portugal
 - **Posted on:** 2026-06-29
 - [Apply here](https://pl.linkedin.com/jobs/view/gcp-platform-engineer-at-ing-hubs-poland-4431097760?position=50&pageNum=0&refId=WoSXy1X0XW0HyPO01pCE9A%3D%3D&trackingId=wdawmk2fYLbcUogZMxMnwQ%3D%3D)
 
+### Plexus Tech
+- **Position:** AWS Devops
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-06-29
+- [Apply here](https://es.linkedin.com/jobs/view/aws-devops-at-plexus-tech-4441817621?position=24&pageNum=0&refId=KAjMOLwr29wZt4qE1Dw7pg%3D%3D&trackingId=W48NXI37HzNcLPRDTsiyIg%3D%3D)
+
+### StackAI
+- **Position:** Platform Engineer, APIs & Observability
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-06-29
+- [Apply here](https://pl.linkedin.com/jobs/view/platform-engineer-apis-observability-at-stackai-4434762132?position=16&pageNum=0&refId=136CQjXqnIOKIuYRgxfIMw%3D%3D&trackingId=dYQ9NDO4AFG86Qh5LihAwg%3D%3D)
+
 ### Astek
 - **Position:** Ingénieur DevOps  - Bordeaux, France  (H/F)
 - **Location:** Bordeaux, Nouvelle-Aquitaine, France
@@ -6439,6 +7573,12 @@ Lisbon, Portugal
 - **Location:** Geneva, Geneva, Switzerland
 - **Posted on:** 2026-06-26
 - [Apply here](https://ch.linkedin.com/jobs/view/ing%C3%A9nieur-devops-at-qim-info-4430632108?position=26&pageNum=0&refId=LHtpVk6HcOqlVjSpcvaHzQ%3D%3D&trackingId=z%2B%2BYREoU3vrUN8oMMY0HPw%3D%3D)
+
+### OPEN
+- **Position:** Architecte Cloud H/F
+- **Location:** Lille, Hauts-de-France, France
+- **Posted on:** 2026-06-26
+- [Apply here](https://fr.linkedin.com/jobs/view/architecte-cloud-h-f-at-open-4346446292?position=52&pageNum=0&refId=rONgdZZ4KY7v3qEtBBtl8w%3D%3D&trackingId=9HXUsmVRkU6RtfXstcNmgA%3D%3D)
 
 ### Stefanini EMEA
 - **Position:** DevOps Engineer
@@ -9141,6 +10281,18 @@ Bucharest, Romania
 - **Location:** Barcelona, Catalonia, Spain
 - **Posted on:** 2026-06-16
 - [Apply here](https://es.linkedin.com/jobs/view/arquitecto-a-cloud-junior-at-grupo-digital-4426863221?position=31&pageNum=0&refId=bkaOr%2FsHMkpMPBeuRDEjDA%3D%3D&trackingId=liiG7freh0Kubk3Czmnr1A%3D%3D)
+
+### dLocal
+- **Position:** Cloud Architect
+- **Location:** Barcelona, Catalonia, Spain
+- **Posted on:** 2026-06-16
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-architect-at-dlocal-4429722753?position=11&pageNum=0&refId=av7pxXkvF%2FJkwjYHe0gf2Q%3D%3D&trackingId=SqiNDsP%2Fod9%2BBFXAzl5NyA%3D%3D)
+
+### dLocal
+- **Position:** Cloud Architect
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-06-16
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-architect-at-dlocal-4429725722?position=36&pageNum=0&refId=av7pxXkvF%2FJkwjYHe0gf2Q%3D%3D&trackingId=hkbXNz9xotBsPBQiuYLlDA%3D%3D)
 
 ### Komodo Consulting
 - **Position:** Site Reliability Engineer (Cloud & AI Platforms)
@@ -14536,412 +15688,4 @@ Bucharest, Romania
 - **Location:** Stockholm, Stockholm County, Sweden
 - **Posted on:** 2026-06-02
 - [Apply here](https://se.linkedin.com/jobs/view/devops-ai-engineer-at-avalanche-studios-group-4422428397?position=37&pageNum=0&refId=Hvyhd4YgO0XVU9jgff4Wcw%3D%3D&trackingId=PfMDXP%2Bw4Jzg%2BOfxJtYfdg%3D%3D)
-
-### Aubay Portugal
-- **Position:** Infrastructure Engineer w/Linux
-- **Location:** Lisbon Metropolitan Area
-- **Posted on:** 2026-06-01
-- [Apply here](https://pt.linkedin.com/jobs/view/infrastructure-engineer-w-linux-at-aubay-portugal-4421698657?position=54&pageNum=0&refId=nykihiHjYJvnOpnwrOqXZQ%3D%3D&trackingId=36RgIMdoj2qOX8%2Fat2EZCQ%3D%3D)
-
-### Ivy Partners
-- **Position:** Site Reliability Engineer
-- **Location:** Lisbon, Portugal
-- **Posted on:** 2026-06-01
-- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-ivy-partners-4421801275?position=59&pageNum=0&refId=nykihiHjYJvnOpnwrOqXZQ%3D%3D&trackingId=PYZTCctqGAPHuUnzyxuyQw%3D%3D)
-
-### Habber Tec Portugal
-- **Position:** Devops Engineer
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-06-01
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-habber-tec-portugal-4421824660?position=48&pageNum=0&refId=JqkfWROYUOHnkI2KvrPHoQ%3D%3D&trackingId=AIBAcqbInuo8S0YYE5k5lA%3D%3D)
-
-### Match Profiler
-- **Position:** DevOps Engineer (AWS)
-- **Location:** Porto, Portugal
-- **Posted on:** 2026-06-01
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-aws-at-match-profiler-4421690753?position=58&pageNum=0&refId=JqkfWROYUOHnkI2KvrPHoQ%3D%3D&trackingId=MnvHoLQm1H8WDmsTAzB5hw%3D%3D)
-
-### Aubay Spain
-- **Position:** AWS Cloud Engineer
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/aws-cloud-engineer-at-aubay-spain-4418733905?position=16&pageNum=0&refId=wjDgKMSeS9UuzsovUhdTeA%3D%3D&trackingId=JBZIkiw4%2BP67gFayXNnLLA%3D%3D)
-
-### hiberus
-- **Position:** Cloud Architect
-- **Location:** Greater Madrid Metropolitan Area
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/cloud-architect-at-hiberus-4421858390?position=32&pageNum=0&refId=wjDgKMSeS9UuzsovUhdTeA%3D%3D&trackingId=1nEq74CeCfeIUPZ44P89nQ%3D%3D)
-
-### Merlin Digital Partner
-- **Position:** Platform Engineer
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/platform-engineer-at-merlin-digital-partner-4421854463?position=29&pageNum=0&refId=2ODLw4nEfPEb7PGYBKo4Hw%3D%3D&trackingId=DKsy2aqY9DXccWMh%2FPBHkA%3D%3D)
-
-### Block Labs
-- **Position:** Data Platform Engineer
-- **Location:** Málaga, Andalusia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/data-platform-engineer-at-block-labs-4422828869?position=54&pageNum=0&refId=2ODLw4nEfPEb7PGYBKo4Hw%3D%3D&trackingId=33cvYtkRBtl8vIY8P3XB9A%3D%3D)
-
-### Semidynamics
-- **Position:** Site Reliability Engineer
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineer-at-semidynamics-4421684267?position=3&pageNum=0&refId=bh8SvrzLho0OO524KoRtjA%3D%3D&trackingId=x5%2BAOFT%2BR8IKQchGN1abkQ%3D%3D)
-
-### Tata Consultancy Services
-- **Position:** Site Reliability Engineer
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/site-reliability-engineer-at-tata-consultancy-services-4422824432?position=42&pageNum=0&refId=bh8SvrzLho0OO524KoRtjA%3D%3D&trackingId=FHSxKqRb4FazdBDwVtM5Rw%3D%3D)
-
-### Klanik
-- **Position:** Ingénieur Cloud AWS (H/F)
-- **Location:** Marseille, Provence-Alpes-Côte d'Azur, France
-- **Posted on:** 2026-06-01
-- [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-cloud-aws-h-f-at-klanik-4422853843?position=18&pageNum=0&refId=OaUUK31RVvImoi44djUt2A%3D%3D&trackingId=fITfhY9cLXYaRLgGvRvWdw%3D%3D)
-
-### Mobiskill | WEFY Group
-- **Position:** Site Reliability Engineer (H/F)
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-06-01
-- [Apply here](https://fr.linkedin.com/jobs/view/site-reliability-engineer-h-f-at-mobiskill-wefy-group-4422879889?position=12&pageNum=0&refId=wZ%2Fa1uew4X49B4ym%2B2ZEEQ%3D%3D&trackingId=H0gfmEJ1X9%2FhQ4rBJfd1Cw%3D%3D)
-
-### Kicklox
-- **Position:** DevOps H/F
-- **Location:** Toulouse, Occitanie, France
-- **Posted on:** 2026-06-01
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-h-f-at-kicklox-4421661197?position=31&pageNum=0&refId=g0Lu1eyca4wsVpB9QmsUlw%3D%3D&trackingId=8Z7Ng0G57Yh9S%2BiTMyPX8Q%3D%3D)
-
-### Harmattan AI
-- **Position:** DevOps Engineer - Infrastructure & Deployment (Production Systems)
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-06-01
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-engineer-infrastructure-deployment-production-systems-at-harmattan-ai-4391754621?position=46&pageNum=0&refId=g0Lu1eyca4wsVpB9QmsUlw%3D%3D&trackingId=6qln28v1bxEv33YNSNLiTw%3D%3D)
-
-### Deloitte
-- **Position:** Architect of Platform Engineering – AI Supercompute Infrastructure | Cloud & Engineering
-- **Location:** Gdańsk, Pomorskie, Poland
-- **Posted on:** 2026-06-01
-- [Apply here](https://pl.linkedin.com/jobs/view/architect-of-platform-engineering-%E2%80%93-ai-supercompute-infrastructure-cloud-engineering-at-deloitte-4392772276?position=8&pageNum=0&refId=0Ul6ctucI8L77zbIQLvuUA%3D%3D&trackingId=sbcFxjTMt6%2F8inIM2fZZ6Q%3D%3D)
-
-### Deloitte
-- **Position:** Architect of Platform Engineering – AI Supercompute Infrastructure | Cloud & Engineering
-- **Location:** Wrocław, Dolnośląskie, Poland
-- **Posted on:** 2026-06-01
-- [Apply here](https://pl.linkedin.com/jobs/view/architect-of-platform-engineering-%E2%80%93-ai-supercompute-infrastructure-cloud-engineering-at-deloitte-4392765417?position=53&pageNum=0&refId=0Ul6ctucI8L77zbIQLvuUA%3D%3D&trackingId=YOjQ9%2FhCwDx483bq8NwM9g%3D%3D)
-
-### Deloitte
-- **Position:** Architect of Platform Engineering – AI Supercompute Infrastructure | Cloud & Engineering
-- **Location:** Warsaw, Mazowieckie, Poland
-- **Posted on:** 2026-06-01
-- [Apply here](https://pl.linkedin.com/jobs/view/architect-of-platform-engineering-%E2%80%93-ai-supercompute-infrastructure-cloud-engineering-at-deloitte-4392780029?position=55&pageNum=0&refId=0Ul6ctucI8L77zbIQLvuUA%3D%3D&trackingId=cTe95AQN%2F%2FAJ%2B%2FFnBFnKhw%3D%3D)
-
-### Deloitte
-- **Position:** Architect of Platform Engineering – AI Supercompute Infrastructure | Cloud & Engineering
-- **Location:** Cracow, Małopolskie, Poland
-- **Posted on:** 2026-06-01
-- [Apply here](https://pl.linkedin.com/jobs/view/architect-of-platform-engineering-%E2%80%93-ai-supercompute-infrastructure-cloud-engineering-at-deloitte-4392779071?position=57&pageNum=0&refId=0Ul6ctucI8L77zbIQLvuUA%3D%3D&trackingId=bF24Z3P2R4wBfJt1EiD47g%3D%3D)
-
-### EPAM Systems
-- **Position:** Site Reliability Engineer
-- **Location:** Poland
-- **Posted on:** 2026-06-01
-- [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-at-epam-systems-4377755390?position=46&pageNum=0&refId=QykTtqwxpNoQTPOZL5ZkoQ%3D%3D&trackingId=wcJ8uvMMxZwnKY3WCd%2BumA%3D%3D)
-
-### Tieto
-- **Position:** DevOps Engineer – Continuous Integration Infrastructure - Tieto Tech Consulting (m/f/d)
-- **Location:** Szczecin, Zachodniopomorskie, Poland
-- **Posted on:** 2026-06-01
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-%E2%80%93-continuous-integration-infrastructure-tieto-tech-consulting-m-f-d-at-tieto-4363465442?position=40&pageNum=0&refId=YuMT43vkemj%2FInkigsk4WQ%3D%3D&trackingId=xGIloEijh8Ms7eetLrd11w%3D%3D)
-
-### Ework Group
-- **Position:** DevOps Engineer
-- **Location:** Gdańsk, Pomorskie, Poland
-- **Posted on:** 2026-06-01
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-at-ework-group-4421811356?position=48&pageNum=0&refId=YuMT43vkemj%2FInkigsk4WQ%3D%3D&trackingId=%2Bhu4Fl%2F1EuW367TiHszVwg%3D%3D)
-
-### skyquest AG
-- **Position:** CloudOps Engineer
-- **Location:** Zug, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/cloudops-engineer-at-skyquest-ag-4422883960?position=24&pageNum=0&refId=hIagJS56fGX2uJ6hxJ5gTA%3D%3D&trackingId=TXhdGjeo0XGigOplWIjSyQ%3D%3D)
-
-### Centris AG
-- **Position:** DevOps Engineer Microsoft Copilot & Cloud
-- **Location:** Solothurn, Solothurn, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-microsoft-copilot-cloud-at-centris-ag-4421695808?position=26&pageNum=0&refId=hIagJS56fGX2uJ6hxJ5gTA%3D%3D&trackingId=BGbjZR7GF5ebaxM1qUVgIw%3D%3D)
-
-### Nuvibit
-- **Position:** AWS Platform Engineer
-- **Location:** Zurich, Zurich, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/aws-platform-engineer-at-nuvibit-4418735330?position=52&pageNum=0&refId=hIagJS56fGX2uJ6hxJ5gTA%3D%3D&trackingId=4RkkhhsO%2BNvB%2FxKrphzY%2FQ%3D%3D)
-
-### Namespace
-- **Position:** Mac Infrastructure Engineer
-- **Location:** Zurich, Zurich, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/mac-infrastructure-engineer-at-namespace-4421899931?position=8&pageNum=0&refId=O8%2FQ8n4GVz%2BR%2FOw00Uck2Q%3D%3D&trackingId=QqlEI%2B4HIGxJE0BkLvazgg%3D%3D)
-
-### Experis Switzerland
-- **Position:** Platform Engineer
-- **Location:** Lucerne, Lucerne, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/platform-engineer-at-experis-switzerland-4422879859?position=31&pageNum=0&refId=m919AnCrQI2iy1HRilEAfA%3D%3D&trackingId=TyLZzvoodiNI%2FNB1eg2dNQ%3D%3D)
-
-### Ponsse
-- **Position:** DevOps Engineer
-- **Location:** Kuopio, North Savo, Finland
-- **Posted on:** 2026-06-01
-- [Apply here](https://fi.linkedin.com/jobs/view/devops-engineer-at-ponsse-4418795193?position=38&pageNum=0&refId=CHweA40ZYKQHMOVyLrvtRQ%3D%3D&trackingId=ifvuecxJa8y1qdRt8FygRw%3D%3D)
-
-### IQM Quantum Computers
-- **Position:** Software Infrastructure Engineer
-- **Location:** Espoo, Uusimaa, Finland
-- **Posted on:** 2026-06-01
-- [Apply here](https://fi.linkedin.com/jobs/view/software-infrastructure-engineer-at-iqm-quantum-computers-4412798160?position=19&pageNum=0&refId=d5iQEXfFc62MNfp5iDOKqQ%3D%3D&trackingId=3P8c0%2BXBncv8sv1PTzojsQ%3D%3D)
-
-### Swedbank
-- **Position:** Cloud Infra Engineer to Swedbank’s Group AI Accelerator
-- **Location:** Umeå, Västerbotten County, Sweden
-- **Posted on:** 2026-06-01
-- [Apply here](https://se.linkedin.com/jobs/view/cloud-infra-engineer-to-swedbank%E2%80%99s-group-ai-accelerator-at-swedbank-4418752706?position=30&pageNum=0&refId=XQ7RO1JLFAdRQ7aojn6JCQ%3D%3D&trackingId=rXtZhDnH8Ew6yu4tJx8rBw%3D%3D)
-
-### Tenth Revolution Group
-- **Position:** Linux | Azure | Terraform | DevOps Engineer
-- **Location:** Oslo, Norway
-- **Posted on:** 2026-06-01
-- [Apply here](https://no.linkedin.com/jobs/view/linux-azure-terraform-devops-engineer-at-tenth-revolution-group-4418705341?position=34&pageNum=0&refId=TkOt9FwHG3JdBl1ecSVoCQ%3D%3D&trackingId=aVjMT%2Bb68bPgW3cQc%2FJDeA%3D%3D)
-
-### Handelsbanken
-- **Position:** AI Platform Engineer
-- **Location:** Greater Oslo Region
-- **Posted on:** 2026-06-01
-- [Apply here](https://no.linkedin.com/jobs/view/ai-platform-engineer-at-handelsbanken-4418772759?position=53&pageNum=0&refId=ZNVHigebaZQvcYzgm17mbA%3D%3D&trackingId=fS7iDhMVo666cAjWMnLP%2Bw%3D%3D)
-
-### Tenth Revolution Group
-- **Position:** DevOps Engineer - Linux Focus
-- **Location:** Oslo, Norway
-- **Posted on:** 2026-06-01
-- [Apply here](https://no.linkedin.com/jobs/view/devops-engineer-linux-focus-at-tenth-revolution-group-4418708337?position=6&pageNum=0&refId=HHjsjyiuhEhFUBOXT7KiVA%3D%3D&trackingId=yw4pEwpiNZ1CefrOZs6GLg%3D%3D)
-
-### Celfocus
-- **Position:** Summer Internship | AI Cloud Engineer
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-06-01
-- [Apply here](https://pt.linkedin.com/jobs/view/summer-internship-ai-cloud-engineer-at-celfocus-4423207453?position=53&pageNum=0&refId=yvpseqogKhQZra8NUO3oxw%3D%3D&trackingId=dqs3%2FVkyDODWDAok3udvUA%3D%3D)
-
-### Experteam
-- **Position:** Ingénieur.e DevOps
-- **Location:** Courbevoie, Île-de-France, France
-- **Posted on:** 2026-06-01
-- [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-devops-at-experteam-4418755542?position=8&pageNum=0&refId=N%2Fc75ZG3k8m6nFUawEXL6w%3D%3D&trackingId=P06N61Nl47kIidjE9NfM0g%3D%3D)
-
-### GEC _ Global Experts Consulting
-- **Position:** Expert DevOps / Terraform (H/F)
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-06-01
-- [Apply here](https://fr.linkedin.com/jobs/view/expert-devops-terraform-h-f-at-gec-global-experts-consulting-4423206308?position=26&pageNum=0&refId=N%2Fc75ZG3k8m6nFUawEXL6w%3D%3D&trackingId=y8WbK8YGD2TaQxNWFi%2F7SA%3D%3D)
-
-### Sia
-- **Position:** DevOps / Platform Engineer
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-06-01
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-platform-engineer-at-sia-4421689460?position=44&pageNum=0&refId=N%2Fc75ZG3k8m6nFUawEXL6w%3D%3D&trackingId=bc6bJb4uHDV3gc3eny1qgw%3D%3D)
-
-### Tech Ladies®
-- **Position:** Site Reliability Engineer
-- **Location:** Mendrisio, Ticino, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/site-reliability-engineer-at-tech-ladies%C2%AE-4424008801?position=5&pageNum=0&refId=%2BKGTBKeLxnEdz3R13H54uw%3D%3D&trackingId=Q5z17%2BltaTa4LKcxkAQ4qA%3D%3D)
-
-### RED TIC
-- **Position:** INGENIEUR DEVOPS & CLOUD
-- **Location:** Geneva, Geneva, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/ingenieur-devops-cloud-at-red-tic-4421694934?position=55&pageNum=0&refId=%2BKGTBKeLxnEdz3R13H54uw%3D%3D&trackingId=1%2BEjYV14%2BZNhUqIE0HeGvg%3D%3D)
-
-### Visium
-- **Position:** DevOps (Azure, French Speaker)
-- **Location:** Lausanne, Vaud, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/devops-azure-french-speaker-at-visium-4418790268?position=36&pageNum=0&refId=0z9VPJl5m4UaGoHEJGwRFQ%3D%3D&trackingId=H1Nhf5GZkMr0UOUPC7scUQ%3D%3D)
-
-### ITech Consult AG
-- **Position:** DevOps Engineer
-- **Location:** Bern, Berne, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-at-itech-consult-ag-4422891426?position=44&pageNum=0&refId=0z9VPJl5m4UaGoHEJGwRFQ%3D%3D&trackingId=YXPu4bqaCs0mr16x5PgzYA%3D%3D)
-
-### Gunvor Group
-- **Position:** DevOps Engineer
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-at-gunvor-group-4419215055?position=35&pageNum=0&refId=HEGWpQwwAWhztdtQL4cryQ%3D%3D&trackingId=pr0psxRmIOi%2BtI9TW5i5ig%3D%3D)
-
-### PwC Portugal
-- **Position:** Azure DevOps Engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-06-01
-- [Apply here](https://pt.linkedin.com/jobs/view/azure-devops-engineer-at-pwc-portugal-4421836282?position=59&pageNum=0&refId=WJe1C6YxQsmfa8WXQiJ%2Ftg%3D%3D&trackingId=fr6enZnybEhMDsGexsV9bQ%3D%3D)
-
-### NTT DATA Europe & Latam
-- **Position:** Cloud Engineer (AWS/Azure/GCP)
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/cloud-engineer-aws-azure-gcp-at-ntt-data-europe-latam-4409915734?position=28&pageNum=0&refId=kiBkqoSho4rrtTtMbahp4A%3D%3D&trackingId=Jro%2Bz4rBG2t8xYrY3dnnKA%3D%3D)
-
-### SOTEC CONSULTING
-- **Position:** Cloud Engineer Azure
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/cloud-engineer-azure-at-sotec-consulting-4418748500?position=40&pageNum=0&refId=kiBkqoSho4rrtTtMbahp4A%3D%3D&trackingId=mZuPNl0Zq3OqeFEfn2pwkA%3D%3D)
-
-### Betsson Group
-- **Position:** Backend .NET Software Engineer
-- **Location:** Málaga, Andalusia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/backend-net-software-engineer-at-betsson-group-4421851971?position=40&pageNum=0&refId=YUWus5FIrPuHvZ3%2F4la8xw%3D%3D&trackingId=%2Fliq4QRGNBqH0i32eiWFFQ%3D%3D)
-
-### Lognext
-- **Position:** DevOps
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/devops-at-lognext-4418775657?position=12&pageNum=0&refId=GRCAbRbjVszzI415OPHCtw%3D%3D&trackingId=TfvhOGv52yFimJMgvOuxNg%3D%3D)
-
-### NTT DATA Europe & Latam
-- **Position:** DevOps Cloud Engineer (AWS/Azure)
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/devops-cloud-engineer-aws-azure-at-ntt-data-europe-latam-4409917767?position=45&pageNum=0&refId=GRCAbRbjVszzI415OPHCtw%3D%3D&trackingId=JjPpkPdrifUZDiddJyL9GQ%3D%3D)
-
-### Visium
-- **Position:** DevOps (Azure, French Speaker)
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/devops-azure-french-speaker-at-visium-4418782325?position=11&pageNum=0&refId=Jej%2BfJGHae4%2B0%2BlV2QvuUA%3D%3D&trackingId=jwT9Ua8gwRVJ0a0DsQApCQ%3D%3D)
-
-### Visium
-- **Position:** DevOps Engineer
-- **Location:** Lausanne, Vaud, Switzerland
-- **Posted on:** 2026-06-01
-- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-at-visium-4418790268?position=35&pageNum=0&refId=lgwFWM%2B3oAikxHqMkVfUQg%3D%3D&trackingId=y3zcQaEANV%2BFiTJknrUVNQ%3D%3D)
-
-### Visium
-- **Position:** DevOps Engineer
-- **Location:** Barcelona, Catalonia, Spain
-- **Posted on:** 2026-06-01
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-at-visium-4418782325?position=60&pageNum=0&refId=18cCrDnVYpj5RM31pQ7k9Q%3D%3D&trackingId=PxIFyduzEgT3CNsRq1MXog%3D%3D)
-
-### Digital Forms
-- **Position:** DevOps
-- **Location:** Poland
-- **Posted on:** 2026-06-01
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-at-digital-forms-4434048289?position=25&pageNum=0&refId=BMYA%2F1QuqXQ5clZilXIcnw%3D%3D&trackingId=LKcQhrvo%2F07%2Bt40egorz5Q%3D%3D)
-
-### Deloitte
-- **Position:** Architect of Platform Engineering – AI Supercompute Infrastructure | Cloud & Engineering
-- **Location:** Szczecin, Zachodniopomorskie, Poland
-- **Posted on:** 2026-05-31
-- [Apply here](https://pl.linkedin.com/jobs/view/architect-of-platform-engineering-%E2%80%93-ai-supercompute-infrastructure-cloud-engineering-at-deloitte-4392766372?position=7&pageNum=0&refId=0Ul6ctucI8L77zbIQLvuUA%3D%3D&trackingId=ieos5lU%2FtWU1ZuS9l%2BcGrA%3D%3D)
-
-### Deloitte
-- **Position:** Architect of Platform Engineering – AI Supercompute Infrastructure | Cloud & Engineering
-- **Location:** Łódź, Łódzkie, Poland
-- **Posted on:** 2026-05-31
-- [Apply here](https://pl.linkedin.com/jobs/view/architect-of-platform-engineering-%E2%80%93-ai-supercompute-infrastructure-cloud-engineering-at-deloitte-4392776141?position=51&pageNum=0&refId=0Ul6ctucI8L77zbIQLvuUA%3D%3D&trackingId=Cp4u84co64TpyviJ1C%2BS6w%3D%3D)
-
-### Deloitte
-- **Position:** Architect of Platform Engineering – AI Supercompute Infrastructure | Cloud & Engineering
-- **Location:** Katowice, Śląskie, Poland
-- **Posted on:** 2026-05-31
-- [Apply here](https://pl.linkedin.com/jobs/view/architect-of-platform-engineering-%E2%80%93-ai-supercompute-infrastructure-cloud-engineering-at-deloitte-4392776140?position=54&pageNum=0&refId=0Ul6ctucI8L77zbIQLvuUA%3D%3D&trackingId=VURRz143aIRovMCh3Jm9NA%3D%3D)
-
-### Undelucram.ro
-- **Position:** Cloud Infrastructure Engineer
-- **Location:** Cluj-Napoca, Cluj, Romania
-- **Posted on:** 2026-05-31
-- [Apply here](https://ro.linkedin.com/jobs/view/cloud-infrastructure-engineer-at-undelucram-ro-4422520982?position=38&pageNum=0&refId=MuW%2FaAOKhCsESSCKPF%2Fz5Q%3D%3D&trackingId=mRy0HFKxI6ytuVe65BbDow%3D%3D)
-
-### Abraxas Informatik AG
-- **Position:** DevOps Engineer - Cloud Platform 80–100 %
-- **Location:** Zürich-Flughafen, Zurich, Switzerland
-- **Posted on:** 2026-05-31
-- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-cloud-platform-80%E2%80%93100-%25-at-abraxas-informatik-ag-4421627989?position=31&pageNum=0&refId=%2BPEU7i4zZZRE1tq0g7DYfg%3D%3D&trackingId=tVdYTs9NGNzLHnfM1RidDw%3D%3D)
-
-### Accelerate Sverige
-- **Position:** Azure Cloud Engineer
-- **Location:** Linköping, Östergötland County, Sweden
-- **Posted on:** 2026-05-31
-- [Apply here](https://se.linkedin.com/jobs/view/azure-cloud-engineer-at-accelerate-sverige-4371525664?position=32&pageNum=0&refId=XQ7RO1JLFAdRQ7aojn6JCQ%3D%3D&trackingId=fSjaPH%2F65L%2B%2BYiq0pOZLPw%3D%3D)
-
-### Adentis Portugal
-- **Position:** DevOps - Porto/Lisboa
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-05-31
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-porto-lisboa-at-adentis-portugal-4422870853?position=7&pageNum=0&refId=xCLraA%2BzrQ4Bd5VxVBz3nQ%3D%3D&trackingId=dk5SCWP20MEHryHcquD%2Frw%3D%3D)
-
-### Inetum
-- **Position:** Devops Engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-05-31
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-inetum-4391771764?position=53&pageNum=0&refId=679HBdh3wV%2BmP5c2LAOdww%3D%3D&trackingId=obQkVVdEt1m3Jx6gISNlYA%3D%3D)
-
-### KCS iT
-- **Position:** Data platform engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-05-31
-- [Apply here](https://pt.linkedin.com/jobs/view/data-platform-engineer-at-kcs-it-4423250459?position=19&pageNum=0&refId=yvpseqogKhQZra8NUO3oxw%3D%3D&trackingId=aFK%2FWipiGmk8DvziX8ueTQ%3D%3D)
-
-### L'Usine Nouvelle
-- **Position:** Administrateur Linux / Devops (H/F)
-- **Location:** Rouen, Normandy, France
-- **Posted on:** 2026-05-31
-- [Apply here](https://fr.linkedin.com/jobs/view/administrateur-linux-devops-h-f-at-l-usine-nouvelle-4418701117?position=46&pageNum=0&refId=N%2Fc75ZG3k8m6nFUawEXL6w%3D%3D&trackingId=eDqG%2BiuHzoqjWUAeLAO0Og%3D%3D)
-
-### Undelucram.ro
-- **Position:** DevOps Engineer
-- **Location:** Cluj-Napoca, Cluj, Romania
-- **Posted on:** 2026-05-31
-- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-at-undelucram-ro-4422536089?position=22&pageNum=0&refId=QvkQwXv61CSAuokcSrCC0w%3D%3D&trackingId=PLku4Tszij8tBbvWHNmvMA%3D%3D)
-
-### GeekSoft Consulting
-- **Position:** DevOps Integration Engineer
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-05-31
-- [Apply here](https://se.linkedin.com/jobs/view/devops-integration-engineer-at-geeksoft-consulting-4422880426?position=22&pageNum=0&refId=p65%2FyRDsEsaOmZG8HLamMg%3D%3D&trackingId=culFvfbwk9UTmYIQIoCLvQ%3D%3D)
-
-### Vonage
-- **Position:** DevOps Engineer – Cloud Voice Platform
-- **Location:** Wrocław, Dolnośląskie, Poland
-- **Posted on:** 2026-05-31
-- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-%E2%80%93-cloud-voice-platform-at-vonage-4349710719?position=41&pageNum=0&refId=3Mbuxz9xO9AxlYzwuelDmg%3D%3D&trackingId=qRgcdkRPIOxrbdzHI8q65A%3D%3D)
-
-### Eiffage Énergie Systèmes
-- **Position:** Administrateur réseau de plateforme cloud  F/H
-- **Location:** Annecy, Auvergne-Rhône-Alpes, France
-- **Posted on:** 2026-05-31
-- [Apply here](https://fr.linkedin.com/jobs/view/administrateur-r%C3%A9seau-de-plateforme-cloud-f-h-at-eiffage-%C3%A9nergie-syst%C3%A8mes-4354220731?position=5&pageNum=0&refId=XV5%2BkKbrJZOcDLU3eHOR3w%3D%3D&trackingId=J5WUtUR%2Bz6t8ToKV0HQA6w%3D%3D)
-
-### Swisscom
-- **Position:** DevOps Engineer Open Source Collab Betrieb
-- **Location:** Bern, Berne, Switzerland
-- **Posted on:** 2026-05-31
-- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-open-source-collab-betrieb-at-swisscom-4403501067?position=6&pageNum=0&refId=zL2OjJS%2BAsOYVgRezlraWA%3D%3D&trackingId=dT%2FQriHWJVAiCxBUgFwlAQ%3D%3D)
-
-### Abraxas Informatik AG
-- **Position:** DevOps Engineer - Cloud Platform 80–100 %
-- **Location:** St Gallen, St Gallen, Switzerland
-- **Posted on:** 2026-05-31
-- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-cloud-platform-80%E2%80%93100-%25-at-abraxas-informatik-ag-4421637042?position=57&pageNum=0&refId=IKacwLppk3DoI%2BAr6TOMwA%3D%3D&trackingId=fpFCSV%2F4fsIHYxYGarzEuw%3D%3D)
-
-### Paligo
-- **Position:** Cloud Infrastructure Engineer III
-- **Location:** Solna, Stockholm County, Sweden
-- **Posted on:** 2026-05-31
-- [Apply here](https://se.linkedin.com/jobs/view/cloud-infrastructure-engineer-iii-at-paligo-4432645767?position=18&pageNum=0&refId=eGfoND4CD5tXpqfaHS2eoQ%3D%3D&trackingId=Ngnm4wkQRE3Rb2Fp39OrjA%3D%3D)
 
