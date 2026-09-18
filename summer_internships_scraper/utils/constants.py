@@ -27,7 +27,7 @@ HEADERS = {
 }
 
 ROLES = {
-    "Summer 2026",
+    "Summer 2027",
     "Platform",
     "Cloud",
     "DevOps",
