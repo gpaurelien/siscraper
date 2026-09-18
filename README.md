@@ -4,9 +4,9 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 2274 offers  
+Total: 2292 offers  
 - Internships: 1  
-- Full-time: 2273
+- Full-time: 2291
 
 ## Internships (1 offers)
 
@@ -17,7 +17,7 @@ Total: 2274 offers
 - [Apply here](https://se.linkedin.com/jobs/view/software-engineering-site-reliability-engineering-bs-ms-intern-2027-at-google-4461644958?position=23&pageNum=0&refId=0PWJv0HLCSk5UBuhAsPtOg%3D%3D&trackingId=7gL9%2FbqBZejW4KRHs%2Fcw7A%3D%3D)
 
 
-## Full-time positions (2273 offers)
+## Full-time positions (2291 offers)
 
 ### K-LAGAN
 - **Position:** Cloud Engineer
@@ -54,6 +54,78 @@ Total: 2274 offers
 - **Location:** Oslo, Oslo, Norway
 - **Posted on:** 2026-09-18
 - [Apply here](https://no.linkedin.com/jobs/view/oracle-cloud-infrastructure-platform-engineer-at-accenture-nordics-4467584189?position=8&pageNum=0&refId=%2Bz%2FrGo6svwaDcYpbNfdEww%3D%3D&trackingId=PudVYeByi9UUuzQjOngGxQ%3D%3D)
+
+### Capgemini
+- **Position:** Site Reliability Engineer
+- **Location:** Vila Nova de Gaia, Porto, Portugal
+- **Posted on:** 2026-09-18
+- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-capgemini-4469148001?position=25&pageNum=0&refId=RKcSSoW38m09JO9AZbVGHg%3D%3D&trackingId=8irTsdl9AgQbWaUlIjKFBA%3D%3D)
+
+### HAVI
+- **Position:** Cloud Architect
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2026-09-18
+- [Apply here](https://pt.linkedin.com/jobs/view/cloud-architect-at-havi-4469135811?position=16&pageNum=0&refId=lz3PM2QJvMQWFsU5TN%2FHAg%3D%3D&trackingId=VOeYKMhj%2BSxpHk6palZtGw%3D%3D)
+
+### Neotalent Conclusion
+- **Position:** DevOps Engineer
+- **Location:** Lisbon Metropolitan Area
+- **Posted on:** 2026-09-18
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-neotalent-conclusion-4469134907?position=33&pageNum=0&refId=vRb8e5BsE1%2F38idOrV1nuQ%3D%3D&trackingId=nuDNH8hThOlfHiDQSHTXSA%3D%3D)
+
+### Planck Technologies
+- **Position:** DevOps Engineer
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2026-09-18
+- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-planck-technologies-4466674726?position=58&pageNum=0&refId=vRb8e5BsE1%2F38idOrV1nuQ%3D%3D&trackingId=IieWJ1WPrtj67vw%2BTX4llA%3D%3D)
+
+### IGNIS
+- **Position:** Técnico Junior DevOps
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-09-18
+- [Apply here](https://es.linkedin.com/jobs/view/t%C3%A9cnico-junior-devops-at-ignis-4466902099?position=52&pageNum=0&refId=n9dYXyMM5OOk95UKU%2FhNkQ%3D%3D&trackingId=AvtG81DIVPFzQ1z5YXvM%2Fw%3D%3D)
+
+### Capitole
+- **Position:** Cloud & Systems Engineer
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-09-18
+- [Apply here](https://es.linkedin.com/jobs/view/cloud-systems-engineer-at-capitole-4466689507?position=53&pageNum=0&refId=n9dYXyMM5OOk95UKU%2FhNkQ%3D%3D&trackingId=6211goJoZ%2BHK0U4BTjj1fw%3D%3D)
+
+### IT Partner
+- **Position:** AWS Cloud Engineer – Terraform | Remoto España
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-09-18
+- [Apply here](https://es.linkedin.com/jobs/view/aws-cloud-engineer-%E2%80%93-terraform-remoto-espa%C3%B1a-at-it-partner-4467861318?position=34&pageNum=0&refId=2KIjCmKQf8BkWjzjzZVZkg%3D%3D&trackingId=aLgEya2g%2FG5pPLngvdG%2FGw%3D%3D)
+
+### Capitole
+- **Position:** Platform Engineer
+- **Location:** Madrid, Community of Madrid, Spain
+- **Posted on:** 2026-09-18
+- [Apply here](https://es.linkedin.com/jobs/view/platform-engineer-at-capitole-4466689580?position=50&pageNum=0&refId=2KIjCmKQf8BkWjzjzZVZkg%3D%3D&trackingId=JpUad74ciAnAYiZzx0HS3g%3D%3D)
+
+### Rocken®
+- **Position:** Cloud System Engineer - Azure (m/w/d)
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-09-18
+- [Apply here](https://ch.linkedin.com/jobs/view/cloud-system-engineer-azure-m-w-d-at-rocken%C2%AE-4467849727?position=14&pageNum=0&refId=39XH08bc4wuGVBilyEwB9Q%3D%3D&trackingId=7GeSv%2BejsXs4iI3vrU3VZQ%3D%3D)
+
+### ELCA Group
+- **Position:** Cloud Data Platform Expert - Azure/Databricks
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-09-18
+- [Apply here](https://ch.linkedin.com/jobs/view/cloud-data-platform-expert-azure-databricks-at-elca-group-4466668715?position=22&pageNum=0&refId=39XH08bc4wuGVBilyEwB9Q%3D%3D&trackingId=DAYqVueeJ%2B6xQveGAzEicQ%3D%3D)
+
+### AlpineAI
+- **Position:** DevOps Engineer – 80-100 %
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-09-18
+- [Apply here](https://ch.linkedin.com/jobs/view/devops-engineer-%E2%80%93-80-100%E2%80%AF%25-at-alpineai-4469158077?position=9&pageNum=0&refId=u89%2FX11LvPwhQLvY131RYg%3D%3D&trackingId=Oy7KLem6tU6iGX1v5Al%2BAQ%3D%3D)
+
+### SEB
+- **Position:** DevOps Engineer for Real-Time data processing Platforms | SEB, Stockholm
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-09-18
+- [Apply here](https://se.linkedin.com/jobs/view/devops-engineer-for-real-time-data-processing-platforms-seb-stockholm-at-seb-4469147294?position=13&pageNum=0&refId=JFG5Zmv6phKzxvZH5pcd2Q%3D%3D&trackingId=UNGdQoeHW8w7W0eByA9jlw%3D%3D)
 
 ### Aubay Portugal
 - **Position:** Openshift DevOps Engineer (French Speaker) - Porto
@@ -228,6 +300,24 @@ Total: 2274 offers
 - **Location:** Solna, Stockholm County, Sweden
 - **Posted on:** 2026-09-17
 - [Apply here](https://se.linkedin.com/jobs/view/data-platform-engineer-solna-at-postnord-sverige-4441227117?position=42&pageNum=0&refId=hVBSxJFrsyUGa%2F9IPsBY4w%3D%3D&trackingId=mRDF6hKrpeiXO7N7GMaAmw%3D%3D)
+
+### SHERPANY
+- **Position:** DevOps Engineer (Europe, remote) - Sherpany
+- **Location:** Kalisz Metropolitan Area
+- **Posted on:** 2026-09-17
+- [Apply here](https://pl.linkedin.com/jobs/view/devops-engineer-europe-remote-sherpany-at-sherpany-4411524139?position=19&pageNum=0&refId=p59%2F5OTZu0aT6uKKufyKDg%3D%3D&trackingId=LloU9p4%2FSbgQfPCaJgcX9Q%3D%3D)
+
+### Solita
+- **Position:** Cloud Engineer (AWS/Azure)
+- **Location:** Finland
+- **Posted on:** 2026-09-17
+- [Apply here](https://fi.linkedin.com/jobs/view/cloud-engineer-aws-azure-at-solita-4453450375?position=4&pageNum=0&refId=3rq3JJy6yO9%2FNbDeSpXbCg%3D%3D&trackingId=DfS48ku8XN2t4V6%2FsCP8wQ%3D%3D)
+
+### Solita
+- **Position:** Google Cloud Engineer
+- **Location:** Finland
+- **Posted on:** 2026-09-17
+- [Apply here](https://fi.linkedin.com/jobs/view/google-cloud-engineer-at-solita-4453453370?position=30&pageNum=0&refId=3rq3JJy6yO9%2FNbDeSpXbCg%3D%3D&trackingId=r3K49CqB2TJ9ZS0sqok0uQ%3D%3D)
 
 ### Adentis Portugal
 - **Position:** Cloud Infrastructure Engineer / Architect | Azure · AWS · Terraform
@@ -811,6 +901,12 @@ Total: 2274 offers
 - **Posted on:** 2026-09-11
 - [Apply here](https://se.linkedin.com/jobs/view/cloud-engineer-till-vimla-at-telenor-4439651014?position=19&pageNum=0&refId=Ua6p8Vt%2Fa2s2klg3HZUjuQ%3D%3D&trackingId=gjw4L3doeE4r1bkoLix6fw%3D%3D)
 
+### Bouvet ASA
+- **Position:** Vi søker Platform Engineer
+- **Location:** Kongsberg, Viken, Norway
+- **Posted on:** 2026-09-11
+- [Apply here](https://no.linkedin.com/jobs/view/vi-s%C3%B8ker-platform-engineer-at-bouvet-asa-4466393506?position=56&pageNum=0&refId=SvxOK1HTfPjU8cmkU%2FTQ4A%3D%3D&trackingId=UD4Vng46S051fJTesiFEeg%3D%3D)
+
 ### Intermedia Intelligent Communications
 - **Position:** Site Reliability Engineer
 - **Location:** Portugal
@@ -1002,6 +1098,18 @@ Total: 2274 offers
 - **Location:** Zurich, Zurich, Switzerland
 - **Posted on:** 2026-09-10
 - [Apply here](https://ch.linkedin.com/jobs/view/cloud-devops-software-engineer-%E2%80%93-kubernetes-golang-a-at-lhh-4455465264?position=60&pageNum=0&refId=y4vPnNrVaSjNvIH0gfBxyw%3D%3D&trackingId=dN3qK2lRcL%2FhCEZKm2W8HA%3D%3D)
+
+### Deutsche Telekom
+- **Position:** DevOps Engineer (m/w/d)
+- **Location:** Granada, Andalusia, Spain
+- **Posted on:** 2026-09-10
+- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-m-w-d-at-deutsche-telekom-4465875508?position=57&pageNum=0&refId=eSYirk2G8csgS%2BZ1rnXNmg%3D%3D&trackingId=jDioEOIXC2B9uXvcxpMd3Q%3D%3D)
+
+### Primion
+- **Position:** DevOps / Platform Engineer (m/f/d)
+- **Location:** Community of Madrid, Spain
+- **Posted on:** 2026-09-10
+- [Apply here](https://es.linkedin.com/jobs/view/devops-platform-engineer-m-f-d-at-primion-4444477574?position=60&pageNum=0&refId=eSYirk2G8csgS%2BZ1rnXNmg%3D%3D&trackingId=fCfcZGqs%2F3gz8pMT0Udaew%3D%3D)
 
 ### Air Apps
 - **Position:** DevOps Engineer Mobile
