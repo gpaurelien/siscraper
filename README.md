@@ -1,4 +1,4 @@
-# Summer 2026 opportunities
+# Summer 2027 opportunities
 
 This list gets updated daily.
 
