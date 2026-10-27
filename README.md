@@ -5,10 +5,22 @@ This list gets updated daily.
 Posted on refers to the date when the offer was posted on LinkedIn.
 
 Total: 750 offers  
-- Internships: 19  
-- Full-time: 731
+- Internships: 22  
+- Full-time: 728
 
-## Internships (19 offers)
+## Internships (22 offers)
+
+### Nitro Software
+- **Position:** Intern Software Engineer (Java / Scala) (Porto)
+- **Location:** Porto, Portugal
+- **Posted on:** 2026-10-22
+- [Apply here](https://pt.linkedin.com/jobs/view/intern-software-engineer-java-scala-porto-at-nitro-software-4482700459?position=3&pageNum=0&refId=aF9xVRUjjq%2BnLWkk5S98oA%3D%3D&trackingId=AHp1OWrKFeIytHiA7fE2ow%3D%3D)
+
+### Analog Devices
+- **Position:** Software QA Intern
+- **Location:** Valencia, Valencian Community, Spain
+- **Posted on:** 2026-10-22
+- [Apply here](https://es.linkedin.com/jobs/view/software-qa-intern-at-analog-devices-4480072135?position=6&pageNum=0&refId=1%2BGLK%2ByKnwjYTUXnRf0ieA%3D%3D&trackingId=YuLOD51MwLpuGy2NzReeGg%3D%3D)
 
 ### Autodesk
 - **Position:** Intern, Software QA Engineer - Fusion
@@ -118,6 +130,12 @@ Total: 750 offers
 - **Posted on:** 2026-10-01
 - [Apply here](https://ro.linkedin.com/jobs/view/software-engineer-intern-at-stripe-4461583375?position=43&pageNum=0&refId=GA36Igo4lHPrAkW6IJAOEA%3D%3D&trackingId=oENcdT6m2nkQ8n69UlnH4g%3D%3D)
 
+### BearingPoint
+- **Position:** Software Engineering Internship
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-09-28
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineering-internship-at-bearingpoint-4470862709?position=58&pageNum=0&refId=kscc9A4DPWAaYNjou4wyCA%3D%3D&trackingId=XGyWLB9uKU2byluOyvrarg%3D%3D)
+
 ### GMV
 - **Position:** Internship: Software engineer
 - **Location:** Lisbon, Lisbon, Portugal
@@ -125,7 +143,7 @@ Total: 750 offers
 - [Apply here](https://pt.linkedin.com/jobs/view/internship-software-engineer-at-gmv-4469179568?position=38&pageNum=0&refId=oY1RK8%2FRW3hdGdWe7ttG1Q%3D%3D&trackingId=ccML7GuJLhiZfbLGDCufkQ%3D%3D)
 
 
-## Full-time positions (731 offers)
+## Full-time positions (728 offers)
 
 ### Fyld
 - **Position:** Site Reliability Engineer
@@ -4494,22 +4512,4 @@ Total: 750 offers
 - **Location:** Braşov, Braşov, Romania
 - **Posted on:** 2026-08-29
 - [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-at-undelucram-ro-4459459075?position=36&pageNum=0&refId=EYQllxlPdYRfATC4a%2Bq39Q%3D%3D&trackingId=pMFScYkffy4Pi7%2BJN46Pyw%3D%3D)
-
-### Fyld
-- **Position:** Devops Engineer
-- **Location:** Lisbon Metropolitan Area
-- **Posted on:** 2026-08-28
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-fyld-4458913686?position=18&pageNum=0&refId=CcS5kyWlNF6LzhcNpQC8kA%3D%3D&trackingId=0d3guKls1XirQ9SD%2BmfutA%3D%3D)
-
-### Sopra Steria
-- **Position:** Cloud Engineer
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-08-28
-- [Apply here](https://se.linkedin.com/jobs/view/cloud-engineer-at-sopra-steria-4457088887?position=5&pageNum=0&refId=ks80OiorsA9TYZ5LfKYcvg%3D%3D&trackingId=v27CARM96qmKJk6j2gc3tg%3D%3D)
-
-### Sensor Tower
-- **Position:** Platform Engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-08-28
-- [Apply here](https://pt.linkedin.com/jobs/view/platform-engineer-at-sensor-tower-4458426210?position=59&pageNum=0&refId=sXMuxn%2B5mNAeOCgj2qFxaA%3D%3D&trackingId=Y276NYAjCNIrHBQNbss8uA%3D%3D)
 

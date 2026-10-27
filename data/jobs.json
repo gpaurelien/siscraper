@@ -289,16 +289,6 @@
     "description": null,
     "first_seen": "2026-10-23T14:09:30.999652"
   },
-  "fd9fce8e6b6a0190589fac6307d577bb": {
-    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-fyld-4458913686?position=18&pageNum=0&refId=CcS5kyWlNF6LzhcNpQC8kA%3D%3D&trackingId=0d3guKls1XirQ9SD%2BmfutA%3D%3D",
-    "full_time": true,
-    "title": "Devops Engineer",
-    "company_name": "Fyld",
-    "location": "Lisbon Metropolitan Area",
-    "posted_date": "2026-08-28",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:30.999655"
-  },
   "bde0a08b60a7154570c0395479d71c15": {
     "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-axians-portugal-4480401656?position=20&pageNum=0&refId=CcS5kyWlNF6LzhcNpQC8kA%3D%3D&trackingId=fSlhxlKX8GjjzWmZ0cxrCw%3D%3D",
     "full_time": true,
@@ -6199,16 +6189,6 @@
     "description": null,
     "first_seen": "2026-10-23T14:09:31.116101"
   },
-  "9dc005185a9a55b07eb72e90b716c747": {
-    "url": "https://se.linkedin.com/jobs/view/cloud-engineer-at-sopra-steria-4457088887?position=5&pageNum=0&refId=ks80OiorsA9TYZ5LfKYcvg%3D%3D&trackingId=v27CARM96qmKJk6j2gc3tg%3D%3D",
-    "full_time": true,
-    "title": "Cloud Engineer",
-    "company_name": "Sopra Steria",
-    "location": "Stockholm, Stockholm County, Sweden",
-    "posted_date": "2026-08-28",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:31.116105"
-  },
   "219f21b041abf3e6ca7277572cc37569": {
     "url": "https://se.linkedin.com/jobs/view/cloud-infrastructure-architect-aws-till-f%C3%B6rsvarsindustrin-at-capgemini-4479885441?position=14&pageNum=0&refId=ks80OiorsA9TYZ5LfKYcvg%3D%3D&trackingId=wQfdZJf09O8khwiJ7lDCGQ%3D%3D",
     "full_time": true,
@@ -6959,16 +6939,6 @@
     "description": null,
     "first_seen": "2026-10-26T15:57:54.178450"
   },
-  "119a1562d2db634695b400ed3ca2724b": {
-    "url": "https://pt.linkedin.com/jobs/view/platform-engineer-at-sensor-tower-4458426210?position=59&pageNum=0&refId=sXMuxn%2B5mNAeOCgj2qFxaA%3D%3D&trackingId=Y276NYAjCNIrHBQNbss8uA%3D%3D",
-    "full_time": true,
-    "title": "Platform Engineer",
-    "company_name": "Sensor Tower",
-    "location": "Lisboa, Lisbon, Portugal",
-    "posted_date": "2026-08-28",
-    "description": null,
-    "first_seen": "2026-10-26T15:57:54.182298"
-  },
   "7ec482734ea5d202cf3a7bc5665b369e": {
     "url": "https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-fyld-4482993401?position=33&pageNum=0&refId=SMx7E7QAcxPMh6wYwJDbgQ%3D%3D&trackingId=uX5VfVIiohMkZ02xMmdigw%3D%3D",
     "full_time": true,
@@ -7498,5 +7468,35 @@
     "posted_date": "2026-10-14",
     "description": null,
     "first_seen": "2026-10-26T15:57:54.384843"
+  },
+  "9ef8f18178068e00b7c521d99a1b10c5": {
+    "url": "https://pt.linkedin.com/jobs/view/intern-software-engineer-java-scala-porto-at-nitro-software-4482700459?position=3&pageNum=0&refId=aF9xVRUjjq%2BnLWkk5S98oA%3D%3D&trackingId=AHp1OWrKFeIytHiA7fE2ow%3D%3D",
+    "full_time": false,
+    "title": "Intern Software Engineer (Java / Scala) (Porto)",
+    "company_name": "Nitro Software",
+    "location": "Porto, Portugal",
+    "posted_date": "2026-10-22",
+    "description": null,
+    "first_seen": "2026-10-27T15:39:07.535775"
+  },
+  "63aefa9d165ff8757b27c1290339000d": {
+    "url": "https://es.linkedin.com/jobs/view/software-qa-intern-at-analog-devices-4480072135?position=6&pageNum=0&refId=1%2BGLK%2ByKnwjYTUXnRf0ieA%3D%3D&trackingId=YuLOD51MwLpuGy2NzReeGg%3D%3D",
+    "full_time": false,
+    "title": "Software QA Intern",
+    "company_name": "Analog Devices",
+    "location": "Valencia, Valencian Community, Spain",
+    "posted_date": "2026-10-22",
+    "description": null,
+    "first_seen": "2026-10-27T15:39:07.539552"
+  },
+  "837aab11b205c4ead0ac22643fdaca40": {
+    "url": "https://ro.linkedin.com/jobs/view/software-engineering-internship-at-bearingpoint-4470862709?position=58&pageNum=0&refId=kscc9A4DPWAaYNjou4wyCA%3D%3D&trackingId=XGyWLB9uKU2byluOyvrarg%3D%3D",
+    "full_time": false,
+    "title": "Software Engineering Internship",
+    "company_name": "BearingPoint",
+    "location": "Bucharest, Bucharest, Romania",
+    "posted_date": "2026-09-28",
+    "description": null,
+    "first_seen": "2026-10-27T15:39:07.549806"
   }
 }
