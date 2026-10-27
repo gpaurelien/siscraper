@@ -27,10 +27,5 @@ HEADERS = {
 }
 
 ROLES = {
-    "Summer 2027",
-    "Platform",
-    "Cloud",
-    "DevOps",
-    "Infrastructure",
-    "Site Reliability",
+    "Intern",
 }

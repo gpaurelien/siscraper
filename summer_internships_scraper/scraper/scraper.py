@@ -131,7 +131,7 @@ class LinkedInScraper:
             full_time=full_time,
         )
 
-    def _filter_cards(self, card: Tag, full_time) -> bool:
+    def _filter_cards(self, card: Tag, full_time: bool) -> bool:
         title = card.find("h3", class_="base-search-card__title")
         if not title:
             return False
@@ -179,6 +179,7 @@ class LinkedInScraper:
 
         included_keywords = {
             "backend",
+            "software",
             "cloud",
             "devops",
             "platform engineer",

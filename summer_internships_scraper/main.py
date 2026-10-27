@@ -26,7 +26,7 @@ async def main():
                         location=(geo_id, location),
                         keywords=role,
                         session=session,
-                        full_time=False if role == "Summer 2026" else True,
+                        full_time=False if role == "Intern" else True,
                     )
                 )
 
