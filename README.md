@@ -4,17 +4,29 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 760 offers  
-- Internships: 32  
-- Full-time: 728
+Total: 763 offers  
+- Internships: 36  
+- Full-time: 727
 
-## Internships (32 offers)
+## Internships (36 offers)
 
 ### IMC Trading
 - **Position:** Software Engineer Intern
 - **Location:** Amsterdam, North Holland, Netherlands
 - **Posted on:** 2026-10-27
 - [Apply here](https://nl.linkedin.com/jobs/view/software-engineer-intern-at-imc-trading-4447181204?position=15&pageNum=0&refId=BXLwpbxXmBZhr0FVNKZuRw%3D%3D&trackingId=WS88o94In9%2BRGFmJkvRHeQ%3D%3D)
+
+### Autodesk
+- **Position:** Intern, Software QA Engineer
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2026-10-27
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-software-qa-engineer-at-autodesk-4483672410?position=18&pageNum=0&refId=HDWtZJH2LvjBuj14%2BFlrZQ%3D%3D&trackingId=%2F0DI0Gqr50SU%2FcVFO483wA%3D%3D)
+
+### Snowflake
+- **Position:** Software Engineer Intern AI/ML - Warsaw (2027)
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-10-27
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-intern-ai-ml-warsaw-2027-at-snowflake-4484217682?position=31&pageNum=0&refId=HDWtZJH2LvjBuj14%2BFlrZQ%3D%3D&trackingId=y4DTKansZG4mHTinvoBkHg%3D%3D)
 
 ### Databricks
 - **Position:** Software Engineering Intern (2027 Start) - Amsterdam
@@ -64,6 +76,12 @@ Total: 760 offers
 - **Posted on:** 2026-10-19
 - [Apply here](https://ro.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4480252288?position=11&pageNum=0&refId=GA36Igo4lHPrAkW6IJAOEA%3D%3D&trackingId=PHeBlEgduGR1lLwKJiojwA%3D%3D)
 
+### Adobe
+- **Position:** 2027 Intern- Software Engineer
+- **Location:** Basel, Basel, Switzerland
+- **Posted on:** 2026-10-19
+- [Apply here](https://ch.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4480249428?position=60&pageNum=0&refId=W9e55gFn%2BFgwx6z5Rn1Oyw%3D%3D&trackingId=h%2BeCDHkoZAXpA3yg%2BFznEw%3D%3D)
+
 ### Arm
 - **Position:** Software Engineering Intern – Workflow Monitoring and Analytics
 - **Location:** Sophia Antipolis, Provence-Alpes-Côte d'Azur, France
@@ -75,6 +93,12 @@ Total: 760 offers
 - **Location:** Sophia Antipolis, Provence-Alpes-Côte d'Azur, France
 - **Posted on:** 2026-10-16
 - [Apply here](https://fr.linkedin.com/jobs/view/intern-software-developer-at-symphony-4462887619?position=39&pageNum=0&refId=rP9mci1HTPVSp05xADa%2BmQ%3D%3D&trackingId=PZIQnJTUqz5NSPWeI%2B24Kw%3D%3D)
+
+### Septentrio
+- **Position:** Internship | Embedded Software Ecosystems Integrator | Leuven
+- **Location:** Leuven, Flemish Region, Belgium
+- **Posted on:** 2026-10-16
+- [Apply here](https://be.linkedin.com/jobs/view/internship-embedded-software-ecosystems-integrator-leuven-at-septentrio-4479625466?position=60&pageNum=0&refId=THoAPEOCzIYcxgQDdvLbnQ%3D%3D&trackingId=lO957K9fQqv36gW9ow86BQ%3D%3D)
 
 ### Texas Instruments Europe
 - **Position:** Software Engineering Intern - Infrastructure and Test
@@ -203,7 +227,7 @@ Total: 760 offers
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4469179320?position=1&pageNum=0&refId=r%2Fm5lmTA65KpCHsQVcb8hA%3D%3D&trackingId=Mp1wPUWJatYse%2Be6PZEnYQ%3D%3D)
 
 
-## Full-time positions (728 offers)
+## Full-time positions (727 offers)
 
 ### Fyld
 - **Position:** Site Reliability Engineer
@@ -4566,10 +4590,4 @@ Total: 760 offers
 - **Location:** Lisboa, Lisbon, Portugal
 - **Posted on:** 2026-08-30
 - [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-kcs-it-4460040979?position=34&pageNum=0&refId=EcMWtSHxR%2BMyzWQnvlNzUA%3D%3D&trackingId=VoOz64Gx1B1b07TDMpu0AA%3D%3D)
-
-### Undelucram.ro
-- **Position:** DevOps Engineer
-- **Location:** Braşov, Braşov, Romania
-- **Posted on:** 2026-08-29
-- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-at-undelucram-ro-4459459075?position=36&pageNum=0&refId=EYQllxlPdYRfATC4a%2Bq39Q%3D%3D&trackingId=pMFScYkffy4Pi7%2BJN46Pyw%3D%3D)
 

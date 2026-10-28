@@ -3809,16 +3809,6 @@
     "description": null,
     "first_seen": "2026-10-23T14:09:31.036312"
   },
-  "51b5b1dc18ef63ad450cb26905c23e39": {
-    "url": "https://ro.linkedin.com/jobs/view/devops-engineer-at-undelucram-ro-4459459075?position=36&pageNum=0&refId=EYQllxlPdYRfATC4a%2Bq39Q%3D%3D&trackingId=pMFScYkffy4Pi7%2BJN46Pyw%3D%3D",
-    "full_time": true,
-    "title": "DevOps Engineer",
-    "company_name": "Undelucram.ro",
-    "location": "Bra\u015fov, Bra\u015fov, Romania",
-    "posted_date": "2026-08-29",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:31.036315"
-  },
   "e2ca3540156d92648b6e3408f378b121": {
     "url": "https://ro.linkedin.com/jobs/view/devops-engineer-cluj-napoca-bucuresti-at-banca-transilvania-4482843777?position=39&pageNum=0&refId=EYQllxlPdYRfATC4a%2Bq39Q%3D%3D&trackingId=ahOncO0oH9Brg0ZridDPlA%3D%3D",
     "full_time": true,
@@ -7598,5 +7588,45 @@
     "posted_date": "2026-10-13",
     "description": null,
     "first_seen": "2026-10-27T16:17:32.085653"
+  },
+  "80b06c0f96181aeb823df881f8750180": {
+    "url": "https://pl.linkedin.com/jobs/view/intern-software-qa-engineer-at-autodesk-4483672410?position=18&pageNum=0&refId=HDWtZJH2LvjBuj14%2BFlrZQ%3D%3D&trackingId=%2F0DI0Gqr50SU%2FcVFO483wA%3D%3D",
+    "full_time": false,
+    "title": "Intern, Software QA Engineer",
+    "company_name": "Autodesk",
+    "location": "Cracow, Ma\u0142opolskie, Poland",
+    "posted_date": "2026-10-27",
+    "description": null,
+    "first_seen": "2026-10-28T15:43:18.215914"
+  },
+  "a71901d9597ec0ec05920c5d38f5d48e": {
+    "url": "https://pl.linkedin.com/jobs/view/software-engineer-intern-ai-ml-warsaw-2027-at-snowflake-4484217682?position=31&pageNum=0&refId=HDWtZJH2LvjBuj14%2BFlrZQ%3D%3D&trackingId=y4DTKansZG4mHTinvoBkHg%3D%3D",
+    "full_time": false,
+    "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
+    "company_name": "Snowflake",
+    "location": "Warsaw, Mazowieckie, Poland",
+    "posted_date": "2026-10-27",
+    "description": null,
+    "first_seen": "2026-10-28T15:43:18.215930"
+  },
+  "08850164fa9c381fa30703dbbe5131fb": {
+    "url": "https://ch.linkedin.com/jobs/view/2027-intern-software-engineer-at-adobe-4480249428?position=60&pageNum=0&refId=W9e55gFn%2BFgwx6z5Rn1Oyw%3D%3D&trackingId=h%2BeCDHkoZAXpA3yg%2BFznEw%3D%3D",
+    "full_time": false,
+    "title": "2027 Intern- Software Engineer",
+    "company_name": "Adobe",
+    "location": "Basel, Basel, Switzerland",
+    "posted_date": "2026-10-19",
+    "description": null,
+    "first_seen": "2026-10-28T15:43:18.222521"
+  },
+  "a149c02cf806dc0ca181666e58d1af02": {
+    "url": "https://be.linkedin.com/jobs/view/internship-embedded-software-ecosystems-integrator-leuven-at-septentrio-4479625466?position=60&pageNum=0&refId=THoAPEOCzIYcxgQDdvLbnQ%3D%3D&trackingId=lO957K9fQqv36gW9ow86BQ%3D%3D",
+    "full_time": false,
+    "title": "Internship | Embedded Software Ecosystems Integrator | Leuven",
+    "company_name": "Septentrio",
+    "location": "Leuven, Flemish Region, Belgium",
+    "posted_date": "2026-10-16",
+    "description": null,
+    "first_seen": "2026-10-28T15:43:18.239011"
   }
 }
