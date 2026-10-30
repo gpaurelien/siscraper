@@ -4,11 +4,29 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 763 offers  
-- Internships: 36  
-- Full-time: 727
+Total: 764 offers  
+- Internships: 39  
+- Full-time: 725
 
-## Internships (36 offers)
+## Internships (39 offers)
+
+### a1qa
+- **Position:** Software QA Engineer Intern (AI-Powered)
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2026-10-30
+- [Apply here](https://pl.linkedin.com/jobs/view/software-qa-engineer-intern-ai-powered-at-a1qa-4483434989?position=26&pageNum=0&refId=Ju1vTxO82UWVwDHGLfgjdg%3D%3D&trackingId=Zy3CgxXbuu5YXP1KRUgBsg%3D%3D)
+
+### Nasdaq
+- **Position:** Software Developer Intern - Summer 2027
+- **Location:** Umeå, Västerbotten County, Sweden
+- **Posted on:** 2026-10-28
+- [Apply here](https://se.linkedin.com/jobs/view/software-developer-intern-summer-2027-at-nasdaq-4484703371?position=7&pageNum=0&refId=%2FqR50AJPPGTbDxXIOhbbqQ%3D%3D&trackingId=5LYOmEFvoExGEYQV2Qg6Gg%3D%3D)
+
+### Arm
+- **Position:** ML Software Engineering Intern
+- **Location:** Lund, Skåne County, Sweden
+- **Posted on:** 2026-10-28
+- [Apply here](https://se.linkedin.com/jobs/view/ml-software-engineering-intern-at-arm-4484119249?position=45&pageNum=0&refId=%2FqR50AJPPGTbDxXIOhbbqQ%3D%3D&trackingId=QHrl3ukc4sDxvsvwJ5W5Iw%3D%3D)
 
 ### IMC Trading
 - **Position:** Software Engineer Intern
@@ -227,7 +245,7 @@ Total: 763 offers
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4469179320?position=1&pageNum=0&refId=r%2Fm5lmTA65KpCHsQVcb8hA%3D%3D&trackingId=Mp1wPUWJatYse%2Be6PZEnYQ%3D%3D)
 
 
-## Full-time positions (727 offers)
+## Full-time positions (725 offers)
 
 ### Fyld
 - **Position:** Site Reliability Engineer
@@ -4578,16 +4596,4 @@ Total: 763 offers
 - **Location:** Stockholm, Stockholm County, Sweden
 - **Posted on:** 2026-09-01
 - [Apply here](https://se.linkedin.com/jobs/view/infrastructure-engineer-openshift-container-platform-ocp-at-avanza-bank-4461734837?position=5&pageNum=0&refId=DX%2BXFRiV5ijXDb%2FRpIuKWw%3D%3D&trackingId=sHyq7tHsj4EHtqyqvvMebw%3D%3D)
-
-### Wyll
-- **Position:** Ingénieur Cloud (Confirmé à Expert) - Multi-Cloud (AWS, GCP, Azure, Scaleway) - Aix-en-Provence
-- **Location:** Aix-en-Provence, Provence-Alpes-Côte d'Azur, France
-- **Posted on:** 2026-08-31
-- [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-cloud-confirm%C3%A9-%C3%A0-expert-multi-cloud-aws-gcp-azure-scaleway-aix-en-provence-at-wyll-4459769886?position=45&pageNum=0&refId=BcPoudfFG1YvD4r93y4H%2Bw%3D%3D&trackingId=XPLms%2FxP4erDBEjMSL%2ByLg%3D%3D)
-
-### KCS iT
-- **Position:** DevOps Engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-08-30
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-kcs-it-4460040979?position=34&pageNum=0&refId=EcMWtSHxR%2BMyzWQnvlNzUA%3D%3D&trackingId=VoOz64Gx1B1b07TDMpu0AA%3D%3D)
 
