@@ -4,17 +4,29 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 764 offers  
-- Internships: 39  
-- Full-time: 725
+Total: 758 offers  
+- Internships: 44  
+- Full-time: 714
 
-## Internships (39 offers)
+## Internships (44 offers)
+
+### delaware BeLux
+- **Position:** Internship SAP Public Cloud & AI
+- **Location:** Ghent, Flemish Region, Belgium
+- **Posted on:** 2026-11-02
+- [Apply here](https://be.linkedin.com/jobs/view/internship-sap-public-cloud-ai-at-delaware-belux-4486138479?position=37&pageNum=0&refId=KnyfncSGINsjpCTzEGxLMA%3D%3D&trackingId=iVM9euee7sjZ3Q9nHf9PAw%3D%3D)
 
 ### a1qa
 - **Position:** Software QA Engineer Intern (AI-Powered)
 - **Location:** Warsaw, Mazowieckie, Poland
 - **Posted on:** 2026-10-30
 - [Apply here](https://pl.linkedin.com/jobs/view/software-qa-engineer-intern-ai-powered-at-a1qa-4483434989?position=26&pageNum=0&refId=Ju1vTxO82UWVwDHGLfgjdg%3D%3D&trackingId=Zy3CgxXbuu5YXP1KRUgBsg%3D%3D)
+
+### Honeywell Technologies
+- **Position:** Intern Bachelors - Software Engineering (QA Automation) (1-year full-time contract)
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-10-30
+- [Apply here](https://ro.linkedin.com/jobs/view/intern-bachelors-software-engineering-qa-automation-1-year-full-time-contract-at-honeywell-technologies-4485369127?position=46&pageNum=0&refId=tbvkXPFOHp%2F1p%2FLdxliX9g%3D%3D&trackingId=%2BCiooP7qXZ7ulFWaLIx5Cg%3D%3D)
 
 ### Nasdaq
 - **Position:** Software Developer Intern - Summer 2027
@@ -69,6 +81,12 @@ Total: 764 offers
 - **Location:** Amsterdam, North Holland, Netherlands
 - **Posted on:** 2026-10-22
 - [Apply here](https://nl.linkedin.com/jobs/view/software-engineer-internship-2027-start-at-optiver-4452261514?position=14&pageNum=0&refId=BXLwpbxXmBZhr0FVNKZuRw%3D%3D&trackingId=OKfOiKzUcLzcaO%2Fv0ghoFg%3D%3D)
+
+### Honeywell Aerospace
+- **Position:** Intern Systems Engineer – Black Boxes - m/f/d
+- **Location:** Brno Metropolitan Area
+- **Posted on:** 2026-10-22
+- [Apply here](https://cz.linkedin.com/jobs/view/intern-systems-engineer-%E2%80%93-black-boxes-m-f-d-at-honeywell-aerospace-4482741259?position=17&pageNum=0&refId=hDj9cv%2B2J6PatBwlLg%2FIkg%3D%3D&trackingId=TsxVk7m1GLf9xq%2F7yVQLtw%3D%3D)
 
 ### Autodesk
 - **Position:** Intern, Software QA Engineer - Fusion
@@ -214,6 +232,12 @@ Total: 764 offers
 - **Posted on:** 2026-10-06
 - [Apply here](https://ro.linkedin.com/jobs/view/software-engineering-bs-ms-intern-2027-at-google-4460490973?position=57&pageNum=0&refId=GA36Igo4lHPrAkW6IJAOEA%3D%3D&trackingId=5xCj%2BHDcS3MqL8DJdQlhNQ%3D%3D)
 
+### Laelaps AI
+- **Position:** Software Engineer, Robot Autonomy (Actuator Control & Locomotion), Intern
+- **Location:** Zurich, Zurich, Switzerland
+- **Posted on:** 2026-10-05
+- [Apply here](https://ch.linkedin.com/jobs/view/software-engineer-robot-autonomy-actuator-control-locomotion-intern-at-laelaps-ai-4475872197?position=58&pageNum=0&refId=FECi9I0J9And7IOn0H78RQ%3D%3D&trackingId=icBYO9SrKxqxeqw1icTkQw%3D%3D)
+
 ### BCG X
 - **Position:** Forward Deployed AI Software Engineer, Internship, Finland - BCG X
 - **Location:** Helsinki, Uusimaa, Finland
@@ -225,6 +249,12 @@ Total: 764 offers
 - **Location:** Bucharest, Bucharest, Romania
 - **Posted on:** 2026-10-01
 - [Apply here](https://ro.linkedin.com/jobs/view/software-engineer-intern-at-stripe-4461583375?position=43&pageNum=0&refId=GA36Igo4lHPrAkW6IJAOEA%3D%3D&trackingId=oENcdT6m2nkQ8n69UlnH4g%3D%3D)
+
+### BuiltbyGSV
+- **Position:** Software Engineer Intern
+- **Location:** Sector 6, Bucharest, Romania
+- **Posted on:** 2026-10-01
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineer-intern-at-builtbygsv-4472820143?position=30&pageNum=0&refId=tbvkXPFOHp%2F1p%2FLdxliX9g%3D%3D&trackingId=o1i8WTlhNxTSpnt5Wtm3DQ%3D%3D)
 
 ### BearingPoint
 - **Position:** Software Engineering Internship
@@ -245,7 +275,7 @@ Total: 764 offers
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4469179320?position=1&pageNum=0&refId=r%2Fm5lmTA65KpCHsQVcb8hA%3D%3D&trackingId=Mp1wPUWJatYse%2Be6PZEnYQ%3D%3D)
 
 
-## Full-time positions (725 offers)
+## Full-time positions (714 offers)
 
 ### Fyld
 - **Position:** Site Reliability Engineer
@@ -4530,70 +4560,4 @@ Total: 764 offers
 - **Location:** Boulogne-Billancourt, Île-de-France, France
 - **Posted on:** 2026-09-04
 - [Apply here](https://fr.linkedin.com/jobs/view/devops-at-hilti-group-4461185006?position=48&pageNum=0&refId=fvruD2drLs5StR7uf%2FW25Q%3D%3D&trackingId=TWMyTtUxXurizgfbpxldKw%3D%3D)
-
-### EPAM Systems
-- **Position:** Site Reliability Engineer
-- **Location:** Lisbon, Lisbon, Portugal
-- **Posted on:** 2026-09-03
-- [Apply here](https://pt.linkedin.com/jobs/view/site-reliability-engineer-at-epam-systems-4461913605?position=34&pageNum=0&refId=blCNiQgv88Twmb87NmBcSQ%3D%3D&trackingId=8bUzrCkQQzKbsItXOR%2BGGA%3D%3D)
-
-### EPAM Systems
-- **Position:** Site Reliability Engineer
-- **Location:** Poland
-- **Posted on:** 2026-09-03
-- [Apply here](https://pl.linkedin.com/jobs/view/site-reliability-engineer-at-epam-systems-4461904836?position=42&pageNum=0&refId=jMEbxJ7NRiroo%2B6SHJ8LiA%3D%3D&trackingId=F7Ypg4bmigR0vLQ4jolLhQ%3D%3D)
-
-### Infotel
-- **Position:** DevOps - Expert Cloud H/F
-- **Location:** Maritime Alps, Provence-Alpes-Côte d'Azur, France
-- **Posted on:** 2026-09-03
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-expert-cloud-h-f-at-infotel-4450343111?position=40&pageNum=0&refId=SuTBr04gkog1KC6QBq2EeA%3D%3D&trackingId=W5L0gHBbnZWbvQwXdl7HHQ%3D%3D)
-
-### Capgemini
-- **Position:** Junior Cloud Platform Engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-09-02
-- [Apply here](https://pt.linkedin.com/jobs/view/junior-cloud-platform-engineer-at-capgemini-4459876126?position=11&pageNum=0&refId=EcMWtSHxR%2BMyzWQnvlNzUA%3D%3D&trackingId=crxS9S7lYGeRG%2BL1FUe%2FBA%3D%3D)
-
-### DIGWAY
-- **Position:** Ingénieur DevOps OpenShift / Kubernetes (H/F)
-- **Location:** Biot, Provence-Alpes-Côte d'Azur, France
-- **Posted on:** 2026-09-02
-- [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-devops-openshift-kubernetes-h-f-at-digway-4461328668?position=42&pageNum=0&refId=SuTBr04gkog1KC6QBq2EeA%3D%3D&trackingId=vTMdNFpd9yhil%2FdFHvUztw%3D%3D)
-
-### Nelnet
-- **Position:** DevOps Engineer - Release/Environment Management (Remote Bucharest)
-- **Location:** Bucharest Metropolitan Area
-- **Posted on:** 2026-09-01
-- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer-release-environment-management-remote-bucharest-at-nelnet-4460094934?position=5&pageNum=0&refId=EYQllxlPdYRfATC4a%2Bq39Q%3D%3D&trackingId=i5RwYHMYsohJygx9riCA8Q%3D%3D)
-
-### ING Hubs Romania
-- **Position:** Devops Engineer@ ING Hubs Romania
-- **Location:** Bucharest, Bucharest, Romania
-- **Posted on:** 2026-09-01
-- [Apply here](https://ro.linkedin.com/jobs/view/devops-engineer%40-ing-hubs-romania-at-ing-hubs-romania-4456639058?position=31&pageNum=0&refId=EYQllxlPdYRfATC4a%2Bq39Q%3D%3D&trackingId=suFX6%2FIetq68fnjjqc6D1A%3D%3D)
-
-### Sopra Steria
-- **Position:** Cloud Native Engineer
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-09-01
-- [Apply here](https://no.linkedin.com/jobs/view/cloud-native-engineer-at-sopra-steria-4461765341?position=11&pageNum=0&refId=CYAsnfkapGKjSm8eI8cv2Q%3D%3D&trackingId=4tFM%2FZ5s7t842rtTtWBr3g%3D%3D)
-
-### Sopra Steria
-- **Position:** Platform Engineer
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-09-01
-- [Apply here](https://no.linkedin.com/jobs/view/platform-engineer-at-sopra-steria-4461760451?position=20&pageNum=0&refId=b%2BrNuvSE5XLxey9tZR%2FTfw%3D%3D&trackingId=MW9WPpLllo8fJxIIECqnbA%3D%3D)
-
-### BearingPoint
-- **Position:** Azure Data Platform Engineer
-- **Location:** Oslo, Oslo, Norway
-- **Posted on:** 2026-09-01
-- [Apply here](https://no.linkedin.com/jobs/view/azure-data-platform-engineer%E2%80%AF-at-bearingpoint-4460243419?position=43&pageNum=0&refId=9%2Fj6OpFRQNpI0J8rkIXgcQ%3D%3D&trackingId=i2MNxMVvCsYtEEq5iVVjUw%3D%3D)
-
-### Avanza Bank
-- **Position:** Infrastructure Engineer - OpenShift Container Platform (OCP)
-- **Location:** Stockholm, Stockholm County, Sweden
-- **Posted on:** 2026-09-01
-- [Apply here](https://se.linkedin.com/jobs/view/infrastructure-engineer-openshift-container-platform-ocp-at-avanza-bank-4461734837?position=5&pageNum=0&refId=DX%2BXFRiV5ijXDb%2FRpIuKWw%3D%3D&trackingId=sHyq7tHsj4EHtqyqvvMebw%3D%3D)
 
