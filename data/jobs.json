@@ -459,16 +459,6 @@
     "description": null,
     "first_seen": "2026-10-23T14:09:30.999711"
   },
-  "b0fff763c3e0772c0cfd31b57f359c80": {
-    "url": "https://pt.linkedin.com/jobs/view/devops-engineer-at-team-it-4117959731?position=51&pageNum=0&refId=CcS5kyWlNF6LzhcNpQC8kA%3D%3D&trackingId=HJ8BXjREQrb0%2BrTG%2BqCKug%3D%3D",
-    "full_time": true,
-    "title": "DevOps Engineer",
-    "company_name": "team.it",
-    "location": "Lisbon Metropolitan Area",
-    "posted_date": "2026-09-04",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:30.999718"
-  },
   "60af3121ba79f115b5e239b9f6ab8c3a": {
     "url": "https://pt.linkedin.com/jobs/view/devops-engineer-gitops-kubernetes-at-grit-solutions-4466872699?position=53&pageNum=0&refId=CcS5kyWlNF6LzhcNpQC8kA%3D%3D&trackingId=2O0gljGaQzjgr3rA96u9Gw%3D%3D",
     "full_time": true,
@@ -2108,16 +2098,6 @@
     "posted_date": "2026-10-09",
     "description": null,
     "first_seen": "2026-10-23T14:09:31.013516"
-  },
-  "43ba4789562dc911144abaaf8ee2629b": {
-    "url": "https://fr.linkedin.com/jobs/view/devops-at-hilti-group-4461185006?position=48&pageNum=0&refId=fvruD2drLs5StR7uf%2FW25Q%3D%3D&trackingId=TWMyTtUxXurizgfbpxldKw%3D%3D",
-    "full_time": true,
-    "title": "DevOps",
-    "company_name": "Hilti Group",
-    "location": "Boulogne-Billancourt, \u00cele-de-France, France",
-    "posted_date": "2026-09-04",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:31.013520"
   },
   "ca2ad2ee8718c463aec27e4644fcbb70": {
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-devops-h-f-at-scalian-4477809768?position=49&pageNum=0&refId=fvruD2drLs5StR7uf%2FW25Q%3D%3D&trackingId=gu2PyEPKCeNBxd4Myh%2Fcsg%3D%3D",
@@ -4118,16 +4098,6 @@
     "posted_date": "2026-09-11",
     "description": null,
     "first_seen": "2026-10-23T14:09:31.043197"
-  },
-  "8ee2db7765c47ee9b1279953a4bd0b19": {
-    "url": "https://ro.linkedin.com/jobs/view/ai-gateway-platform-devops-engineer-at-undelucram-ro-4462333959?position=52&pageNum=0&refId=tf%2FTFv54OG31DsJf5avouQ%3D%3D&trackingId=m6VHMb7ANVFcws5ZG4%2BdTQ%3D%3D",
-    "full_time": true,
-    "title": "AI Gateway Platform DevOps Engineer",
-    "company_name": "Undelucram.ro",
-    "location": "Ia\u015fi, Ia\u015fi, Romania",
-    "posted_date": "2026-09-05",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:31.043201"
   },
   "de86619e0b2981d12f60e524e00aec0c": {
     "url": "https://ro.linkedin.com/jobs/view/site-reliability-engineer-at-avalara-4471688922?position=6&pageNum=0&refId=s7GLJP%2BU47yb9mM9f32OGg%3D%3D&trackingId=tDpqR81h9gnNH00XrRZt1A%3D%3D",
@@ -7578,5 +7548,25 @@
     "posted_date": "2026-10-22",
     "description": null,
     "first_seen": "2026-11-02T19:07:25.358183"
+  },
+  "f3377aa07e3d38771bad7df7fee2cf32": {
+    "url": "https://pl.linkedin.com/jobs/view/software-engineering-intern-%E2%80%93-genesis-platform-at-tomtom-4486046082?position=3&pageNum=0&refId=LT%2FBH7ZE7BVbz9w281clXg%3D%3D&trackingId=FQURZ%2FLeoUKdtOFTT5un%2FQ%3D%3D",
+    "full_time": false,
+    "title": "Software Engineering Intern \u2013 Genesis Platform",
+    "company_name": "TomTom",
+    "location": "\u0141\u00f3d\u017a, \u0141\u00f3dzkie, Poland",
+    "posted_date": "2026-11-03",
+    "description": null,
+    "first_seen": "2026-11-04T16:49:43.829622"
+  },
+  "338c6fceaf4a73db2e117cf5997e553b": {
+    "url": "https://ro.linkedin.com/jobs/view/embedded-software-engineer-intern-at-analog-devices-4484672470?position=2&pageNum=0&refId=HoFJzUxlPql2OCHSAGjzSA%3D%3D&trackingId=4436QJMRA4PgEnG9AxX8eA%3D%3D",
+    "full_time": false,
+    "title": "Embedded Software Engineer Intern",
+    "company_name": "Analog Devices",
+    "location": "Cluj-Napoca, Cluj, Romania",
+    "posted_date": "2026-11-03",
+    "description": null,
+    "first_seen": "2026-11-04T16:49:43.832883"
   }
 }

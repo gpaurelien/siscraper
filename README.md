@@ -1,14 +1,26 @@
-# Summer 2027 opportunities
+# Summer 2026 opportunities
 
 This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 758 offers  
-- Internships: 44  
-- Full-time: 714
+Total: 757 offers  
+- Internships: 46  
+- Full-time: 711
 
-## Internships (44 offers)
+## Internships (46 offers)
+
+### TomTom
+- **Position:** Software Engineering Intern – Genesis Platform
+- **Location:** Łódź, Łódzkie, Poland
+- **Posted on:** 2026-11-03
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-intern-%E2%80%93-genesis-platform-at-tomtom-4486046082?position=3&pageNum=0&refId=LT%2FBH7ZE7BVbz9w281clXg%3D%3D&trackingId=FQURZ%2FLeoUKdtOFTT5un%2FQ%3D%3D)
+
+### Analog Devices
+- **Position:** Embedded Software Engineer Intern
+- **Location:** Cluj-Napoca, Cluj, Romania
+- **Posted on:** 2026-11-03
+- [Apply here](https://ro.linkedin.com/jobs/view/embedded-software-engineer-intern-at-analog-devices-4484672470?position=2&pageNum=0&refId=HoFJzUxlPql2OCHSAGjzSA%3D%3D&trackingId=4436QJMRA4PgEnG9AxX8eA%3D%3D)
 
 ### delaware BeLux
 - **Position:** Internship SAP Public Cloud & AI
@@ -275,7 +287,7 @@ Total: 758 offers
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4469179320?position=1&pageNum=0&refId=r%2Fm5lmTA65KpCHsQVcb8hA%3D%3D&trackingId=Mp1wPUWJatYse%2Be6PZEnYQ%3D%3D)
 
 
-## Full-time positions (714 offers)
+## Full-time positions (711 offers)
 
 ### Fyld
 - **Position:** Site Reliability Engineer
@@ -4542,22 +4554,4 @@ Total: 758 offers
 - **Location:** Lyon, Auvergne-Rhône-Alpes, France
 - **Posted on:** 2026-09-07
 - [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-devops-cloud-f-h-at-orange-business-4361440596?position=7&pageNum=0&refId=BcPoudfFG1YvD4r93y4H%2Bw%3D%3D&trackingId=MJ0d3CG0NnPf07jIU%2BL2lA%3D%3D)
-
-### Undelucram.ro
-- **Position:** AI Gateway Platform DevOps Engineer
-- **Location:** Iaşi, Iaşi, Romania
-- **Posted on:** 2026-09-05
-- [Apply here](https://ro.linkedin.com/jobs/view/ai-gateway-platform-devops-engineer-at-undelucram-ro-4462333959?position=52&pageNum=0&refId=tf%2FTFv54OG31DsJf5avouQ%3D%3D&trackingId=m6VHMb7ANVFcws5ZG4%2BdTQ%3D%3D)
-
-### team.it
-- **Position:** DevOps Engineer
-- **Location:** Lisbon Metropolitan Area
-- **Posted on:** 2026-09-04
-- [Apply here](https://pt.linkedin.com/jobs/view/devops-engineer-at-team-it-4117959731?position=51&pageNum=0&refId=CcS5kyWlNF6LzhcNpQC8kA%3D%3D&trackingId=HJ8BXjREQrb0%2BrTG%2BqCKug%3D%3D)
-
-### Hilti Group
-- **Position:** DevOps
-- **Location:** Boulogne-Billancourt, Île-de-France, France
-- **Posted on:** 2026-09-04
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-at-hilti-group-4461185006?position=48&pageNum=0&refId=fvruD2drLs5StR7uf%2FW25Q%3D%3D&trackingId=TWMyTtUxXurizgfbpxldKw%3D%3D)
 
