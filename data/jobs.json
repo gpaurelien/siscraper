@@ -979,16 +979,6 @@
     "description": null,
     "first_seen": "2026-10-23T14:09:31.004603"
   },
-  "e5b9e40d3d694ee664b1449c3230d2e2": {
-    "url": "https://pt.linkedin.com/jobs/view/05-site-reliability-engineer-at-ppm-coachers-4464339866?position=32&pageNum=0&refId=blCNiQgv88Twmb87NmBcSQ%3D%3D&trackingId=ehiHqjZ8fgnHmZcFNTwL%2BQ%3D%3D",
-    "full_time": true,
-    "title": "05 -  Site Reliability Engineer",
-    "company_name": "PPM Coachers",
-    "location": "Lisboa, Lisbon, Portugal",
-    "posted_date": "2026-09-07",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:31.004606"
-  },
   "2b3ee62d1c76504def1fe5b99ab3f13d": {
     "url": "https://pt.linkedin.com/jobs/view/site-reliability-engineer-m-f-d-at-much-consulting-4478991636?position=35&pageNum=0&refId=blCNiQgv88Twmb87NmBcSQ%3D%3D&trackingId=GUXYyROx8RoWZdeG2pQtNw%3D%3D",
     "full_time": true,
@@ -2079,16 +2069,6 @@
     "description": null,
     "first_seen": "2026-10-23T14:09:31.013508"
   },
-  "395ad7075a25d7309d698f1eaad298d1": {
-    "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-ing%C3%A9nieur-devops-h-f-at-helpline-4461884727?position=46&pageNum=0&refId=fvruD2drLs5StR7uf%2FW25Q%3D%3D&trackingId=6Phv%2F1eZxdh%2BrdotR%2ByJug%3D%3D",
-    "full_time": true,
-    "title": "D\u00e9veloppeur/Ing\u00e9nieur DevOps H/F",
-    "company_name": "HELPLINE",
-    "location": "Nantes, Pays de la Loire, France",
-    "posted_date": "2026-09-07",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:31.013514"
-  },
   "c491986afd79b073e947e6bca3260db9": {
     "url": "https://fr.linkedin.com/jobs/view/devops-engineer-h-f-at-exalt-4467833219?position=47&pageNum=0&refId=fvruD2drLs5StR7uf%2FW25Q%3D%3D&trackingId=8pqICRmjtK%2B6R4x9EVOH8g%3D%3D",
     "full_time": true,
@@ -2468,16 +2448,6 @@
     "posted_date": "2026-10-08",
     "description": null,
     "first_seen": "2026-10-23T14:09:31.016976"
-  },
-  "e492d4ffaa1c6ce006146defc7b83244": {
-    "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-devops-cloud-f-h-at-orange-business-4361440596?position=7&pageNum=0&refId=BcPoudfFG1YvD4r93y4H%2Bw%3D%3D&trackingId=MJ0d3CG0NnPf07jIU%2BL2lA%3D%3D",
-    "full_time": true,
-    "title": "Ing\u00e9nieur DevOps / Cloud F/H",
-    "company_name": "Orange Business",
-    "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
-    "posted_date": "2026-09-07",
-    "description": null,
-    "first_seen": "2026-10-23T14:09:31.016980"
   },
   "d9147db1d08d8b27e04f9bd44654d73b": {
     "url": "https://fr.linkedin.com/jobs/view/aws-cloud-engineer-h-f-at-deloitte-4463574012?position=8&pageNum=0&refId=BcPoudfFG1YvD4r93y4H%2Bw%3D%3D&trackingId=LZkCdLcfbJT2pEIrlzxlEQ%3D%3D",
@@ -7568,5 +7538,55 @@
     "posted_date": "2026-11-03",
     "description": null,
     "first_seen": "2026-11-04T16:49:43.832883"
+  },
+  "5ec3ad19555d462848028ad21e485f78": {
+    "url": "https://pl.linkedin.com/jobs/view/software-qa-engineer-intern-ai-powered-at-a1qa-4485899932?position=22&pageNum=0&refId=u9kcbIkI0Ap3NfE3Tx7WHQ%3D%3D&trackingId=7a%2FBYXsukdIWiaNmQ1X6DQ%3D%3D",
+    "full_time": false,
+    "title": "Software QA Engineer Intern (AI-Powered)",
+    "company_name": "a1qa",
+    "location": "Gda\u0144sk, Pomorskie, Poland",
+    "posted_date": "2026-11-06",
+    "description": null,
+    "first_seen": "2026-11-06T16:34:55.800893"
+  },
+  "97857bf83b873875365751c53b13a89d": {
+    "url": "https://ro.linkedin.com/jobs/view/internship-junior-software-developer-at-systematic-4485309993?position=35&pageNum=0&refId=iqHIj%2B1wpGORw1BwbgO%2BKw%3D%3D&trackingId=H7GQggZ0oNiZQiYRioqNpA%3D%3D",
+    "full_time": false,
+    "title": "Internship: Junior Software Developer",
+    "company_name": "Systematic",
+    "location": "Bucharest, Bucharest, Romania",
+    "posted_date": "2026-10-30",
+    "description": null,
+    "first_seen": "2026-11-06T16:34:55.802908"
+  },
+  "b7ccfb8077922528de30de0b84536e80": {
+    "url": "https://fi.linkedin.com/jobs/view/research-intern-cyber-physical-systems-at-ericsson-4486986183?position=7&pageNum=0&refId=QE6oiwMR3fTHN45l%2BaI7dA%3D%3D&trackingId=wQh6bGsEXbSIapg5IeVJuQ%3D%3D",
+    "full_time": false,
+    "title": "Research Intern: Cyber-Physical Systems",
+    "company_name": "Ericsson",
+    "location": "Kirkkonummi, Uusimaa, Finland",
+    "posted_date": "2026-11-06",
+    "description": null,
+    "first_seen": "2026-11-06T16:34:55.808962"
+  },
+  "b958e8f3d7d63741039e2b2b1e5cf106": {
+    "url": "https://se.linkedin.com/jobs/view/software-developer-intern-stockholm-summer-2027-at-nasdaq-4488014478?position=1&pageNum=0&refId=Ocrgsbu1ehhwQctbH6hA3Q%3D%3D&trackingId=qJaa0pZJPpuU8BjfWVE8KQ%3D%3D",
+    "full_time": false,
+    "title": "Software Developer Intern - Stockholm Summer 2027",
+    "company_name": "Nasdaq",
+    "location": "Stockholm, Stockholm County, Sweden",
+    "posted_date": "2026-11-06",
+    "description": null,
+    "first_seen": "2026-11-06T16:34:55.810924"
+  },
+  "5529237640fef0b19d773dbbfa4694f1": {
+    "url": "https://cz.linkedin.com/jobs/view/intern-%E2%80%93-software-firmware-test-at-thermo-fisher-scientific-4485867838?position=3&pageNum=0&refId=9HfLJB7SXu1VPi5aoIq3kA%3D%3D&trackingId=9YGFPvefABS7z0qlk%2FhEag%3D%3D",
+    "full_time": false,
+    "title": "Intern \u2013 Software/Firmware Test",
+    "company_name": "Thermo Fisher Scientific",
+    "location": "Brno, South Moravia, Czechia",
+    "posted_date": "2026-11-05",
+    "description": null,
+    "first_seen": "2026-11-06T16:34:55.818897"
   }
 }

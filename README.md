@@ -4,11 +4,35 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 757 offers  
-- Internships: 46  
-- Full-time: 711
+Total: 759 offers  
+- Internships: 51  
+- Full-time: 708
 
-## Internships (46 offers)
+## Internships (51 offers)
+
+### a1qa
+- **Position:** Software QA Engineer Intern (AI-Powered)
+- **Location:** Gdańsk, Pomorskie, Poland
+- **Posted on:** 2026-11-06
+- [Apply here](https://pl.linkedin.com/jobs/view/software-qa-engineer-intern-ai-powered-at-a1qa-4485899932?position=22&pageNum=0&refId=u9kcbIkI0Ap3NfE3Tx7WHQ%3D%3D&trackingId=7a%2FBYXsukdIWiaNmQ1X6DQ%3D%3D)
+
+### Ericsson
+- **Position:** Research Intern: Cyber-Physical Systems
+- **Location:** Kirkkonummi, Uusimaa, Finland
+- **Posted on:** 2026-11-06
+- [Apply here](https://fi.linkedin.com/jobs/view/research-intern-cyber-physical-systems-at-ericsson-4486986183?position=7&pageNum=0&refId=QE6oiwMR3fTHN45l%2BaI7dA%3D%3D&trackingId=wQh6bGsEXbSIapg5IeVJuQ%3D%3D)
+
+### Nasdaq
+- **Position:** Software Developer Intern - Stockholm Summer 2027
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2026-11-06
+- [Apply here](https://se.linkedin.com/jobs/view/software-developer-intern-stockholm-summer-2027-at-nasdaq-4488014478?position=1&pageNum=0&refId=Ocrgsbu1ehhwQctbH6hA3Q%3D%3D&trackingId=qJaa0pZJPpuU8BjfWVE8KQ%3D%3D)
+
+### Thermo Fisher Scientific
+- **Position:** Intern – Software/Firmware Test
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2026-11-05
+- [Apply here](https://cz.linkedin.com/jobs/view/intern-%E2%80%93-software-firmware-test-at-thermo-fisher-scientific-4485867838?position=3&pageNum=0&refId=9HfLJB7SXu1VPi5aoIq3kA%3D%3D&trackingId=9YGFPvefABS7z0qlk%2FhEag%3D%3D)
 
 ### TomTom
 - **Position:** Software Engineering Intern – Genesis Platform
@@ -39,6 +63,12 @@ Total: 757 offers
 - **Location:** Bucharest, Bucharest, Romania
 - **Posted on:** 2026-10-30
 - [Apply here](https://ro.linkedin.com/jobs/view/intern-bachelors-software-engineering-qa-automation-1-year-full-time-contract-at-honeywell-technologies-4485369127?position=46&pageNum=0&refId=tbvkXPFOHp%2F1p%2FLdxliX9g%3D%3D&trackingId=%2BCiooP7qXZ7ulFWaLIx5Cg%3D%3D)
+
+### Systematic
+- **Position:** Internship: Junior Software Developer
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2026-10-30
+- [Apply here](https://ro.linkedin.com/jobs/view/internship-junior-software-developer-at-systematic-4485309993?position=35&pageNum=0&refId=iqHIj%2B1wpGORw1BwbgO%2BKw%3D%3D&trackingId=H7GQggZ0oNiZQiYRioqNpA%3D%3D)
 
 ### Nasdaq
 - **Position:** Software Developer Intern - Summer 2027
@@ -287,7 +317,7 @@ Total: 757 offers
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4469179320?position=1&pageNum=0&refId=r%2Fm5lmTA65KpCHsQVcb8hA%3D%3D&trackingId=Mp1wPUWJatYse%2Be6PZEnYQ%3D%3D)
 
 
-## Full-time positions (711 offers)
+## Full-time positions (708 offers)
 
 ### Fyld
 - **Position:** Site Reliability Engineer
@@ -4536,22 +4566,4 @@ Total: 757 offers
 - **Location:** Solna, Stockholm County, Sweden
 - **Posted on:** 2026-09-08
 - [Apply here](https://se.linkedin.com/jobs/view/azure-cloud-engineer-at-it-total-sweden-ab-4464487254?position=41&pageNum=0&refId=ks80OiorsA9TYZ5LfKYcvg%3D%3D&trackingId=C4nxQ99LSe6gYKHO5TeVbw%3D%3D)
-
-### PPM Coachers
-- **Position:** 05 -  Site Reliability Engineer
-- **Location:** Lisboa, Lisbon, Portugal
-- **Posted on:** 2026-09-07
-- [Apply here](https://pt.linkedin.com/jobs/view/05-site-reliability-engineer-at-ppm-coachers-4464339866?position=32&pageNum=0&refId=blCNiQgv88Twmb87NmBcSQ%3D%3D&trackingId=ehiHqjZ8fgnHmZcFNTwL%2BQ%3D%3D)
-
-### HELPLINE
-- **Position:** Développeur/Ingénieur DevOps H/F
-- **Location:** Nantes, Pays de la Loire, France
-- **Posted on:** 2026-09-07
-- [Apply here](https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-ing%C3%A9nieur-devops-h-f-at-helpline-4461884727?position=46&pageNum=0&refId=fvruD2drLs5StR7uf%2FW25Q%3D%3D&trackingId=6Phv%2F1eZxdh%2BrdotR%2ByJug%3D%3D)
-
-### Orange Business
-- **Position:** Ingénieur DevOps / Cloud F/H
-- **Location:** Lyon, Auvergne-Rhône-Alpes, France
-- **Posted on:** 2026-09-07
-- [Apply here](https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-devops-cloud-f-h-at-orange-business-4361440596?position=7&pageNum=0&refId=BcPoudfFG1YvD4r93y4H%2Bw%3D%3D&trackingId=MJ0d3CG0NnPf07jIU%2BL2lA%3D%3D)
 
