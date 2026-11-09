@@ -4,11 +4,23 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-Total: 759 offers  
-- Internships: 51  
-- Full-time: 708
+Total: 754 offers  
+- Internships: 55  
+- Full-time: 699
 
-## Internships (51 offers)
+## Internships (55 offers)
+
+### Ericsson
+- **Position:** Software Developer Summer Intern: Transport Automation
+- **Location:** Kirkkonummi, Uusimaa, Finland
+- **Posted on:** 2026-11-09
+- [Apply here](https://fi.linkedin.com/jobs/view/software-developer-summer-intern-transport-automation-at-ericsson-4487911087?position=1&pageNum=0&refId=MXJVjNcEOB0L4Rg34YHGBw%3D%3D&trackingId=fWKkuHh0YrZ1fyW66il9qg%3D%3D)
+
+### Ericsson
+- **Position:** Software Developer Summer Intern: IMS GW (Test Tools & Automation)
+- **Location:** Kirkkonummi, Uusimaa, Finland
+- **Posted on:** 2026-11-09
+- [Apply here](https://fi.linkedin.com/jobs/view/software-developer-summer-intern-ims-gw-test-tools-automation-at-ericsson-4487692975?position=2&pageNum=0&refId=MXJVjNcEOB0L4Rg34YHGBw%3D%3D&trackingId=%2Bc03NsdZfa6NUfEeRxtAjQ%3D%3D)
 
 ### a1qa
 - **Position:** Software QA Engineer Intern (AI-Powered)
@@ -27,6 +39,12 @@ Total: 759 offers
 - **Location:** Stockholm, Stockholm County, Sweden
 - **Posted on:** 2026-11-06
 - [Apply here](https://se.linkedin.com/jobs/view/software-developer-intern-stockholm-summer-2027-at-nasdaq-4488014478?position=1&pageNum=0&refId=Ocrgsbu1ehhwQctbH6hA3Q%3D%3D&trackingId=qJaa0pZJPpuU8BjfWVE8KQ%3D%3D)
+
+### SAP
+- **Position:** SAP Labs iXp Intern - Software Developer
+- **Location:** Brno, South Moravia, Czechia
+- **Posted on:** 2026-11-06
+- [Apply here](https://cz.linkedin.com/jobs/view/sap-labs-ixp-intern-software-developer-at-sap-4486248824?position=14&pageNum=0&refId=pqqiT7Y6P9zfrnTegkyMOQ%3D%3D&trackingId=1aZrGCXgaO4%2FHZvmUv7G2g%3D%3D)
 
 ### Thermo Fisher Scientific
 - **Position:** Intern – Software/Firmware Test
@@ -135,6 +153,12 @@ Total: 759 offers
 - **Location:** Cracow, Małopolskie, Poland
 - **Posted on:** 2026-10-21
 - [Apply here](https://pl.linkedin.com/jobs/view/intern-software-qa-engineer-fusion-at-autodesk-4481135241?position=3&pageNum=0&refId=qQYtrdzygd0b5h6wi8vp0g%3D%3D&trackingId=d2N4BAQ5dS51RMyDgl%2B9nQ%3D%3D)
+
+### Intel
+- **Position:** Intern Software QA Test Engineer
+- **Location:** Gdańsk, Pomorskie, Poland
+- **Posted on:** 2026-10-21
+- [Apply here](https://pl.linkedin.com/jobs/view/intern-software-qa-test-engineer-at-intel-4481123212?position=57&pageNum=0&refId=QsN3rOxoGCGldUj23PCgAA%3D%3D&trackingId=ZhBmpid%2Fg2LAKVBA46FBaQ%3D%3D)
 
 ### ARQUIMEA
 - **Position:** IT Systems Administration Internship
@@ -317,7 +341,7 @@ Total: 759 offers
 - [Apply here](https://cz.linkedin.com/jobs/view/software-engineering-intern-at-second-foundation-4469179320?position=1&pageNum=0&refId=r%2Fm5lmTA65KpCHsQVcb8hA%3D%3D&trackingId=Mp1wPUWJatYse%2Be6PZEnYQ%3D%3D)
 
 
-## Full-time positions (708 offers)
+## Full-time positions (699 offers)
 
 ### Fyld
 - **Position:** Site Reliability Engineer
@@ -4512,58 +4536,4 @@ Total: 759 offers
 - **Location:** Kongsberg, Viken, Norway
 - **Posted on:** 2026-09-11
 - [Apply here](https://no.linkedin.com/jobs/view/vi-s%C3%B8ker-platform-engineer-at-bouvet-asa-4466393506?position=59&pageNum=0&refId=CYAsnfkapGKjSm8eI8cv2Q%3D%3D&trackingId=hktGgp7csRVKlEZbgt90ew%3D%3D)
-
-### Amadeus
-- **Position:** Internship - DevOps Engineer
-- **Location:** Villeneuve-Loubet, Provence-Alpes-Côte d'Azur, France
-- **Posted on:** 2026-09-10
-- [Apply here](https://fr.linkedin.com/jobs/view/internship-devops-engineer-at-amadeus-4464546275?position=55&pageNum=0&refId=SuTBr04gkog1KC6QBq2EeA%3D%3D&trackingId=Hy5uSdPRRTTvcYstVM2LEg%3D%3D)
-
-### Eccera IT Professionals Sverige
-- **Position:** Infrastrukturspecialist inom DevOps
-- **Location:** Danderyd, Stockholm County, Sweden
-- **Posted on:** 2026-09-10
-- [Apply here](https://se.linkedin.com/jobs/view/infrastrukturspecialist-inom-devops-at-eccera-it-professionals-sverige-4429518793?position=11&pageNum=0&refId=h%2F%2F3fljoPPnU1kQPteICBQ%3D%3D&trackingId=v%2BAOXav2ondprylyOClfFg%3D%3D)
-
-### Meramia Technologies LTD
-- **Position:** Performance & Systems Engineer
-- **Location:** Time, Rogaland, Norway
-- **Posted on:** 2026-09-10
-- [Apply here](https://no.linkedin.com/jobs/view/performance-systems-engineer-at-meramia-technologies-ltd-4465690319?position=55&pageNum=0&refId=7YxxV9rRjGRNB%2BH%2FJlP13g%3D%3D&trackingId=uFq04Vp82zoB0N5JquqrAg%3D%3D)
-
-### Euronext
-- **Position:** DevOps - Site Reliability Engineer – Digital Assets
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-09-09
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-site-reliability-engineer-%E2%80%93-digital-assets-at-euronext-4443912103?position=2&pageNum=0&refId=bx8CSZ3dsH3zIGzpTaocIA%3D%3D&trackingId=TYCOLeeeBiKrz0SpyhYwVg%3D%3D)
-
-### ISS Tech Team
-- **Position:** Cloud Hosting Engineer (Kubernetes)
-- **Location:** Porto, Porto, Portugal
-- **Posted on:** 2026-09-08
-- [Apply here](https://pt.linkedin.com/jobs/view/cloud-hosting-engineer-kubernetes-at-iss-tech-team-4462286770?position=40&pageNum=0&refId=EcMWtSHxR%2BMyzWQnvlNzUA%3D%3D&trackingId=yU7cNLfMCIRy1G6kpS7e3Q%3D%3D)
-
-### Panel Sistemas Informaticos
-- **Position:** DevOps Engineer | Azure & Azure DevOps | Remoto
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-09-08
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-azure-azure-devops-remoto-at-panel-sistemas-informaticos-4473438755?position=18&pageNum=0&refId=TAD4ovY%2BIji3tXdGTEsPrw%3D%3D&trackingId=OH8zyB%2FV9m6Y6z1174QyzA%3D%3D)
-
-### Sopra Steria
-- **Position:** DevOps Engineer Cloud Database con inglés
-- **Location:** Madrid, Community of Madrid, Spain
-- **Posted on:** 2026-09-08
-- [Apply here](https://es.linkedin.com/jobs/view/devops-engineer-cloud-database-con-ingl%C3%A9s-at-sopra-steria-4464622093?position=40&pageNum=0&refId=ovehkOZZ6k4WtbJDIjmFGg%3D%3D&trackingId=SZrhKXJPFylDzH4Cq21jnQ%3D%3D)
-
-### ALTEN
-- **Position:** DevOps Engineer (experienced, permanent contract)
-- **Location:** Valbonne, Provence-Alpes-Côte d'Azur, France
-- **Posted on:** 2026-09-08
-- [Apply here](https://fr.linkedin.com/jobs/view/devops-engineer-experienced-permanent-contract-at-alten-4462503758?position=15&pageNum=0&refId=HKIaRPUxs3ruwAYtdkRLiQ%3D%3D&trackingId=Ow8HW5pQRjiJeefAkxan%2FA%3D%3D)
-
-### IT-Total Sweden AB
-- **Position:** Azure Cloud Engineer
-- **Location:** Solna, Stockholm County, Sweden
-- **Posted on:** 2026-09-08
-- [Apply here](https://se.linkedin.com/jobs/view/azure-cloud-engineer-at-it-total-sweden-ab-4464487254?position=41&pageNum=0&refId=ks80OiorsA9TYZ5LfKYcvg%3D%3D&trackingId=C4nxQ99LSe6gYKHO5TeVbw%3D%3D)
 
