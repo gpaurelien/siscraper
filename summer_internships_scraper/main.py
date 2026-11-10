@@ -11,24 +11,27 @@ from summer_internships_scraper.utils.markdown_export import export_to_markdown
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-
 async def main():
     scraper = LinkedInScraper(HOST)
     repo = JobRepository("data/jobs.json")
 
     async with aiohttp.ClientSession() as session:
         tasks = []
+        flag = 0
         for location, geo_id in LOCATIONS.items():
-            for role in ROLES:
+            for ind, role in enumerate(ROLES):
+                if ind == 3:
+                    flag = 1
                 logger.info(f"Fetching jobs for {location}")
                 tasks.append(
                     scraper.fetch_jobs(
                         location=(geo_id, location),
                         keywords=role,
                         session=session,
-                        full_time=False if role == "Intern" else True,
+                        full_time=False if not flag else True,
                     )
                 )
+            flag = 0
 
         results = await asyncio.gather(*tasks)  # TODO: use workers instead of `gather()`
 

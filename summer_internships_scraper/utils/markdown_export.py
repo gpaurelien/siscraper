@@ -18,7 +18,7 @@ def export_to_markdown(jobs: t.List[dict], output_file: str = "README.md"):
     total_internships = len(internships)
     total_full_time = len(full_time_jobs)
 
-    content = f"""# Summer 2026 opportunities
+    content = f"""# Summer 2027 opportunities
 
 This list gets updated daily.
 

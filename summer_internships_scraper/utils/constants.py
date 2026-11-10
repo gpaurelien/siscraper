@@ -5,6 +5,8 @@ LOCATIONS = {
     "Poland": "105072130",
     "Roumanie": "106670623",
     "Swiss": "106693272",
+    "Austria": "103883259",
+    "Luxembourg": "104042105",
     "Alpes-Maritimes": "103314674",  # personally interested in this location
     "Finlande": "100456013",
     "Sweden": "105117694",
@@ -29,6 +31,13 @@ HEADERS = {
     "Sec-Fetch-User": "?1",
 }
 
-ROLES = {
+ROLES = (
     "Intern",
-}
+    "Summer",
+    "Summer Program",
+    "Platform",
+    "Cloud",
+    "DevOps",
+    "Infrastructure",
+    "Site Reliability"
+)
