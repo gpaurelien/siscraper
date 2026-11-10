@@ -32,11 +32,7 @@ Total: 1074 offers
 - **Position:** Software Developer Summer Intern: Transport Automation
 - **Location:** Kirkkonummi, Uusimaa, Finland
 - **Posted on:** 2026-11-09
-<<<<<<< HEAD
-- [Apply here](https://fi.linkedin.com/jobs/view/software-developer-summer-intern-transport-automation-at-ericsson-4487911087?position=1&pageNum=0&refId=MXJVjNcEOB0L4Rg34YHGBw%3D%3D&trackingId=fWKkuHh0YrZ1fyW66il9qg%3D%3D)
-=======
 - [Apply here](https://fi.linkedin.com/jobs/view/software-developer-summer-intern-transport-automation-at-ericsson-4487911087?position=1&pageNum=0&refId=FPhTNdfxp%2BBfJYsuwaq2mg%3D%3D&trackingId=xsuUoDC14FL4OIoEWDkzFg%3D%3D)
->>>>>>> edcbf88 (Retrieve remote branch upgrade commit)
 
 ### Ericsson
 - **Position:** Software Developer Summer Intern: IMS GW (Test Tools & Automation)
@@ -79,12 +75,6 @@ Total: 1074 offers
 - **Location:** Stockholm, Stockholm County, Sweden
 - **Posted on:** 2026-11-06
 - [Apply here](https://se.linkedin.com/jobs/view/software-developer-intern-stockholm-summer-2027-at-nasdaq-4488014478?position=1&pageNum=0&refId=5lcNy1AZXrmPpZg6KkzFvA%3D%3D&trackingId=BW%2Bp%2FilM9Z007xk75drPsQ%3D%3D)
-
-### SAP
-- **Position:** SAP Labs iXp Intern - Software Developer
-- **Location:** Brno, South Moravia, Czechia
-- **Posted on:** 2026-11-06
-- [Apply here](https://cz.linkedin.com/jobs/view/sap-labs-ixp-intern-software-developer-at-sap-4486248824?position=14&pageNum=0&refId=pqqiT7Y6P9zfrnTegkyMOQ%3D%3D&trackingId=1aZrGCXgaO4%2FHZvmUv7G2g%3D%3D)
 
 ### Thermo Fisher Scientific
 - **Position:** Intern – Software/Firmware Test
@@ -6461,35 +6451,9 @@ Total: 1074 offers
 - **Posted on:** 2026-09-14
 - [Apply here](https://be.linkedin.com/jobs/view/system-infrastructure-engineer-at-polysense-4467069606?position=14&pageNum=0&refId=qR3vr1496E417PsaZTlRpg%3D%3D&trackingId=3BovH5CAyxEwkR5LUWn10g%3D%3D)
 
-<<<<<<< HEAD
-### Swan
-- **Position:** Confirmed Site Reliability Engineer
-- **Location:** Paris, Île-de-France, France
-- **Posted on:** 2026-09-12
-- [Apply here](https://fr.linkedin.com/jobs/view/confirmed-site-reliability-engineer-at-swan-4465185399?position=8&pageNum=0&refId=bx8CSZ3dsH3zIGzpTaocIA%3D%3D&trackingId=zDZEwlWXVrItuc04dncxxw%3D%3D)
-
-### Capgemini
-- **Position:** Snowflake DevOps Engineer
-- **Location:** Iaşi, Iaşi, Romania
-- **Posted on:** 2026-09-11
-- [Apply here](https://ro.linkedin.com/jobs/view/snowflake-devops-engineer-at-capgemini-4466022923?position=49&pageNum=0&refId=tf%2FTFv54OG31DsJf5avouQ%3D%3D&trackingId=CyWdNSq8wChOk0roQWzd9A%3D%3D)
-
-### Bouvet ASA
-- **Position:** Vil du forme fremtidens skyplattformer som cloud engineer?
-- **Location:** Trondheim, Trøndelag, Norway
-- **Posted on:** 2026-09-11
-- [Apply here](https://no.linkedin.com/jobs/view/vil-du-forme-fremtidens-skyplattformer-som-cloud-engineer%3F-at-bouvet-asa-4466402506?position=17&pageNum=0&refId=CYAsnfkapGKjSm8eI8cv2Q%3D%3D&trackingId=BSZKP39a6y2lTgrf3%2BhTZw%3D%3D)
-
-### Bouvet ASA
-- **Position:** Vi søker Platform Engineer
-- **Location:** Kongsberg, Viken, Norway
-- **Posted on:** 2026-09-11
-- [Apply here](https://no.linkedin.com/jobs/view/vi-s%C3%B8ker-platform-engineer-at-bouvet-asa-4466393506?position=59&pageNum=0&refId=CYAsnfkapGKjSm8eI8cv2Q%3D%3D&trackingId=hktGgp7csRVKlEZbgt90ew%3D%3D)
-=======
 ### Second Foundation
 - **Position:** Platform Engineer
 - **Location:** Prague, Prague, Czechia
 - **Posted on:** 2026-09-14
 - [Apply here](https://cz.linkedin.com/jobs/view/platform-engineer-at-second-foundation-4467099141?position=43&pageNum=0&refId=u4oCMYA2NcGhS%2FiU1GDEvw%3D%3D&trackingId=4%2FabAaOJjnyrcSnp9tRORg%3D%3D)
->>>>>>> edcbf88 (Retrieve remote branch upgrade commit)
 
